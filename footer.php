@@ -58,6 +58,11 @@
     <!-- ---- Info -->
     <div class="row footer__info">
       <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+        <div>
+          <a href="index.php" class="d-flex align-items-center header__bottom_logo">
+            <img src="assets/img/banner/New-Project2.png" alt="" />
+          </a>
+        </div>
         <div class="footer__info_address">
           <h3 class="footer__info_group">Address</h3>
           <p class="text-light" style="color: #fff;">526, 5TH FLOOR, DLF TOWER A, JASOLA,

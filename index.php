@@ -14,9 +14,9 @@
   <div class="container-fluid" style="background-image: url(assets/img/banner/home-banner.jpg); height: 600px;">
     <div class="row">
       <div class="col-lg-8">
-        <div class="banner__content_title" style="margin-top: 60px; margin-left: 40px;">
+        <div class="banner__content_title" style="margin-top: 60px;">
           <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            Design.Consult.
+            Design.Consult.<br>
             Advertise. </h1>
           <p data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
             High-quality, relevant content is essential for engaging <br>
@@ -28,10 +28,10 @@
             <span> Get A Quote</span>
             <img src="assets/icons/arrow-up-right.svg" alt="" />
           </button>
-          <button class="common__btn buttons_outline mt-4 mt-sm-0">
+          <!-- <button class="common__btn buttons_outline mt-4 mt-sm-0">
             <span>More About Us</span>
             <img src="assets/icons/arrow-up-right-yellow.svg" alt="" />
-          </button>
+          </button> -->
         </div>
       </div>
     </div>

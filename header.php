@@ -67,6 +67,8 @@
           </a>
         </div>
         <nav class="header__bottom_navbar">
+          <button class="btn  navbar-toggler" style="color: #14b1bb ;" type="button" data-bs-toggle="offcanvas" data-bs-target="#staticBackdrop" aria-controls="staticBackdrop"> <span class="navbar-toggler-icon"></span>
+          </button>
           <ul class="d-xl-flex menu__list">
             <li class="dropdown__container">
               <div class="d-flex justify-content-between align-items-center gap-1">
@@ -170,3 +172,17 @@
   </div>
   <!-- --- Bottom header End -->
 </header>
+
+
+
+
+
+
+<!-- errrorrr -->
+
+
+
+
+
+
+<!-- offcnvas-->

@@ -257,4 +257,15 @@
     /* column-gap: 40px; */
 }
 
-.vision>p {}
+.bh {
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+@media (min-width: 576px) {
+    .bh {
+        margin-top: 60px;
+        margin-left: 20px;
+        background-color: #F2D381;
+    }
+}
