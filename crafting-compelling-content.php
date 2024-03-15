@@ -171,13 +171,6 @@
                 Encourage readers to engage with your content by inviting comments, questions, and feedback. Respond promptly to comments and messages, and foster a sense of community by acknowledging and thanking your audience for their contributions. Encourage social sharing by including social media buttons and sharing prompts to make it easy for readers to share your content with their networks.
 
               </p>
-              <!-- <p>
-                Bushwick post-ironic af fixie, wayfarers kombucha direct trade
-                air plant meditation palo santo asymmetrical salvia blue
-                bottle. 3 wolf moon subway tile fam, cronut cray put a bird on
-                it why is a common is kombucha gentrify available for your
-                next project pok pok.
-              </p> -->
             </div>
             <div class="second__para">
               <h5 class="t__28">Measuring Success</h5>
