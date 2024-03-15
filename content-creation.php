@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+  <!-- --------------- Start Header ------------ -->
+  <?php include('header.php'); ?>
+  <!-- --------------- End Header ------------ -->
+
+  <!-- --------------- Start page header ----------- -->
+  <section class="page__header position-relative">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
+          <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" />
+          <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" />
+          <div class="text-center" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <h2>Service Details</h2>
+            <div class="d-flex justify-content-center gap-2">
+              <a href="index.html">Home</a>
+              <span>/</span>
+              <a href="services.html">
+                <p>Service</p>
+              </a>
+              <span>/</span>
+              <p>Digital-Marketing Services</p>
+            </div>
+
+          </div>
+          <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" />
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- --------------- End page header ----------- -->
+
+  <!--  start service details -->
+
+  <article class="service__details py__130">
+    <div class="container">
+      <img src="assets/img/services/s2.jpg" alt="" class="w-100 thumb__img" />
+      <div class="first__para pt__60">
+        <h2 class="t__54" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+          Content Creation
+        </h2>
+        <p>
+          Digital Marketing Services involve leveraging various digital channels and tactics to effectively promote your
+          brand, products, or services to your target audience. This encompasses a range of strategies, including Search
+          Engine Optimization (SEO), Search Engine Marketing (SEM), Social Media Marketing (SMM), email marketing, and
+          Pay-Per-Click (PPC) advertising.
+        </p>
+        <h4 class="t__28 mt-5">
+          Search Engine Optimization (SEO)
+        </h4>
+        <p>
+          This involves optimizing your website to improve its visibility and ranking on search engine results pages
+          (SERPs). Through strategic techniques such as keyword research, on-page optimization, and link building, SEO
+          aims to increase organic traffic to your website and enhance its authority in search engine algorithms.
+        </p>
+      </div>
+      <div class="second__para pt__60">
+        <!-- <div class="row justify-content-between align-items-center">
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <img src="assets/img/projects/4.png" alt="" class="w-100" />
+          </div>
+          <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0"
+            data-aos-duration="1000">
+            <div>
+              <h4 class="t__28">
+                Our premium detail package makes your vehicle look & smell
+                like new again,
+              </h4>
+              <ul>
+                <li>Online Booking System now</li>
+                <li>Special Offers and Discounts for you!</li>
+                <li>Sustainability Initiatives</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        </div> -->
+        <div class="thred__para pt__50">
+          <h5 class="t__28">Search Engine Marketing (SEM)</h5>
+          <p>
+            SEM involves paid advertising on search engines like Google or Bing to increase your website's visibility in
+            search engine results. With SEM, you can target specific keywords and demographics, allowing you to reach
+            potential customers actively searching for products or services similar to yours.
+          </p>
+          <!-- <ul class="d-flex justify-content-between align-items-center flex-wrap gap-3" data-aos="fade-up"
+            data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <li>Low Cost Our Fee</li>
+            <li>Available 24 hours</li>
+            <li>Skilled Mechanic</li>
+            <li>Warranty & Maintenance</li>
+          </ul> -->
+        </div>
+        <div class="fourt__para">
+          <h5 class="t__28">Social Media Marketing (SMM): </h5>
+          <p>
+            SMM involves promoting your brand and engaging with your audience on various social media platforms such as
+            Facebook, Instagram, Twitter, LinkedIn, and others. Through strategic content creation, community
+            engagement, and targeted advertising, SMM helps build brand awareness, drive website traffic, and foster
+            customer loyalty.
+          </p>
+        </div>
+        <div class="fourt__para">
+          <h5 class="t__28">Email Marketing </h5>
+          <p>
+            Email marketing is a direct communication channel used to reach out to your target audience through
+            personalized email campaigns. By delivering valuable content, promotions, and updates directly to
+            subscribers' inboxes, email marketing helps nurture leads, retain customers, and drive conversions.
+          </p>
+        </div>
+        <div class="fourt__para">
+          <h5 class="t__28">Pay-Per-Click (PPC) Advertising</h5>
+          <p>
+            PPC advertising involves bidding on keywords and paying a fee each time your ad is clicked. This allows you
+            to display your ads prominently on search engine results pages and other digital platforms, ensuring
+            targeted traffic to your website and maximizing your return on investment (ROI).
+          </p>
+          <p>
+            In today's digital landscape, businesses can boost their online visibility, more effectively reach their
+            target audience, and ultimately drive growth and success by employing these digital marketing services.
+          </p>
+        </div>
+      </div>
+  </article>
+
+  <!--  End service details -->
+
+  <!-- --------------- start Footer ----------- -->
+  <?php include('footer.php'); ?>
+</body>
+
+</html>

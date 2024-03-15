@@ -1,0 +1,260 @@
+.intro>p {
+    font-size: 18px;
+}
+
+.ser>h1 {
+    font-size: 60px;
+    /* font-weight: bold; */
+    color: #E3ECE7;
+}
+
+.ser-col {
+    border-radius: 20px;
+    background-color: #E3ECE7;
+    width: 90%;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+
+}
+
+@media (max-width: 575.98px) {
+    .ser-col {
+        border-radius: 20px;
+        background-color: #E3ECE7;
+        width: 100%;
+        display: grid;
+        justify-content: center;
+        align-content: center;
+
+    }
+}
+
+.ser-col:hover {
+    box-shadow: 5px 10px 30px 10px #142220;
+    transition: 0.5s ease all;
+}
+
+.ser-col>h2 {
+    color: #142220;
+    font-size: 36px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ser-col>h2:hover {
+    color: #417972;
+    font-size: 36px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ser-col>img {
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    /* display: grid; */
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.ser-col>button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #417972;
+    padding: 10px 10px;
+    color: #E3ECE7;
+}
+
+.ser-col>button:hover {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #142220;
+    padding: 10px 10px;
+    color: #E3ECE7;
+    transition: 0.5s ease-in-out all;
+}
+
+.ser-bt>button {
+    border: none;
+    border-radius: 15px;
+    width: 200px;
+    padding: 20px 10px;
+    background-color: #142220;
+    color: #E3ECE7;
+}
+
+.ser-bt>a {
+    border: none;
+    border-radius: 15px;
+    width: 200px;
+    padding: 20px 10px;
+    padding-right: 10px;
+    background-color: #142220;
+    color: #E3ECE7;
+}
+
+.ser-bt>button:hover {
+    background-color: #F2D381;
+    color: #417972;
+}
+
+.common__btn_h {
+    outline: none;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    font-weight: 600;
+    padding: 15px 32px;
+    /* background-color: #cf41c9;
+    border: 1px solid #cf41c9; */
+    background-color: #fa991c;
+    border: 1px solid #fa991c;
+    color: #ffffff;
+    transition: all .5s
+}
+
+.common__btn2 {
+    outline: none;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    font-weight: 600;
+    padding: 15px 32px;
+    /* background-color: #cf41c9;
+    border: 1px solid #cf41c9; */
+    background-color: #fa991c;
+    border: 1px solid #fa991c;
+    color: #fff;
+    transition: all .5s;
+    margin-left: 40%;
+
+}
+
+.ul.sl {
+    list-style-type: circle;
+}
+
+.modal-header>h1 {
+    font-size: 40px;
+    color: #142220;
+    text-align: center;
+
+}
+
+.modal-body>p {
+    font-size: 18px;
+    color: #142220;
+}
+
+
+
+.work>img {
+    height: auto;
+    width: 100%;
+    /* margin-right: 50px; */
+    object-fit: cover;
+    border-radius: 25px;
+
+}
+
+.dmcard>img {
+    border-radius: 25px;
+}
+
+.why {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.whycard {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 50px;
+    gap: 2px;
+    border: #142220 solid 1px;
+    background-color: aquamarine;
+}
+
+.modal {
+    /* background-color: aquamarine; */
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+}
+
+.title>span {
+    font-size: 60px;
+    /* background-color: #417972; */
+}
+
+@media (max-width: 575.98px) {
+    .intro>h1>span {
+        font-size: 30px;
+        /* background-color: #417972; */
+    }
+}
+
+.abe {
+    margin-top: 10px;
+}
+
+@media (max-width: 575.98px) {
+    .abe {
+        margin-top: 10px;
+    }
+}
+
+.vsm>h1 {
+    font-size: 60px;
+}
+
+.vssm {
+    /* column-gap-right: 20px; */
+    /* column-count: 2; */
+}
+
+.mission {
+    border-radius: 20px;
+    background-color: #1c768f;
+
+    height: auto;
+    float: left;
+    border-right: dotted #ffffff;
+}
+
+.mission>p {
+    color: #fff;
+}
+
+.mission>h2 {
+    color: #fff;
+}
+
+.vision>h2 {
+    color: #fff;
+}
+
+.vision>p {
+    color: #fff;
+}
+
+.vision {
+    border-radius: 20px;
+    background-color: #032539;
+    height: auto;
+    float: right;
+    border-left: dotted #ffffff;
+    /* column-count: 2; */
+    /* column-gap: 40px; */
+}
+
+.vision>p {}
