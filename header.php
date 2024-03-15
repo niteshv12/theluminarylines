@@ -89,17 +89,17 @@
                 <i class="bi bi-chevron-down"></i>
               </div>
 
-                <ul class="dropdown__container_menu">
-                  <li>
-                    <a href="digital-marketing.php">Digital Marketing</a>
-                  </li>
-                  <!-- <li>
+              <ul class="dropdown__container_menu">
+                <li>
+                  <a href="digital-marketing.php">Digital Marketing</a>
+                </li>
+                <!-- <li>
                     <a href="Content-Creation.php">Content Creation</a>
                   </li>
                   <li>
                     <a href="services.php">Services</a>
                   </li> -->
-                  <!-- <li>
+                <!-- <li>
                     <a href="Web-Development.php">Web Development</a>
                   </li>
                   <li>
@@ -163,7 +163,7 @@
           </a>
         </div>
         <div class="menu__icon d-block d-xl-none">
-          <i class="bi bi-list"></i>
+          <i class="bi bi-list" style="color: #fff;"></i>
         </div>
       </div>
     </div>

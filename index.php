@@ -28,10 +28,10 @@
             <span> Get A Quote</span>
             <img src="assets/icons/arrow-up-right.svg" alt="" />
           </button>
-          <!-- <button class="common__btn buttons_outline mt-4 mt-sm-0">
-        <span>More About Us</span>
-        <img src="assets/icons/arrow-up-right-yellow.svg" alt="" />
-      </button> -->
+          <button class="common__btn buttons_outline mt-4 mt-sm-0">
+            <span>More About Us</span>
+            <img src="assets/icons/arrow-up-right-yellow.svg" alt="" />
+          </button>
         </div>
       </div>
     </div>
@@ -101,7 +101,7 @@
   <!-- --------------- End Banner ----------- -->
 
   <!-- --------------- Start About ----------- -->
-  <section class="about py__40" id="about">
+  <section class="about py__40 " id="about">
     <div class="container">
       <div class="row justify-content-between about__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <div class="col-lg-10">
@@ -164,7 +164,7 @@
                 <span>Quality marketing</span>
               </li>
             </ul>
-            <div class="col-lg-6 mt-5 ms-auto" style="position: absolute; left: 30%; z-index: 25px;">
+            <div class="col-lg-6 mt-5 ms-auto d-sm-block d-none " style="position: absolute; left: 30%; z-index: 25px;" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
               <a href="contact.php" class="circle">
                 <img src="assets/icons/arrow-up-right-yellow.svg" alt="" class="yellow" />
                 <img src="assets/icons/arrow-up-rignt-black.svg" alt="" class="black" />
@@ -200,7 +200,6 @@
           </ul>
         </div> -->
       </div>
-
       <!-- ------ partner start -->
       <div class="partner">
         <div class="partner__wapper">
@@ -347,7 +346,7 @@
   </section> -->
   <!-- new services end -->
   <!-- --------------- Start Services ----------- -->
-  <section class="services py__80" id="services">
+  <section class="services py__80 " id="services">
     <div class="container position-relative">
       <div class="row text-center ser">
         <h1 class="mt-4">
@@ -722,7 +721,7 @@
   </section> -->
   <!-- --------------- End Projects ----------- -->
   <!-- --------------- project  start ----------- -->
-  <section class="all__project " style="padding-top: 200px;">
+  <section class="all__project" style="padding-top: 200px;">
     <div class="container">
       <!-- title Start -->
       <div data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" class=" text-center mb-4">
@@ -828,7 +827,7 @@
   </section>
   <!-- --------------- project  end ----------- -->
   <!-- --------------- pricing start ----------- -->
-  <section class="pricing pt__5">
+  <section class="pricing pt__5 ">
     <div class="container">
       <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <h1 class="title text-center">
@@ -1020,7 +1019,7 @@
   <!-- --------------- pricing end ----------- -->
 
   <!-- --------------- Start Testimonial ----------- -->
-  <section class="testimonial py__60">
+  <section class="testimonial py__60 ">
     <div class="container position-relative">
       <!-- title Start -->
       <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
