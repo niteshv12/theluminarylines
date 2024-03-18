@@ -1,12 +1,18 @@
+<!doctype html>
+<html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Luminarylines</title>
-  <!-- --------- Link Bootstrap Icons  -->
+  <title>Title</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  <!-- Bootstrap CSS v5.2.1 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" crossorigin="anonymous" />
   <script src="https://kit.fontawesome.com/1cbbb02fe6.js" crossorigin="anonymous"></script>
   <!-- --------- font awsome Icons  -->
-
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
   <!-- --------- Link aos animation  -->
   <link rel="stylesheet" href="assets/css/aos.css" />
@@ -58,118 +64,7 @@
   <!-- --- Top header End -->
 
   <!-- --- Bottom header Start -->
-  <div class="header__bottom">
-    <div class="container">
-      <div class="d-flex align-items-center justify-content-between">
-        <div>
-          <a href="index.php" class="d-flex align-items-center header__bottom_logo">
-            <img src="assets/img/banner/New-Project2.png" alt="" />
-          </a>
-        </div>
-        <nav class="header__bottom_navbar">
-          <button class="btn  navbar-toggler" style="color: #14b1bb ;" type="button" data-bs-toggle="offcanvas" data-bs-target="#staticBackdrop" aria-controls="staticBackdrop"> <span class="navbar-toggler-icon"></span>
-          </button>
-          <ul class="d-xl-flex menu__list">
-            <li class="dropdown__container">
-              <div class="d-flex justify-content-between align-items-center gap-1">
-                <a href="index.php"> Home </a>
-                <!-- <i class="bi bi-chevron-down"></i> -->
-              </div>
-              <!-- <ul class="dropdown__container_menu">
-              <li><a href="index.html">Home 1</a></li>
-              <li><a href="index2.html">Home 2</a></li>
-            </ul> -->
-            </li>
-            <li class="dropdown__container">
-              <div class="d-flex justify-content-between align-items-center gap-1">
-                <a href="who-we-are.php">Who Are We? </a>
-              </div>
-            </li>
-            <li class="dropdown__container">
-              <div class="d-flex justify-content-between align-items-center gap-1">
-                <a href="#">Services </a>
-                <i class="bi bi-chevron-down"></i>
-              </div>
 
-              <ul class="dropdown__container_menu">
-                <li>
-                  <a href="digital-marketing.php">Digital Marketing</a>
-                </li>
-                <!-- <li>
-                    <a href="Content-Creation.php">Content Creation</a>
-                  </li>
-                  <li>
-                    <a href="services.php">Services</a>
-                  </li> -->
-                <!-- <li>
-                    <a href="Web-Development.php">Web Development</a>
-                  </li>
-                  <li>
-                    <a href="Graphic-Designing.php">Graphic Designing</a>
-                  </li>
-                  <li>
-                    <a href="Consulting.php">Consulting</a>
-                  </li>
-                  <li>
-                    <a href="Brand-Identity.php">Brand Identity</a>
-                  </li> -->
-              </ul>
-            </li>
-            <li class="dropdown__container">
-              <div class="d-flex justify-content-between align-items-center gap-1">
-                <a href="#">Our Work </a>
-                <i class="bi bi-chevron-down"></i>
-              </div>
-
-              <ul class="dropdown__container_menu">
-                <li>
-                  <a href="faq.php"> Faq</a>
-                </li>
-                <!-- <li>
-                    <a href="pricing.php">Our Work</a>
-                  </li> -->
-                <!-- <li>
-                <a href="projects.html">Projects</a>
-              </li>
-              <li>
-                <a href="project_details.html">Project Details</a>
-              </li> -->
-              </ul>
-            </li>
-            <li class="dropdown__container">
-              <div class="d-flex justify-content-between align-items-center gap-1">
-                <a href="blog.php"> Blogs </a>
-                <i class="bi bi-chevron-down"></i>
-              </div>
-
-              <!-- <ul class="dropdown__container_menu">
-              <li>
-                <a href="blog.html">Blog</a>
-              </li>
-              <li>
-                <a href="blog_details.html">Blog Details</a>
-              </li>
-            </ul> -->
-            </li>
-            <li class="dropdown__container">
-              <div class="d-flex justify-content-between align-items-center gap-1">
-                <a href="contact.php"> Contact-us </a>
-              </div>
-            </li>
-          </ul>
-        </nav>
-        <div class="d-xl-block d-none">
-          <a href="" class="common__btn_h">
-            <span> Get A Quote</span>
-            <img src="assets/icons/arrow-up-right.svg" alt="" />
-          </a>
-        </div>
-        <div class="menu__icon d-block d-xl-none">
-          <i class="bi bi-list" style="color: #fff;"></i>
-        </div>
-      </div>
-    </div>
-  </div>
   <!-- --- Bottom header End -->
 </header>
 
@@ -186,3 +81,109 @@
 
 
 <!-- offcnvas-->
+
+
+<nav class="navbar navbar-expand-lg">
+  <div class="container nav-con">
+    <a class="navbar-brand" href="#"><img src="assets/img/banner/New-Project2.png" alt="" /></a>
+    <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+      <span class="navbar-toggler-icon bg-dark"></span>
+    </button> -->
+    <button class="navbar-toggler ms-auto btn-light" type="button" data-bs-toggle="offcanvas" data-bs-target="#staticBackdrop" aria-controls="staticBackdrop">
+      <span class="navbar-toggler-icon t"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav justify-content-between align-items-center">
+        <li class="dropdown__container">
+          <div class="d-flex justify-content-between align-items-center ga">
+            <a href="index.php">Home </a>
+          </div>
+        </li>
+        <li class="dropdown__container ms-4">
+          <div class="d-flex justify-content-between align-items-center ga">
+            <a href="who-we-are.php">Who Are We? </a>
+          </div>
+        </li>
+
+
+        <li class="dropdown ms-4 ga"><a href="#"><span>Services </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+          <ul>
+            <li><a href="digital-marketing.php">Digital Marketing</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown ms-4 ga"><a href="#"><span>Our Work </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+          <ul>
+            <li><a href="faq.php">Faq's</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown__container ms-4">
+          <div class="d-flex justify-content-between align-items-center ga">
+            <a href="blog.php">Blogs </a>
+          </div>
+        </li>
+        <li class="dropdown__container ms-4">
+          <div class="d-flex justify-content-between align-items-center ga">
+            <a href="contact.php">Contact Us </a>
+          </div>
+        </li>
+      </ul>
+      <div class="d-xl-block d-none ms-auto">
+        <a href="contact.php" class="common__btn_h">
+          <span> Get A Quote</span>
+          <img src="assets/icons/arrow-up-right.svg" alt="" />
+        </a>
+      </div>
+
+    </div>
+  </div>
+</nav>
+
+
+
+<div class="offcanvas offcanvas-start" data-bs-backdrop="static" tabindex="-1" id="staticBackdrop" aria-labelledby="staticBackdropLabel">
+  <div class="offcanvas-header">
+    <a class="navbar-brand" href="#"><img src="assets/img/banner/New-Project2.png" alt="" /></a>
+    <button type="button btn-light" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body ">
+    <ul class="navbar-nav justify-content-between align-items-center">
+      <li class="dropdown__container mt-5">
+        <div class="d-flex justify-content-between align-items-center  off">
+          <a href="index.php">Home </a>
+        </div>
+      </li>
+      <li class="dropdown__container mt-5">
+        <div class="d-flex justify-content-between align-items-center   off">
+          <a href="who-we-are.php">Who Are We? </a>
+        </div>
+      </li>
+
+
+      <li class="dropdown mt-5 off"><a href="#"><span>Services </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+        <ul>
+          <li><a href="digital-marketing.php">Digital Marketing</a></li>
+
+        </ul>
+      </li>
+      <li class="dropdown mt-5 off"><a href="#"><span>Our Work </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+        <ul>
+          <li class="off"><a href="faq.php">Faq's</a></li>
+
+        </ul>
+      </li>
+      <li class="dropdown__container mt-5 ">
+        <div class="d-flex justify-content-between align-items-center off">
+          <a href="blog.php">Blogs </a>
+        </div>
+      </li>
+      <li class="dropdown__container mt-5 ">
+        <div class="d-flex justify-content-between align-items-center off">
+          <a href="contact.php">Contact Us </a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>

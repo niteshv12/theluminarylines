@@ -3,26 +3,40 @@
 
     jQuery(document).on('ready', function () {
 
-        const dropdownIcon = document.querySelectorAll(".dropdown__container")
-        const dropdownMenu = document.querySelectorAll(".dropdown__container_menu")
-        dropdownIcon.forEach((ele, index) => {
-            ele.addEventListener("click", () => {
-                console.log("click")
-                dropdownMenu.forEach((ele, id) => {
-                    if (index === id) {
-                        ele.classList.toggle("dropdown__container_menu-active")
-                    }
-                })
+        //     const dropdownIcon = document.querySelectorAll(".dropdown__container")
+        //     const dropdownMenu = document.querySelectorAll(".dropdown__container_menu")
+        //     dropdownIcon.forEach((ele, index) => {
+        //         ele.addEventListener("click", () => {
+        //             console.log("click")
+        //             dropdownMenu.forEach((ele, id) => {
+        //                 if (index === id) {
+        //                     ele.classList.toggle("dropdown__container_menu-active")
+        //                 }
+        //             })
+        //         })
+        //     })
+
+        //     const menuIcon = document.querySelector(".menu__icon");
+        //     const bottomNavbar = document.querySelector(".header__bottom_navbar")
+        //     menuIcon.addEventListener("click", () => {
+        //         bottomNavbar.classList.toggle("header__bottom_navbar-active")
+        //     })
+
+        const navDropdowns = document.querySelectorAll('.navbar .dropdown > a');
+
+        navDropdowns.forEach(el => {
+            el.addEventListener('click', function (event) {
+                if (document.querySelector('.mobile-nav-active')) {
+                    event.preventDefault();
+                    this.classList.toggle('active');
+                    this.nextElementSibling.classList.toggle('dropdown-active');
+
+                    let dropDownIndicator = this.querySelector('.dropdown-indicator');
+                    dropDownIndicator.classList.toggle('bi-chevron-up');
+                    dropDownIndicator.classList.toggle('bi-chevron-down');
+                }
             })
-        })
-
-        const menuIcon = document.querySelector(".menu__icon");
-        const bottomNavbar = document.querySelector(".header__bottom_navbar")
-        menuIcon.addEventListener("click", () => {
-            bottomNavbar.classList.toggle("header__bottom_navbar-active")
-        })
-
-
+        });
         function toggleOptions() {
             var options = document.getElementById('customSelect').getElementsByClassName('select-options')[0];
             options.style.display = options.style.display === 'none' ? 'block' : 'none';

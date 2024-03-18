@@ -167,7 +167,7 @@
       <div class="col-lg-6 vision">
         <h2 class=" mt-5 ms-5 mb-5 me-5 text-light">Our Mission</h2>
         <p class="review text-light mt-5 ms-5 mb-5 me-5">
-        Our mission at Luminary Lines is to achieve this vision with utmost professionalism. We are dedicated to providing tailored solutions that align with the unique goals of each brand. Through strategic thinking, innovative approaches, and a relentless pursuit of excellence, we aim to propel our clients toward their goals and set new benchmarks in the industry.
+          Our mission at Luminary Lines is to achieve this vision with utmost professionalism. We are dedicated to providing tailored solutions that align with the unique goals of each brand. Through strategic thinking, innovative approaches, and a relentless pursuit of excellence, we aim to propel our clients toward their goals and set new benchmarks in the industry.
         </p>
       </div>
     </div>
@@ -286,7 +286,7 @@
     <!-- <div class="container">
       <div data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" class=" text-center mb-4">
         <h1 class="title text-center">Why Luminary Lines ?</h1>
-        <p class="text-center text-light mt-5">Discover Luminary Lines, your gateway to unparalleled expertise,
+        <p class="text-center text-dark mt-5">Discover Luminary Lines, your gateway to unparalleled expertise,
           innovative
           solutions, and unwavering commitment to your brand's success. With our industry-leading services, tailored
           strategies, and results-driven approach, we stand ready to be your trusted partner in achieving your business

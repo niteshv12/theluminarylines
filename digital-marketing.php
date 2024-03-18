@@ -13,13 +13,13 @@
         <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
           <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
           <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
-          <div class="banner__content_title" style="margin-top: 60px; margin-left: 40px;">
-            <h1 data-aos="fade-up text-dark mt-5 ms-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" style="margin-left:150px;">
-              Service </h1> 
-              <div class="d-flex justify-content-center gap-2" style="margin-left:150px;">
-                <a href="index.php">Home</a>
-                <span>/</span> <a href="digital-marketing.php">Service</a>
-              </div>
+          <div class="banner__content_title-s">
+            <h1 data-aos="fade-up text-dark mt-5 ms-5 mt-sm-5 ms-sm-2" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" style="margin-left:150px;">
+              Services </h1>
+            <div class="d-flex justify-content-center gap-2" style="margin-left:150px;">
+              <a href="index.php">Home</a>
+              <span>/</span> <a href="digital-marketing.php">Services</a>
+            </div>
           </div>
           <!-- <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" /> -->
         </div>
@@ -291,7 +291,7 @@
       <div class="row text-center">
         <h1 style="font-size: 56px;">How We Work</h1>
         <p class="text-dark mt-4 mb-4">
-        We believe in collaboration, creativity, and results. We start by understanding your brand's needs, then unleash our creativity to deliver tailored solutions. With open communication and continuous optimization, we ensure your success every step of the way.
+          We believe in collaboration, creativity, and results. We start by understanding your brand's needs, then unleash our creativity to deliver tailored solutions. With open communication and continuous optimization, we ensure your success every step of the way.
         </p>
       </div>
     </div>

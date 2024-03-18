@@ -437,59 +437,26 @@ p {
     opacity: .9
 }
 
-.header__top {
-    background-color: var(--main-clr);
-    color: var(--primary-clr);
-    padding: 18px 0
-}
-
-.header__top p {
-    margin-bottom: 0;
-    color: var(--primary-clr)
-}
-
-.header__top_left {
-    gap: 13px
-}
-
-.header__top_left .time {
-    font-weight: 600
-}
-
-.header__top_contact {
-    gap: 18px
-}
-
-.header__top_contact p {
-    font-weight: 600;
-    font-size: 18px
-}
-
-.header__top_contact .line {
-    width: 1px;
-    height: 18px;
-    background-color: var(--primary-clr)
-}
-
-.header__top_contact .icons {
-    gap: 16px
-}
-
-.header__top_contact .icons a {
-    transition: all .5s
-}
-
-.header__top_contact .icons a:hover {
-    color: var(--btn-clr)
-}
-
 .header__bottom {
+    position: -webkit-sticky;
+    position: sticky;
     background-color: var(--btn-clr);
     padding: 24px 0;
-    position: relative;
-    z-index: 1000
+    /* position: relative; */
+    z-index: 1000;
+
 }
 
+.header__bottom_logo h5 {
+    font-size: 34px;
+    color: var(--secondary-clr)
+}
+
+.header__bottom_logo>img {
+    width: 40%;
+}
+
+/* 
 .header__bottom_logo h5 {
     font-size: 34px;
     color: var(--secondary-clr)
@@ -536,11 +503,14 @@ p {
 
 .header__bottom_navbar .menu__list i {
     cursor: pointer
+} */
+
+/* 
+.header__bottom_navbar .dropdown__container {
+    position: relative;
 }
 
-.header__bottom_navbar .dropdown__container {
-    position: relative
-}
+@media(max-width: 576px) {}
 
 .header__bottom_navbar .dropdown__container_menu {
     position: absolute;
@@ -594,7 +564,7 @@ p {
         visibility: visible;
         opacity: 1
     }
-}
+} */
 
 .header__bottom_navbar-active {
     left: 0
@@ -605,15 +575,19 @@ p {
     gap: 2px
 }
 
-.header__bottom .menu__icon i {
+/* .header__bottom .menu__icon i {
     font-size: 32px;
     cursor: pointer
-}
+} */
 
 .banner {
     background-color: #ffffff;
     padding-top: 107px;
     padding-bottom: 108px
+}
+
+.header__bottom_logo>img {
+    width: 40%;
 }
 
 .banner__content {
@@ -3326,6 +3300,7 @@ p {
     min-height: 468px
 }
 
+
 .faq {
     max-width: 1096px;
     margin: auto;
@@ -3333,8 +3308,7 @@ p {
 }
 
 .faq .title {
-    /* color: var(--secondary-clr); */
-    color: #000;
+    color: var(--secondary-clr);
     max-width: 873px;
     margin: auto
 }
@@ -3346,7 +3320,7 @@ p {
 .faq .faq__wapper .accordion-item {
     background-color: rgba(0, 0, 0, 0);
     border-bottom: 1px solid var(--secondary-clr);
-    border-radius: 30px;
+    border-radius: 0
 }
 
 .faq .faq__wapper .accordion-item .accordion-header .accordion-button {
@@ -3354,8 +3328,7 @@ p {
     background-color: rgba(0, 0, 0, 0);
     font-size: 20px;
     font-weight: 400;
-    /* color: var(--secondary-clr); */
-    color: #FA991C;
+    color: var(--secondary-clr);
     border: unset;
     font-size: 28px;
     font-family: Kanit;
@@ -3363,8 +3336,7 @@ p {
     line-height: 38px;
     padding: 0;
     padding-top: 40px;
-    padding-bottom: 39px;
-    margin: 0px 25px;
+    padding-bottom: 39px
 }
 
 @media(max-width: 768px) {
@@ -3382,9 +3354,7 @@ p {
 }
 
 .faq .faq__wapper .accordion-body p {
-    /* color: #6e6f75; */
-    margin: 0px 25px;
-    color: #f9f9f9;
+    color: #6e6f75;
     font-weight: 400;
     line-height: 30px
 }
