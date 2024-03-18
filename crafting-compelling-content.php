@@ -334,10 +334,10 @@
               <h5 class="t__22 text-dark">Categories</h5>
               <ul>
                 <li>
-                  <a href="">General Construction</a>
-                  <p>(09)</p>
+                  <a href="digital-marketing.php">Digital Marketing</a>
+                  <!-- <p>(09)</p> -->
                 </li>
-                <li>
+                <!-- <li>
                   <a href="">Unique UI Design</a>
                   <p>(12)</p>
                 </li>
@@ -348,7 +348,7 @@
                 <li>
                   <a href="">Business Policy</a>
                   <p>(09)</p>
-                </li>
+                </li> -->
               </ul>
             </div>
             <!-- -- Categories -->
