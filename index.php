@@ -6,6 +6,7 @@
 
 <body class="home1">
   <!-- --------------- Start Header ------------ -->
+
   <?php include('header.php'); ?>
   <!-- --------------- End Header ------------ -->
 
@@ -245,11 +246,11 @@
               <h3 class="t__54">
                 About Us
               </h3>
-              <p class="pt__50 text-light">
+              <p class="pt__50 text-dark">
                 Luminary Lines is an esteemed advertising, consulting, and design firm. Our purpose is to elevate brands
                 and boost their success through innovative solutions.
               </p>
-              <p class="para2 text-light">
+              <p class="para2 text-dark">
                 Your all-in-one destination for advertising, consulting, and designing excellence.
                 We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting
                 insights, and delivering stunning designs that elevate your brand.
@@ -726,7 +727,7 @@
       <!-- title Start -->
       <div data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" class=" text-center mb-4">
         <h1 class="title text-center">Why Luminary Lines ?</h1>
-        <p class="text-center text-light mt-5">Discover Luminary Lines, your gateway to unparalleled expertise,
+        <p class="text-center text-dark mt-5">Discover Luminary Lines, your gateway to unparalleled expertise,
           innovative
           solutions, and unwavering commitment to your brand's success. With our industry-leading services, tailored
           strategies, and results-driven approach, we stand ready to be your trusted partner in achieving your business

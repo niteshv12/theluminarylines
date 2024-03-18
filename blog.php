@@ -14,7 +14,7 @@
         <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
           <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
           <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
-          <div class="banner__content_title bh">
+          <div class="banner__content_title ">
             <h1 data-aos="fade-up text-dark mt-5 ms-5 ms-sm-2" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" style="margin-left:150px;">
               Blogs </h1>
             <div class="d-flex justify-content-center gap-2" style="margin-left:150px;">
