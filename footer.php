@@ -95,13 +95,13 @@
           <h3 class="footer__info_group">Quick Links</h3>
           <ul>
             <li>
-              <a href="">Home</a>
+              <a href="index.php">Home</a>
             </li>
             <li>
-              <a href="">Our All Services</a>
+              <a href="digital-marketing.php">Our All Services</a>
             </li>
             <li>
-              <a href="">About Luminary Lines</a>
+              <a href="who-we-are.php">About Luminary Lines</a>
             </li>
           </ul>
         </div>
@@ -111,10 +111,10 @@
           <h3 class="footer__info_group">Help</h3>
           <ul>
             <li>
-              <a href="">Contact Us</a>
+              <a href="contact.php">Contact Us</a>
             </li>
             <li>
-              <a href="">FAQ's</a>
+              <a href="faq.php">FAQ's</a>
             </li>
             <li>
               <a href="">Privacy Pllicy</a>

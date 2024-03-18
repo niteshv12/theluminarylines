@@ -649,77 +649,6 @@
       <!-- -- counter end -->
     </div>
   </section>
-  <!-- --------------- End Services ----------- -->
-
-  <!-- --------------- Start Projects ----------- -->
-  <!-- <section class="projects py__130">
-    <div class="container"> -->
-  <!-- title Start -->
-  <!-- <div data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000"
-        class=" text-center mb-4">
-        <h1 class="title text-center">Why Luminary Lines ?</h1>
-        <p class="text-center text-light mt-5">Discover Luminary Lines, your gateway to unparalleled expertise,
-          innovative
-          solutions, and unwavering commitment to your brand's success. With our industry-leading services, tailored
-          strategies, and results-driven approach, we stand ready to be your trusted partner in achieving your business
-          objectives. Choose Luminary Lines and embark on a journey of transformation and growth in today's
-          competitive landscape.</p>
-        <a href="projects.html" class="circle mt-5 mt-lg-0">
-          <img src="assets/icons/arrow-up-right-yellow.svg" alt="" />
-          <span>View All Blogs</span>
-        </a>
-      </div> -->
-  <!-- title End -->
-
-  <!-- <div class="projects__wapper">
-        <div class="projects__wapper_one">
-          <div class="projects__wapper_card" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0"
-            data-aos-duration="1000">
-            <a href="project_details.html"><img src="assets/img/blogs/w1.jpg" alt="" /></a>
-            <div>
-              <a href="project_details.html" class="prj__title t__28">Industry-leading expertise ensures proficient
-                project handling.</a> -->
-  <!-- <p class="project__group">Marketing / Solution</p> -->
-  <!-- </div>
-          </div>
-          <div class="projects__wapper_card" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0"
-            data-aos-duration="1000">
-            <a href="project_details.html"><img src="assets/img/blogs/w4.jpg" alt="" /></a>
-            <div>
-              <a href="project_details.html" class="prj__title t__28">Creative brilliance that sets your brand apart.
-              </a> -->
-  <!-- <p class="project__group">Marketing / Solution</p> -->
-  <!-- </div>
-          </div>
-        </div>
-        <div class="projects__wapper_two">
-          <div class="projects__wapper_card" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0"
-            data-aos-duration="1000">
-            <a href="project_details.html"><img src="assets/img/blogs/w2.jpg" alt="" /></a>
-            <div>
-              <a href="project_details.html" class="prj__title t__28">Dedicated commitment to exceeding your
-                expectations.
-              </a> -->
-  <!-- <p class="project__group">Marketing / Solution</p> -->
-  <!-- </div>
-          </div>
-
-          <div class="projects__wapper_card" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0"
-            data-aos-duration="1000">
-            <a href="project_details.html"><img src="assets/img/blogs/w3.jpg" alt="" /></a>
-            <div>
-              <a href="project_details.html" class="prj__title t__28">Trusted partnership backed by
-                client satisfaction.</a> -->
-  <!-- <p class="project__group">Marketing / Solution</p> -->
-  <!-- </div>
-          </div>
-        </div>
-      </div>
-
-
-    </div>
-  </section> -->
-  <!-- --------------- End Projects ----------- -->
   <!-- --------------- project  start ----------- -->
   <section class="all__project" style="padding-top: 200px;">
     <div class="container">
@@ -732,10 +661,6 @@
           strategies, and results-driven approach, we stand ready to be your trusted partner in achieving your business
           objectives. Choose Luminary Lines and embark on a journey of transformation and growth in today's
           competitive landscape.</p>
-        <!-- <a href="projects.html" class="circle mt-5 mt-lg-0">
-          <img src="assets/icons/arrow-up-right-yellow.svg" alt="" />
-          <span>View All Blogs</span>
-        </a> -->
       </div>
       <!-- title End -->
       <div class="row mt-5">

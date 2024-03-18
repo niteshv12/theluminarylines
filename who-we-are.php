@@ -283,8 +283,7 @@
   <!-- --------------- End Testimonial ----------- -->
   <!-- --------------- project  start ----------- -->
   <section class="all__project " style="padding-top: 80px;">
-    <div class="container">
-      <!-- title Start -->
+    <!-- <div class="container">
       <div data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" class=" text-center mb-4">
         <h1 class="title text-center">Why Luminary Lines ?</h1>
         <p class="text-center text-light mt-5">Discover Luminary Lines, your gateway to unparalleled expertise,
@@ -293,12 +292,7 @@
           strategies, and results-driven approach, we stand ready to be your trusted partner in achieving your business
           objectives. Choose Luminary Lines and embark on a journey of transformation and growth in today's
           competitive landscape.</p>
-        <!-- <a href="projects.html" class="circle mt-5 mt-lg-0">
-          <img src="assets/icons/arrow-up-right-yellow.svg" alt="" />
-          <span>View All Blogs</span>
-        </a> -->
       </div>
-      <!-- title End -->
       <div class="row mt-5">
         <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <div class="projects__2_card">
@@ -334,62 +328,14 @@
             <div>
               <h4 class="text-dark text-center">Trusted partnership backed by
                 client satisfaction.</h4>
-
             </div>
           </div>
         </div>
-        <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0"
-          data-aos-duration="1000">
-          <div class="projects__2_card">
-            <a href="project_details.html">
-              <img src="assets/img/blogs/w4.jpg" alt="" class="w-100" />
-            </a>
-            <div>
-              <h4 class="text-dark text-center">Creative brilliance that sets your brand apart.</h4>
-
-            </div>
-          </div>
-        </div> -->
-        <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="500" data-aos-offset="0"
-          data-aos-duration="1000">
-          <div class="projects__2_card">
-            <a href="project_details.html">
-              <img src="assets/img/projects/5.png" alt="" class="w-100" />
-            </a>
-            <div>
-              <a href="project_details.html" class="t__28">Paid Media Solution</a>
-              <p class="d-flex align-items-center gap-2">
-                <span>Marketing </span>
-                <span>/ </span>
-                <span>Solution</span>
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0"
-          data-aos-duration="1000">
-          <div class="projects__2_card">
-            <a href="project_details.html">
-              <img src="assets/img/projects/7.png" alt="" class="w-100" />
-            </a>
-            <div>
-              <a href="project_details.html" class="t__28">Paid Media Solution</a>
-              <p class="d-flex align-items-center gap-2">
-                <span>Marketing </span>
-                <span>/ </span>
-                <span>Solution</span>
-              </p>
-            </div>
-          </div>
-        </div> -->
       </div>
 
-    </div>
+    </div> -->
   </section>
   <!-- --------------- project  end ----------- -->
-
-
-
   <!-- --------------- Start Blog ----------- -->
   <section class="blogs blogs__2 " style="margin-top: -140px;">
     <div class=" container">
