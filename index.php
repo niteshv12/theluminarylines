@@ -147,31 +147,37 @@
             </a> -->
           </div>
           <div class="row">
-            <ul class="col-lg-6 about__wapper_right mt-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
-              <li>
-                <img src="assets/icons/checkmark.svg" alt="" />
-                <span>We Grow Businesses</span>
-              </li>
-              <li>
-                <img src="assets/icons/checkmark.svg" alt="" />
-                <span>We’re skilled developers</span>
-              </li>
-              <li>
-                <img src="assets/icons/checkmark.svg" alt="" />
-                <span>Perfect & modern solution</span>
-              </li>
-              <li>
-                <img src="assets/icons/checkmark.svg" alt="" />
-                <span>Quality marketing</span>
-              </li>
-            </ul>
-            <div class="col-lg-6 mt-5 ms-auto d-sm-block d-none " style="position: absolute; left: 30%; z-index: 25px;" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+            <div class="col-lg-6 about__wapper_right mt-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+              <ul>
+                <li>
+                  <img src="assets/icons/checkmark.svg" alt="" />
+                  <span>We Grow Businesses</span>
+                </li>
+                <li>
+                  <img src="assets/icons/checkmark.svg" alt="" />
+                  <span>We’re skilled developers</span>
+                </li>
+                <li>
+                  <img src="assets/icons/checkmark.svg" alt="" />
+                  <span>Perfect & modern solution</span>
+                </li>
+                <li>
+                  <img src="assets/icons/checkmark.svg" alt="" />
+                  <span>Quality marketing</span>
+                </li>
+              </ul>
+              <button class="common__btn buttons_file mt-5" style="background-color: #000; border-style: none;">
+                <span> Get A Quote</span>
+                <img src="assets/icons/arrow-up-right.svg" alt="" />
+              </button>
+            </div>
+            <!-- <div class="col-lg-6 mt-5 ms-auto d-sm-block d-none " style="position: absolute; left: 30%; z-index: 25px;" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
               <a href="contact.php" class="circle">
                 <img src="assets/icons/arrow-up-right-yellow.svg" alt="" class="yellow" />
                 <img src="assets/icons/arrow-up-rignt-black.svg" alt="" class="black" />
                 <span>Get A Quote</span>
               </a>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="col-xl-6 col-lg-6 abe" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
@@ -255,7 +261,7 @@
                 We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting
                 insights, and delivering stunning designs that elevate your brand.
               </p>
-              <button class="common__btn"><a href="who-we-are.php">
+              <button class="common__btn" style="border-style: none;"><a href="who-we-are.php">
                   <span>Know More</span>
                   <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
                 </a>
@@ -346,6 +352,11 @@
     </div>
   </section> -->
   <!-- new services end -->
+
+
+
+
+
   <!-- --------------- Start Services ----------- -->
   <section class="services py__80 " id="services">
     <div class="container position-relative">
@@ -354,8 +365,8 @@
           Our Services
         </h1>
       </div>
-      <div class="row">
-        <div class="col-lg-4  col-md-6 mt-4">
+      <div class="row ser-row justify-content-between align-items-center about__wapper">
+        <div class="g-5">
           <div class="ser-col text-center">
             <img src="assets/img/services/s1.jpg" alt="">
             <h2>Digital Marketing</h2>
@@ -371,7 +382,7 @@
               <li>Pay-Per-Click (PPC) Advertising</li>
             </ul>
             <!-- <button class="btn" type="button">Read More</button> -->
-            <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+            <!-- <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
               <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
                   <div class="modal-header">
@@ -391,13 +402,13 @@
                       and achieve your business goals through digital channels.
                     </p>
                   </div>
-                  <!-- <div class="modal-footer">
+                  <div class="modal-footer">
                   <button class="btn btn-primary" data-bs-target="#exampleModalToggle2" data-bs-toggle="modal">Open second
                     modal</button>
-                </div> -->
+                </div>
                 </div>
               </div>
-            </div>
+            </div> -->
             <!-- <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
             tabindex="-1">
             <div class="modal-dialog modal-dialog-centered">
@@ -416,11 +427,11 @@
               </div>
             </div>
           </div> -->
-            <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Read
+            <button class="btn" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Read
               More</button>
           </div>
         </div>
-        <div class="col-lg-4  col-md-6 mt-4">
+        <div class=" slide">
           <div class="ser-col text-center">
             <img src="assets/img/services/s2.jpg" alt="">
             <h2>Content Creation</h2>
@@ -479,11 +490,11 @@
               </div>
             </div>
           </div> -->
-            <button class="btn btn-primary" data-bs-target="#exampleModalToggle02" data-bs-toggle="modal">Read
+            <button class="btn" data-bs-target="#exampleModalToggle02" data-bs-toggle="modal">Read
               More</button>
           </div>
         </div>
-        <div class="col-lg-4  col-md-6 mt-4">
+        <div class=" slide">
           <div class="ser-col text-center">
             <img src="assets/img/services/s3.jpg" alt="">
             <h2>Graphic Designing</h2>
@@ -541,92 +552,183 @@
               </div>
             </div>
           </div> -->
-            <button class="btn btn-primary" data-bs-target="#exampleModalToggle03" data-bs-toggle="modal">Read
+            <button class="btn" data-bs-target="#exampleModalToggle03" data-bs-toggle="modal">Read
               More</button>
           </div>
         </div>
+
+        <div class="slide">
+          <div class="ser-col text-center">
+            <img src="assets/img/services/s1.jpg" alt="">
+            <h2>Web Development</h2>
+            <ul>
+              <li>Custom Website Design and Development</li>
+              <li>
+                E-commerce Solutions
+              </li>
+              <li>
+                Mobile-Friendly Responsive Design
+              </li>
+              <li>Website Maintenance and Support</li>
+
+            </ul>
+            <!-- <button class="btn" type="button">Read More</button> -->
+            <!-- <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+              <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h1 class="text-center" id="exampleModalToggleLabel">
+                    </h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body">
+                    <p>
+                      Web Development is the process of building the structure and functionality of your website. It involves multiple aspects such as web design, web content development, and coding/programming. It is an essential and integral part of your business, whether small or big.Our web development team specializes in creating responsive and user-friendly websites that not only look great but also function seamlessly across all devices. With expertise in custom website design, e-commerce solutions, and ongoing maintenance and support, we ensure that your online presence reflects the professionalism and quality of your brand.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div> -->
+            <!-- <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
+            tabindex="-1">
+            <div class="modal-dialog modal-dialog-centered">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  Hide this modal and show the first with the button below.
+                </div>
+                <div class="modal-footer">
+                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to
+                    first</button>
+                </div>
+              </div>
+            </div>
+          </div> -->
+            <button class="btn" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Read
+              More</button>
+          </div>
+        </div>
+        <div class="slide">
+          <div class="ser-col text-center">
+            <img src="assets/img/services/s1.jpg" alt="">
+            <h2>Brand Identity</h2>
+            <ul class="">
+              <li>Brand Guidelines Development</li>
+              <li>
+                Brand Positioning and Messaging
+              </li>
+              <li>
+                Brand Identity Consultation
+              </li>
+              <li>Brand Collateral Design</li>
+
+            </ul>
+            <!-- <button class="btn" type="button">Read More</button> -->
+            <!-- <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+              <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h1 class="text-center" id="exampleModalToggleLabel">
+                    </h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body">
+                    <p>
+                      Web Development is the process of building the structure and functionality of your website. It involves multiple aspects such as web design, web content development, and coding/programming. It is an essential and integral part of your business, whether small or big.Our web development team specializes in creating responsive and user-friendly websites that not only look great but also function seamlessly across all devices. With expertise in custom website design, e-commerce solutions, and ongoing maintenance and support, we ensure that your online presence reflects the professionalism and quality of your brand.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div> -->
+            <!-- <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
+            tabindex="-1">
+            <div class="modal-dialog modal-dialog-centered">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  Hide this modal and show the first with the button below.
+                </div>
+                <div class="modal-footer">
+                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to
+                    first</button>
+                </div>
+              </div>
+            </div>
+          </div> -->
+            <button class="btn " data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Read
+              More</button>
+          </div>
+        </div>
+        <div class="slide">
+          <div class="ser-col text-center">
+            <img src="assets/img/services/s1.jpg" alt="">
+            <h2>Consulting</h2>
+            <ul class="">
+              <li>Strategic Planning</li>
+              <li>
+                Market Analysis and Research
+              </li>
+              <li>
+                Brand Strategy Development
+              </li>
+              <li>Digital Marketing Strategy</li>
+              <li>Campaign Optimization</li>
+            </ul>
+            <!-- <button class="btn" type="button">Read More</button> -->
+            <!-- <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+              <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h1 class="text-center" id="exampleModalToggleLabel">
+                    </h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body">
+                    <p>
+                      Web Development is the process of building the structure and functionality of your website. It involves multiple aspects such as web design, web content development, and coding/programming. It is an essential and integral part of your business, whether small or big.Our web development team specializes in creating responsive and user-friendly websites that not only look great but also function seamlessly across all devices. With expertise in custom website design, e-commerce solutions, and ongoing maintenance and support, we ensure that your online presence reflects the professionalism and quality of your brand.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div> -->
+            <!-- <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
+            tabindex="-1">
+            <div class="modal-dialog modal-dialog-centered">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  Hide this modal and show the first with the button below.
+                </div>
+                <div class="modal-footer">
+                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to
+                    first</button>
+                </div>
+              </div>
+            </div>
+          </div> -->
+            <button class="btn " data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Read
+              More</button>
+          </div>
+        </div>
+
       </div>
       <div class="row mt-5 ser-bt">
         <!-- <button href="ourservices.html">Read More</button> -->
         <!-- <a href="ourservices.html" type="btn">Read More</a> -->
       </div>
-      <a href="digital-marketing.php" class="common__btn2 mt-4 mt-lg-0">
+      <a href="digital-marketing.php" class="common__btn2 mt-4 mt-lg-0" style="border-style: none;">
         <span>View All Services</span>
         <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
       </a>
-      <!-- Title -->
-      <!-- <div data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000"
-        class="d-lg-flex justify-content-between align-items-center services__title">
-        <h1 class="title">Our service solve your any business problem</h1>
-
-        <a href="" class="common__btn mt-4 mt-lg-0">
-          <span>View All Services</span>
-          <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-        </a>
-      </div> -->
-      <!-- Title -->
-
-      <!--  -->
-      <!-- <div class="services__wapper">
-        <ul class="services__wapper_list">
-          <li data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <a href="service_details.html" class="service__name">
-              <sup>01</sup>
-              Digital marketing
-            </a>
-            <p class="describe">
-              In order to scale new customer acquisition and retention for
-              e-commerce brands, we work across the entire customer.
-            </p>
-            <a href="service_details.html" class="icon">
-              <img src="assets/icons/arrow-up-right-yellow.svg" alt="" class="yellow" />
-              <img src="assets/icons/arrow-up-rignt-black.svg" alt="" class="black" />
-            </a>
-          </li>
-          <li data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
-            <a href="service_details.html" class="service__name">
-              <sup>02</sup>
-              Website Optimization
-            </a>
-            <p class="describe">
-              In order to scale new customer acquisition and retention for
-              e-commerce brands, we work across the entire customer.
-            </p>
-            <a href="service_details.html" class="icon">
-              <img src="assets/icons/arrow-up-right-yellow.svg" alt="" class="yellow" />
-              <img src="assets/icons/arrow-up-rignt-black.svg" alt="" class="black" />
-            </a>
-          </li>
-          <li data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
-            <a href="service_details.html" class="service__name">
-              <sup>03</sup>
-              Email & SMS Marketing
-            </a>
-            <p class="describe">
-              In order to scale new customer acquisition and retention for
-              e-commerce brands, we work across the entire customer.
-            </p>
-            <a href="service_details.html" class="icon">
-              <img src="assets/icons/arrow-up-right-yellow.svg" alt="" class="yellow" />
-              <img src="assets/icons/arrow-up-rignt-black.svg" alt="" class="black" />
-            </a>
-          </li>
-          <li data-aos="fade-up" data-aos-delay="400" data-aos-offset="0" data-aos-duration="1000">
-            <a href="service_details.html" class="service__name">
-              <sup>04</sup>
-              SEO Management
-            </a>
-            <p class="describe">
-              In order to scale new customer acquisition and retention for
-              e-commerce brands, we work across the entire customer.
-            </p>
-            <a href="service_details.html" class="icon">
-              <img src="assets/icons/arrow-up-right-yellow.svg" alt="" class="yellow" />
-              <img src="assets/icons/arrow-up-rignt-black.svg" alt="" class="black" />
-            </a>
-          </li>
-        </ul>
-      </div> -->
 
       <!-- -- counter start -->
       <div class="counter">
@@ -753,7 +855,7 @@
   </section>
   <!-- --------------- project  end ----------- -->
   <!-- --------------- pricing start ----------- -->
-  <section class="pricing pt__5 ">
+  <section class="pricing  ">
     <div class="container">
       <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <h1 class="title text-center">
@@ -801,7 +903,7 @@
                 <p>Legal and Compliance</p>
               </li>
             </ul>
-            <button class="common__btn">
+            <button class="common__btn" style="border-style: none;">
               <span>Get Started</span>
               <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
             </button>
@@ -845,7 +947,7 @@
                 <p>Maintenance and Support</p>
               </li>
             </ul>
-            <button class="common__btn">
+            <button class="common__btn" style="border-style: none;">
               <span>Get Started</span>
               <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
             </button>
@@ -889,7 +991,7 @@
                 <p>Legal and Compliance</p>
               </li>
             </ul>
-            <button class="common__btn">
+            <button class="common__btn" style="border-style: none;">
               <span>Get Started</span>
               <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
             </button>
@@ -933,7 +1035,7 @@
                 <p>Analytics and Reporting</p>
               </li>
             </ul>
-            <button class="common__btn">
+            <button class="common__btn" style="border-style:none;">
               <span>Get Started</span>
               <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
             </button>
@@ -1092,7 +1194,7 @@
       </div>
       <!-- title End -->
       <div class="blogs__wapper">
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-lg-4 col-md-6 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             <div class="blogs__wapper_card">
               <a href="" class="">
@@ -1100,6 +1202,92 @@
               </a>
               <div>
                 <a href="" class="card__title t__28">Optimize Your Website for Search Engines
+                </a>
+                <div class="d-flex card__author">
+                  <p>
+                    <img src="assets/img/blogs/Frame (3).svg" alt="" />
+                    <span>Danuel Stone</span>
+                  </p>
+                  <p>
+                    <img src="assets/img/blogs/Frame (4).svg" alt="" />
+                    <span>34 Comments</span>
+                  </p>
+
+                </div>
+                <div class="d-flex card__author ">
+                  <p> To boost your website's visibility in search engine results ...</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+            <div class="blogs__wapper_card">
+              <a href="" class="">
+                <img src="assets/img/blogs/bl2.jpg" alt="" class="card__thumb" />
+              </a>
+              <div>
+                <a href="" class="card__title t__28">Create High-Quality Content
+                </a>
+                <div class="d-flex card__author">
+                  <p>Content is king when it comes to attracting and engaging ...</p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+            <div class="blogs__wapper_card">
+              <a href="" class="">
+                <img src="assets/img/blogs/bl3.jpg" alt="" class="card__thumb" />
+              </a>
+              <div>
+                <a href="" class="card__title t__28">Promote Your Website on Social Media
+                </a>
+                <div class="d-flex card__author">
+                  <p>Harness the power of social media platforms like Facebook, Instagram, Twitter ...</p>
+                  <p>
+                    <img src="assets/img/blogs/Frame (3).svg" alt="" />
+                    <span>Sojol Saiful</span>
+                  </p>
+                  <p>
+                    <img src="assets/img/blogs/Frame (4).svg" alt="" />
+                    <span>03 Comments</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div> -->
+        <div class="row mt-5">
+          <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <div class="projects__2_card">
+              <a href="#">
+                <img src="assets/img/blogs/w1.jpg" alt="" class="w-100" />
+              </a>
+              <div>
+                <a href="" class="card__title t__28 text-dark">Promote Your Website on Social Media
+                </a>
+                <div class="d-flex card__author ">
+                  <p>Harness the power of social media platforms like Facebook, Instagram, Twitter ...</p>
+                  <!-- <p>
+                    <img src="assets/img/blogs/Frame (3).svg" alt="" />
+                    <span>Sojol Saiful</span>
+                  </p>
+                  <p>
+                    <img src="assets/img/blogs/Frame (4).svg" alt="" />
+                    <span>03 Comments</span>
+                  </p> -->
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6 mb-5q mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+            <div class="projects__2_card">
+              <a href="#">
+                <img src="assets/img/blogs/w2.jpg" alt="" class="w-100" />
+              </a>
+              <div>
+                <a href="" class="card__title t__28 text-dark">Optimize Your Website for Search Engines
                 </a>
                 <!-- <div class="d-flex card__author">
                   <p>
@@ -1118,58 +1306,75 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
-            <div class="blogs__wapper_card">
-              <a href="" class="">
-                <img src="assets/img/blogs/bl2.jpg" alt="" class="card__thumb" />
+          <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+            <div class="projects__2_card">
+              <a href="#">
+                <img src="assets/img/blogs/bl3.jpg" alt="" class="w-100" />
               </a>
               <div>
-                <a href="" class="card__title t__28">Create High-Quality Content
+                <a href="" class="card__title t__28 text-dark">Create High-Quality Content
                 </a>
                 <div class="d-flex card__author">
                   <p>Content is king when it comes to attracting and engaging ...</p>
-                  <!-- <p>
-                    <img src="assets/img/blogs/Frame (3).svg" alt="" />
-                    <span>William Dalton</span>
-                  </p>
-                  <p>
-                    <img src="assets/img/blogs/Frame (4).svg" alt="" />
-                    <span>34 Comments</span>
-                  </p> -->
+
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
-            <div class="blogs__wapper_card">
-              <a href="" class="">
-                <img src="assets/img/blogs/bl3.jpg" alt="" class="card__thumb" />
-              </a>
-              <div>
-                <a href="" class="card__title t__28">Promote Your Website on Social Media
-                </a>
-                <div class="d-flex card__author">
-                  <p>Harness the power of social media platforms like Facebook, Instagram, Twitter ...</p>
-                  <!-- <p>
-                    <img src="assets/img/blogs/Frame (3).svg" alt="" />
-                    <span>Sojol Saiful</span>
-                  </p>
-                  <p>
-                    <img src="assets/img/blogs/Frame (4).svg" alt="" />
-                    <span>03 Comments</span>
-                  </p> -->
-                </div>
-              </div>
+          <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0"
+          data-aos-duration="1000">
+          <div class="projects__2_card">
+            <a href="project_details.html">
+              <img src="assets/img/blogs/w4.jpg" alt="" class="w-100" />
+            </a>
+            <div>
+              <h4 class="text-dark text-center">Creative brilliance that sets your brand apart.</h4>
+
             </div>
           </div>
+        </div> -->
+          <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="500" data-aos-offset="0"
+          data-aos-duration="1000">
+          <div class="projects__2_card">
+            <a href="project_details.html">
+              <img src="assets/img/projects/5.png" alt="" class="w-100" />
+            </a>
+            <div>
+              <a href="project_details.html" class="t__28">Paid Media Solution</a>
+              <p class="d-flex align-items-center gap-2">
+                <span>Marketing </span>
+                <span>/ </span>
+                <span>Solution</span>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0"
+          data-aos-duration="1000">
+          <div class="projects__2_card">
+            <a href="project_details.html">
+              <img src="assets/img/projects/7.png" alt="" class="w-100" />
+            </a>
+            <div>
+              <a href="project_details.html" class="t__28">Paid Media Solution</a>
+              <p class="d-flex align-items-center gap-2">
+                <span>Marketing </span>
+                <span>/ </span>
+                <span>Solution</span>
+              </p>
+            </div>
+          </div>
+        </div> -->
         </div>
       </div>
     </div>
   </section>
   <!-- --------------- End Blog ----------- -->
 
-  <!-- --------------- start Footer ----------- -->
-  <?php include('footer.php'); ?>
+  <scrip>
+    </script>
+    <!-- --------------- start Footer ----------- -->
+    <?php include('footer.php'); ?>
 </body>
 
 </html>

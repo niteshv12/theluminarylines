@@ -58,6 +58,41 @@
                 }
             }
         }
+        $('.ser-row').slick({
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 2000,
+            arrows: true,
+            dots: true,
+            responsive: [
+                {
+                    breakpoint: 1270,
+                    settings: {
+                        dots: false,
+                    }
+                },
+                {
+                    breakpoint: 991,
+                    settings: {
+                        slidesToShow: 1,
+                        dots: false,
+                    }
+                },
+                {
+                    breakpoint: 576,
+                    settings: {
+                        slidesToShow: 1,
+                        dots: false,
+                    }
+                }
+            ],
+            prevArrow: '<i class="fa-solid fa-arrow-right slide__nav prev-arrow"></i>',
+            nextArrow: '<i class="fa-solid fa-arrow-left slide__nav next-arrow"></i>',
+            customPaging: function (slider, i) {
+                // return `<div class="slide__dots" id=${i}> 0${i + 1} </div>`;
+            },
+        });
 
         $('.testimonial__slides').slick({
             slidesToShow: 2,
@@ -116,7 +151,6 @@
                 // return `<div class="slide__dots" id=${i}> 0${i + 1} </div>`;
             },
         });
-
 
         AOS.init();
 

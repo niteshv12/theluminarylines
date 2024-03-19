@@ -31,8 +31,7 @@
   <section class="services all__services py__130">
     <div class="container">
       <div class="row">
-        <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0"
-          data-aos-duration="1000">
+        <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
             <img src="assets/img/services/abstract-shape_1.svg" alt="" />
             <h3 class="t_28">Digital Marketing</h3>
@@ -53,8 +52,7 @@
             </a>
           </div>
         </div>
-        <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0"
-          data-aos-duration="1000">
+        <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
             <img src="assets/img/services/x_2.svg" alt="" />
 
@@ -76,8 +74,7 @@
             </a>
           </div>
         </div>
-        <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0"
-          data-aos-duration="1000">
+        <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
             <img src="assets/img/services/cubes_1.svg" alt="" />
             <h3 class="t__28">Graphic Designing</h3>
@@ -98,8 +95,7 @@
             </a>
           </div>
         </div>
-        <div class="col-xl-4 col-md-6 mb-5 mb-md-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0"
-          data-aos-duration="1000">
+        <div class="col-xl-4 col-md-6 mb-5 mb-md-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
             <img src="assets/img/services/abstract-shape (3) 1.svg" alt="" />
             <h3 class="t__28">Web Development</h3>
@@ -120,11 +116,10 @@
             </a>
           </div>
         </div>
-        <div class="col-xl-4 col-md-6 mb-5 mb-md-0" data-aos="fade-up" data-aos-delay="500" data-aos-offset="0"
-          data-aos-duration="1000">
+        <div class="col-xl-4 col-md-6 mb-5 mb-md-0" data-aos="fade-up" data-aos-delay="500" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
             <img src="assets/img/services/cubes_1.svg" alt="" />
-            <h3 class="t__28">5. Brand Identity</h3>
+            <h3 class="t__28">Brand Identity</h3>
             <ul class="mt-5 mb-5">
               <li>Brand Guidelines Development</li>
               <li>
@@ -142,8 +137,7 @@
             </a>
           </div>
         </div>
-        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0"
-          data-aos-duration="1000">
+        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
             <img src="assets/img/services/abstract-shape (2) 1.svg" alt="" />
             <h3 class="t__28">Consulting</h3>
@@ -166,8 +160,7 @@
         </div>
       </div>
 
-      <div class="custom__pagination" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0"
-        data-aos-duration="1000">
+      <div class="custom__pagination" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <div class="row">
           <div class="col-12">
             <ul class="d-flex justify-content-center">

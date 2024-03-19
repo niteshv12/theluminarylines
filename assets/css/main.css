@@ -421,8 +421,8 @@ p {
     border-radius: 10px;
     font-weight: 600;
     padding: 15px 32px;
-    background-color: #cf41c9;
-    border: 1px solid #cf41c9;
+    /* background-color: #cf41c9; */
+    /* border: 1px solid #cf41c9; */
     color: #ffffff;
     transition: all .5s
 }
@@ -572,7 +572,8 @@ p {
 
 .header__bottom .common__btn {
     background-color: var(--main-clr);
-    gap: 2px
+    gap: 2px;
+    border-color: var(--main-clr);
 }
 
 /* .header__bottom .menu__icon i {
@@ -1144,7 +1145,8 @@ p {
 
 .services__title .common__btn {
     background-color: var(--btn-clr);
-    color: var(--secondary-clr)
+    color: var(--secondary-clr);
+    border-color: var(--btn-clr);
 }
 
 .services__wapper_list {
@@ -1680,7 +1682,8 @@ p {
 .projects__usecase_content .common__btn {
     margin-top: 50px;
     background-color: var(--btn-clr);
-    color: var(--secondary-clr)
+    color: var(--secondary-clr);
+    border-color: var(--btn-clr);
 }
 
 .projects__usecase_img {
@@ -2511,7 +2514,8 @@ p {
     color: var(--secondary-clr);
     margin-top: 20px;
     padding: 23px;
-    justify-content: center
+    justify-content: center;
+    border-color: var(--btn-clr);
 }
 
 @media(max-width: 991px) {
@@ -3132,7 +3136,8 @@ p {
 
 .blog__details .leave__replay .common__btn {
     background-color: var(--btn-clr);
-    color: var(--secondary-clr)
+    color: var(--secondary-clr);
+    border-color: var(--btn-clr);
 }
 
 .blog__details .leave__replay input[type=checkbox],
@@ -3363,6 +3368,13 @@ p {
     margin-bottom: 181px;
 }
 
+@media (max-width: 575.98px) {
+    .pricing {
+        margin-top: -100px;
+        margin-bottom: 181px;
+    }
+}
+
 .pricing__card {
     border-radius: 10px;
     background-color: #fff;
@@ -3420,7 +3432,8 @@ p {
 .pricing__card .common__btn {
     background-color: var(--btn-clr);
     color: var(--secondary-clr);
-    margin-top: 15px
+    margin-top: 15px;
+    border-color: var(--btn-clr);
 }
 
 .pricing__card:hover {

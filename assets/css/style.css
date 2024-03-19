@@ -20,6 +20,9 @@
 
 @media (max-width: 575.98px) {
     .ser-col {
+        /* margin-left: 20px;
+        margin-right: 20px; */
+
         border-radius: 20px;
         background-color: #E3ECE7;
         width: 100%;
@@ -537,7 +540,7 @@
         border: 1px solid #fa991c;
         color: #fff;
         transition: all .5s;
-        margin-left: 25%;
+        margin-left: 20%;
 
     }
 }
@@ -561,4 +564,8 @@
         margin-top: 60px;
         margin-left: 20px;
     }
+}
+
+.about__wapper_right>button {
+    background-color: #000;
 }

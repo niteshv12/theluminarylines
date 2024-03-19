@@ -9,7 +9,7 @@
         <div class="col-lg-4 mt-5 mt-lg-0">
           <div>
             <input type="text" placeholder="Your Email" />
-            <button class="common__btn">
+            <button class="common__btn" style="border-style: none;">
               <span>Subscribe Now</span>
               <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
             </button>
@@ -63,14 +63,19 @@
             <img src="assets/img/banner/New-Project2.png" alt="" />
           </a>
         </div>
+        <p class="mt-3 text-light">
+          Your all-in-one destination for advertising, consulting, and designing excellence.
+          We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting
+          insights, and delivering stunning designs that elevate your brand.
+        </p>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
         <div class="footer__info_address">
-          <h3 class="footer__info_group">Address</h3>
+          <h3 class="footer__info_group text-light">Address</h3>
           <p class="text-light" style="color: #fff;">526, 5TH FLOOR, DLF TOWER A, JASOLA,
             NEW DELHI – 110025</p>
         </div>
-      </div>
-      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-        <div>
+        <div class="mt-5">
           <h3 class="footer__info_group">Our Contact</h3>
           <ul class="footer__info_contact">
             <li>
@@ -81,7 +86,7 @@
             </li>
             <li>
               <img src="assets/icons/Frame (6).svg" alt="" />
-              <p style="color: #fff;"> +91 9999729095, +91 9871845696</p>
+              <p style="color: #fff;"> +91 9871845696</p>
             </li>
             <!-- <li>
                 <img src="assets/icons/Frame (7).svg" alt="" />
@@ -117,7 +122,7 @@
               <a href="faq.php">FAQ's</a>
             </li>
             <li>
-              <a href="">Privacy Pllicy</a>
+              <a href="">Privacy Policy</a>
             </li>
           </ul>
         </div>
@@ -129,7 +134,7 @@
       <div class="col-12">
         <hr class="footer__border" />
         <p class="text-center" style="color: #fff;">
-          © Copyright 2023 All Rights Reserved by <a href="index.html" style="color: #FA991C;">Luminarylines</a>
+          © Copyright 2023 All Rights Reserved by <a href="index.php" style="color: #FA991C;">Luminarylines</a>
         </p>
       </div>
     </div>
