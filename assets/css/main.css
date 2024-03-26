@@ -163,8 +163,12 @@ p {
     }
 }
 
+.pt__20 {
+    padding-top: 20px;
+}
+
 .pt__50 {
-    padding-top: 50px
+    padding-top: 50px;
 }
 
 .pt__5 {
@@ -646,10 +650,10 @@ p {
 .banner__content_title p {
     max-width: 700px;
     font-size: 22px;
-    line-height: 32px;
+    /* line-height: 22px; */
     /* color: rgba(0, 0, 0, 0.67); */
     color: #ffffff;
-    margin-top: 53px
+    margin-top: 20px
 }
 
 @media(max-width: 1200px) {
@@ -671,20 +675,22 @@ p {
     }
 }
 
-.banner__content .buttons {
-    gap: 24px;
-    margin-top: 59px
+.buttons {
+    /* gap: 24px; */
+    margin-top: 30px;
+    margin-left: 40px;
+    /* background-color: #40792c; */
 }
 
 @media(max-width: 1200px) {
     .banner__content .buttons {
-        margin-top: 50px
+        margin-top: px
     }
 }
 
 @media(max-width: 991px) {
     .banner__content .buttons {
-        margin-top: 40px
+        /* margin-top: 40px */
     }
 }
 
@@ -1055,8 +1061,8 @@ p {
 .about__wapper_right li {
     display: flex;
     align-items: center;
-    gap: 12px;
-    margin-bottom: 60px
+    gap: 6px;
+    margin-bottom: 30px
 }
 
 .about__wapper_right li:last-child {
@@ -1065,7 +1071,7 @@ p {
 
 @media(max-width: 1200px) {
     .about__wapper_right li {
-        margin-bottom: 40px
+        margin-bottom: 30px
     }
 }
 
@@ -1676,7 +1682,7 @@ p {
 }
 
 .projects__usecase_content .para2 {
-    margin-top: 40px
+    margin-top: 20px
 }
 
 .projects__usecase_content .common__btn {
@@ -2047,6 +2053,8 @@ p {
     transition: all .5s;
     cursor: pointer
 }
+
+.slide>img {}
 
 .testimonial .slide__nav:hover {
     background-color: var(--btn-clr);
@@ -3389,7 +3397,7 @@ p {
 }
 
 .pricing__card_title h6 {
-    color: var(--secondary-clr);
+    color: #032539;
     transition: all .5s;
     margin-bottom: 3px
 }

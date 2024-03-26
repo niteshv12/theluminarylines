@@ -279,6 +279,7 @@
     background-color: #032539;
 } */
 .navbar {
+    height: 100px;
     border-bottom: #fff solid 2px;
     position: -webkit-sticky;
     position: sticky;
@@ -305,7 +306,7 @@
         padding: 24px 0;
         /* position: relative; */
         z-index: 1000;
-        height: 150px;
+        height: 100px;
 
     }
 }
@@ -395,7 +396,10 @@
     }
 } */
 .navbar-brand>img {
-    width: 40%;
+    /* margin-left: 25px; */
+    /* padding-left: 50px; */
+    /* background-color: #fa991c; */
+    width: 30%;
 }
 
 @media (max-width: 575.98px) {
@@ -568,4 +572,124 @@
 
 .about__wapper_right>button {
     background-color: #000;
+}
+
+/* .top-banner {
+    background-image: url(../img/banner/home-bannera.jpg);
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+} */
+
+
+
+
+
+
+
+
+.testimonial__wapper {
+    position: relative;
+    margin-top: 60px;
+    margin-bottom: -368px
+}
+
+@media(max-width: 768px) {
+    .testimonial__wapper {
+        margin-bottom: -250px
+    }
+}
+
+@media(max-width: 576px) {
+    .testimonial__wapper {
+        margin-bottom: -200px
+    }
+
+    .services__wapper .slides {
+        background-color: #d8d9d9;
+        border-radius: 10px;
+        padding: 40px;
+        /* width: 100%; */
+    }
+}
+
+.services__wapper .slides {
+    background-color: #d8d9d9;
+    border-radius: 10px;
+    padding: 40px;
+    /* width: 80%; */
+}
+
+.services__wapper .slides:hover {
+    background-color: #417972;
+    border-radius: 10px;
+    padding: 40px;
+    transition: 0.5s;
+}
+
+@media(max-width: 768px) {
+    .services__wapper .slides {
+        padding: 25px
+    }
+}
+
+/* .testimonial__wapper .star i {
+    color: var(--btn-clr)
+} */
+/* .testimonial__wapper .star i {
+    color: #fa991c;
+} */
+/*  */
+
+@media(max-width: 768px) {
+    /* .testimonial__wapper .review {
+        font-size: 19px;
+        margin-top: 25px;
+        margin-bottom: 40px
+    } */
+}
+
+@media(max-width: 576px) {
+    /* .testimonial__wapper .review {
+        font-size: 17px;
+        margin-top: 22px;
+        margin-bottom: 30px
+    } */
+}
+
+/* .testimonial__wapper .reviewer__info img {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%
+} */
+.slides>img {
+    border-radius: 10px;
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin-top: 30px;
+    /* display: grid; */
+    /* justify-content: center;
+    align-items: center; */
+    width: 260px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.slides>i {
+    font-size: 56px;
+    color: #032539;
+    padding-bottom: 20px;
+}
+
+.slides>button {
+    background-color: #032539;
+}
+
+.slides>a {
+    background-color: #032539;
+    color: #E3ECE7;
+    padding: 20px 10px;
+    margin-top: 20px;
 }

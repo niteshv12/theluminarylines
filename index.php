@@ -12,9 +12,9 @@
 
 
   <!-- --------------- Start Banner ----------- -->
-  <div class="container-fluid" style="background-image: url(assets/img/banner/home-banner.jpg); height: 600px;">
+  <div class="container-fluid top-banner" style="background-image:url(assets/img/banner/home-bannera.jpg); height: 600px; width:100%;">
     <div class="row">
-      <div class="col-lg-8">
+      <div class="col-lg-8 ms-lg-5 ms-sm-0">
         <div class="banner__content_title" style="margin-top: 60px;">
           <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             Design.Consult.<br>
@@ -24,7 +24,7 @@
             & retaining online audiences.
           </p>
         </div>
-        <div class="buttons d-sm-flex align-items-center" style="margin-top: 60px; margin-left: 40px;" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+        <div class="buttons d-sm-flex align-items-center" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
           <button class="common__btn buttons_file" style="background-color: #000; border-style: none;">
             <span> Get A Quote</span>
             <img src="assets/icons/arrow-up-right.svg" alt="" />
@@ -208,7 +208,7 @@
         </div> -->
       </div>
       <!-- ------ partner start -->
-      <div class="partner">
+      <!-- <div class="partner">
         <div class="partner__wapper">
           <div class="partner__content">
             <div class="slide">
@@ -243,7 +243,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <!-- ------ partner End -->
       <div class="projects__usecase mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <div class="row align-items-center">
@@ -252,7 +252,7 @@
               <h3 class="t__54">
                 About Us
               </h3>
-              <p class="pt__50 text-dark">
+              <p class="pt__20 text-dark">
                 Luminary Lines is an esteemed advertising, consulting, and design firm. Our purpose is to elevate brands
                 and boost their success through innovative solutions.
               </p>
@@ -354,21 +354,145 @@
   <!-- new services end -->
 
 
+  <!-- --------------- Start Testimonial ----------- -->
+  <section class="testimonial py__60 ">
+    <div class="container position-relative">
+      <!-- title Start -->
+      <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <h1 class="title-testimonials text-center">
+          Services
+        </h1>
+      </div>
+      <!-- title End -->
 
+      <div class="services__wapper" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <div class="ser-row mt-5">
+          <div>
+            <div class="slides">
+              <!-- <i class="fa-solid fa-chart-simple"></i> -->
+              <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
+              <h2>Digital Marketing</h2>
+              <ul class="mb-5">
+                <li>Search Engine Optimization (SEO)</li>
+                <li>
+                  Search Engine Marketing (SEM)
+                </li>
+                <li>
+                  Social Media Marketing (SMM)
+                </li>
+                <li>Email Marketing</li>
+                <li>Pay-Per-Click (PPC) Advertising</li>
+              </ul>
+              <a href="digital-marketing.php" class="mt-5" style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
+            </div>
+          </div>
+          <div>
+            <div class="slides">
+
+              <h2>Content Creation</h2>
+              <ul class="mb-5">
+                <li>Engaging Copywriting</li>
+                <li>
+                  Compelling Video Production
+                </li>
+                <li>
+                  Stunning Photography
+                </li>
+                <li>Blog and Article Writing</li>
+                <li>Social Media Content Creation</li>
+              </ul>
+              <a href="content-creation.php" class="text-dark mt-3
+              " style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
+            </div>
+          </div>
+          <div>
+            <div class="slides">
+              <h2>Graphic Designing</h2>
+              <ul class="mb-5">
+                <li>Logo Design and Branding</li>
+                <li>
+                  Brochure and Flyer Design
+                </li>
+                <li>
+                  Poster and Banner Design
+                </li>
+                <li>Infographics</li>
+                <li>Packaging Design</li>
+              </ul>
+              <a href="graphic-design.php" class="mt-3 " style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
+            </div>
+          </div>
+          <div>
+            <div class="slides">
+              <h2>Web Development</h2>
+              <ul class="mb-5">
+                <li>Custom Website Design and Development</li>
+                <li>
+                  E-commerce Solutions
+                </li>
+                <li>
+                  Mobile-Friendly Responsive Design
+                </li>
+                <li>Website Maintenance and Support</li>
+
+              </ul>
+              <a href="web-dev.php" class=" mt-3" style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
+            </div>
+          </div>
+          <div>
+            <div class="slides">
+              <h2>Brand Identity</h2>
+              <ul class="mb-5">
+                <li>Brand Guidelines Development</li>
+                <li>
+                  Brand Positioning and Messaging
+                </li>
+                <li>
+                  Brand Identity Consultation
+                </li>
+                <li>Brand Collateral Design</li>
+
+              </ul>
+              <a href="brand.php" class="mt-3
+              " style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
+            </div>
+          </div>
+          <div>
+            <div class="slides">
+              <h2>Consulting</h2>
+              <ul class="mb-5">
+                <li>Strategic Planning</li>
+                <li>
+                  Market Analysis and Research
+                </li>
+                <li>
+                  Brand Strategy Development
+                </li>
+                <li>Digital Marketing Strategy</li>
+                <li>Campaign Optimization</li>
+              </ul>
+              <a href="consulting.php" class=" mt-3" style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- --------------- End Testimonial ----------- -->
 
 
   <!-- --------------- Start Services ----------- -->
-  <section class="services py__80 " id="services">
+  <section class="services  " id="services">
     <div class="container position-relative">
       <div class="row text-center ser">
-        <h1 class="mt-4">
+        <!-- <h1 class="mt-4">
           Our Services
-        </h1>
+        </h1> -->
       </div>
-      <div class="row ser-row justify-content-between align-items-center about__wapper">
+      <!-- <div class="row ser-row justify-content-between align-items-center about__wapper">
         <div class="g-5">
           <div class="ser-col text-center">
-            <img src="assets/img/services/s1.jpg" alt="">
+            <img src="assets/img/banner/web.png" alt="">
             <h2>Digital Marketing</h2>
             <ul>
               <li>Search Engine Optimization (SEO)</li>
@@ -381,52 +505,7 @@
               <li>Email Marketing</li>
               <li>Pay-Per-Click (PPC) Advertising</li>
             </ul>
-            <!-- <button class="btn" type="button">Read More</button> -->
-            <!-- <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-              <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h1 class="text-center" id="exampleModalToggleLabel">Digital Marketing
-                    </h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                  </div>
-                  <div class="modal-body">
-                    <p>
-                      In Digital Marketing, we utilize various online channels such as search engines, social media,
-                      email
-                      marketing, and various other online platforms to promote your brands, products, or services and
-                      reach your customers. This service involves employing various strategies to attract, engage, and
-                      win
-                      over new clients to convert them into devoted customers. From optimizing your website for search
-                      engines to running targeted social media ads, our expert team helps drive traffic, generate leads,
-                      and achieve your business goals through digital channels.
-                    </p>
-                  </div>
-                  <div class="modal-footer">
-                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle2" data-bs-toggle="modal">Open second
-                    modal</button>
-                </div>
-                </div>
-              </div>
-            </div> -->
-            <!-- <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
-            tabindex="-1">
-            <div class="modal-dialog modal-dialog-centered">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                  Hide this modal and show the first with the button below.
-                </div>
-                <div class="modal-footer">
-                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to
-                    first</button>
-                </div>
-              </div>
-            </div>
-          </div> -->
+            
             <button class="btn" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Read
               More</button>
           </div>
@@ -446,7 +525,7 @@
               <li>Blog and Article Writing</li>
               <li>Social Media Content Creation</li>
             </ul>
-            <!-- <button class="btn" type="button">Read More</button> -->
+            
             <div class="modal fade" id="exampleModalToggle02" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
               <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
@@ -465,31 +544,11 @@
                       media content, we tailor our creations to align with your brand's voice and objectives.
                     </p>
                   </div>
-                  <!-- <div class="modal-footer">
-                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle2" data-bs-toggle="modal">Open second
-                    modal</button>
-                </div> -->
+                  
                 </div>
               </div>
             </div>
-            <!-- <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
-            tabindex="-1">
-            <div class="modal-dialog modal-dialog-centered">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                  Hide this modal and show the first with the button below.
-                </div>
-                <div class="modal-footer">
-                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to
-                    first</button>
-                </div>
-              </div>
-            </div>
-          </div> -->
+            
             <button class="btn" data-bs-target="#exampleModalToggle02" data-bs-toggle="modal">Read
               More</button>
           </div>
@@ -509,8 +568,7 @@
               <li>Infographics</li>
               <li>Packaging Design</li>
             </ul>
-            <!-- <button class="btn" type="button">Read More</button> -->
-            <div class="modal fade" id="exampleModalToggle03" aria-hidden="true" aria-labelledby="exampleModalToggleLabel3" tabindex="-1">
+              <div class="modal fade" id="exampleModalToggle03" aria-hidden="true" aria-labelledby="exampleModalToggleLabel3" tabindex="-1">
               <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
                   <div class="modal-header">
@@ -527,31 +585,11 @@
                       solutions, and ongoing maintenance and support, we ensure that your online presence reflects the
                       professionalism and quality of your brand.</p>
                   </div>
-                  <!-- <div class="modal-footer">
-                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle2" data-bs-toggle="modal">Open second
-                    modal</button>
-                </div> -->
+                  
                 </div>
               </div>
             </div>
-            <!-- <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
-            tabindex="-1">
-            <div class="modal-dialog modal-dialog-centered">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                  Hide this modal and show the first with the button below.
-                </div>
-                <div class="modal-footer">
-                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to
-                    first</button>
-                </div>
-              </div>
-            </div>
-          </div> -->
+
             <button class="btn" data-bs-target="#exampleModalToggle03" data-bs-toggle="modal">Read
               More</button>
           </div>
@@ -572,41 +610,7 @@
               <li>Website Maintenance and Support</li>
 
             </ul>
-            <!-- <button class="btn" type="button">Read More</button> -->
-            <!-- <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-              <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h1 class="text-center" id="exampleModalToggleLabel">
-                    </h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                  </div>
-                  <div class="modal-body">
-                    <p>
-                      Web Development is the process of building the structure and functionality of your website. It involves multiple aspects such as web design, web content development, and coding/programming. It is an essential and integral part of your business, whether small or big.Our web development team specializes in creating responsive and user-friendly websites that not only look great but also function seamlessly across all devices. With expertise in custom website design, e-commerce solutions, and ongoing maintenance and support, we ensure that your online presence reflects the professionalism and quality of your brand.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div> -->
-            <!-- <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
-            tabindex="-1">
-            <div class="modal-dialog modal-dialog-centered">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                  Hide this modal and show the first with the button below.
-                </div>
-                <div class="modal-footer">
-                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to
-                    first</button>
-                </div>
-              </div>
-            </div>
-          </div> -->
+
             <button class="btn" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Read
               More</button>
           </div>
@@ -626,41 +630,7 @@
               <li>Brand Collateral Design</li>
 
             </ul>
-            <!-- <button class="btn" type="button">Read More</button> -->
-            <!-- <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-              <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h1 class="text-center" id="exampleModalToggleLabel">
-                    </h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                  </div>
-                  <div class="modal-body">
-                    <p>
-                      Web Development is the process of building the structure and functionality of your website. It involves multiple aspects such as web design, web content development, and coding/programming. It is an essential and integral part of your business, whether small or big.Our web development team specializes in creating responsive and user-friendly websites that not only look great but also function seamlessly across all devices. With expertise in custom website design, e-commerce solutions, and ongoing maintenance and support, we ensure that your online presence reflects the professionalism and quality of your brand.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div> -->
-            <!-- <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
-            tabindex="-1">
-            <div class="modal-dialog modal-dialog-centered">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                  Hide this modal and show the first with the button below.
-                </div>
-                <div class="modal-footer">
-                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to
-                    first</button>
-                </div>
-              </div>
-            </div>
-          </div> -->
+
             <button class="btn " data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Read
               More</button>
           </div>
@@ -680,55 +650,18 @@
               <li>Digital Marketing Strategy</li>
               <li>Campaign Optimization</li>
             </ul>
-            <!-- <button class="btn" type="button">Read More</button> -->
-            <!-- <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-              <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h1 class="text-center" id="exampleModalToggleLabel">
-                    </h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                  </div>
-                  <div class="modal-body">
-                    <p>
-                      Web Development is the process of building the structure and functionality of your website. It involves multiple aspects such as web design, web content development, and coding/programming. It is an essential and integral part of your business, whether small or big.Our web development team specializes in creating responsive and user-friendly websites that not only look great but also function seamlessly across all devices. With expertise in custom website design, e-commerce solutions, and ongoing maintenance and support, we ensure that your online presence reflects the professionalism and quality of your brand.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div> -->
-            <!-- <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
-            tabindex="-1">
-            <div class="modal-dialog modal-dialog-centered">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                  Hide this modal and show the first with the button below.
-                </div>
-                <div class="modal-footer">
-                  <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to
-                    first</button>
-                </div>
-              </div>
-            </div>
-          </div> -->
+            
             <button class="btn " data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Read
               More</button>
           </div>
         </div>
 
-      </div>
-      <div class="row mt-5 ser-bt">
-        <!-- <button href="ourservices.html">Read More</button> -->
-        <!-- <a href="ourservices.html" type="btn">Read More</a> -->
-      </div>
-      <a href="digital-marketing.php" class="common__btn2 mt-4 mt-lg-0" style="border-style: none;">
+      </div> -->
+
+      <!-- <a href="digital-marketing.php" class="common__btn2 mt-4 mt-lg-0" style="border-style: none;">
         <span>View All Services</span>
         <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-      </a>
+      </a> -->
 
       <!-- -- counter start -->
       <div class="counter">
@@ -869,7 +802,7 @@
           <div class="pricing__card">
             <div class="text-center pricing__card_title">
               <h6>Basic plan</h6>
-              <h1 class="t__54">$242</h1>
+              <h1 class="t__54">20000 ₹ </h1>
               <p>Per year</p>
             </div>
             <span class="border__full"></span>
@@ -912,8 +845,8 @@
         <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
           <div class="pricing__card">
             <div class="text-center pricing__card_title">
-              <h6>Business plan</h6>
-              <h1 class="t__54">$342</h1>
+              <h6 class="">Business plan</h6>
+              <h1 class="t__54">40,000 ₹ </h1>
               <p>Per year</p>
             </div>
             <span class="border__full"></span>
@@ -957,7 +890,7 @@
           <div class="pricing__card">
             <div class="text-center pricing__card_title">
               <h6>Advanced plan</h6>
-              <h1 class="t__54">$442</h1>
+              <h1 class="t__54">80,000 ₹ </h1>
               <p>Per year</p>
             </div>
             <span class="border__full"></span>
@@ -1001,7 +934,7 @@
           <div class="pricing__card">
             <div class="text-center pricing__card_title">
               <h6>Premium plan</h6>
-              <h1 class="t__54">$542</h1>
+              <h1 class="t__54"> 1,00,00 ₹ </h1>
               <p>Per year</p>
             </div>
             <span class="border__full"></span>
@@ -1262,7 +1195,7 @@
           <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             <div class="projects__2_card">
               <a href="#">
-                <img src="assets/img/blogs/w1.jpg" alt="" class="w-100" />
+                <img src="assets/img/blogs/b001.jpg" alt="" class="w-100" />
               </a>
               <div>
                 <a href="" class="card__title t__28 text-dark">Promote Your Website on Social Media
@@ -1284,7 +1217,7 @@
           <div class="col-xl-4 col-md-6 mb-5q mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
             <div class="projects__2_card">
               <a href="#">
-                <img src="assets/img/blogs/w2.jpg" alt="" class="w-100" />
+                <img src="assets/img/blogs/b002.jpg" alt="" class="w-100" />
               </a>
               <div>
                 <a href="" class="card__title t__28 text-dark">Optimize Your Website for Search Engines
@@ -1309,7 +1242,7 @@
           <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
             <div class="projects__2_card">
               <a href="#">
-                <img src="assets/img/blogs/bl3.jpg" alt="" class="w-100" />
+                <img src="assets/img/blogs/b003.jpg" alt="" class="w-100" />
               </a>
               <div>
                 <a href="" class="card__title t__28 text-dark">Create High-Quality Content
