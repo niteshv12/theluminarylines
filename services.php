@@ -69,7 +69,7 @@
               <li>Email Marketing</li>
               <li>Pay-Per-Click (PPC) Advertising</li>
             </ul>
-            <a href="digitalmarketing.html">
+            <a href="digital-marketing.php">
               <span>View More Details</span>
               <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
             </a>
@@ -91,7 +91,7 @@
               <li>Blog and Article Writing</li>
               <li>Social Media Content Creation</li>
             </ul>
-            <a href="">
+            <a href="content-creation.php">
               <span>View More Details</span>
               <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
             </a>
@@ -112,7 +112,7 @@
               <li>Infographics</li>
               <li>Packaging Design</li>
             </ul>
-            <a href="">
+            <a href="graphic-design.php">
               <span>View More Details</span>
               <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
             </a>
@@ -133,7 +133,7 @@
               <li>Website Maintenance and Support</li>
 
             </ul>
-            <a href="">
+            <a href="web-development.php">
               <span>View More Details</span>
               <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
             </a>
@@ -154,7 +154,7 @@
               <li>Brand Collateral Design</li>
 
             </ul>
-            <a href="">
+            <a href="brand-identity.php">
               <span>View More Details</span>
               <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
             </a>
@@ -175,7 +175,7 @@
               <li>Digital Marketing Strategy</li>
               <li>Campaign Optimization</li>
             </ul>
-            <a href="">
+            <a href="consulting.php">
               <span>View More Details</span>
               <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
             </a>

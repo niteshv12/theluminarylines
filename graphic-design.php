@@ -7,12 +7,10 @@
   <!-- --------------- End Header ------------ -->
 
   <!-- --------------- Start page header ----------- -->
-  <section class="page__header position-relative " style="background-image: url(assets/img/banner/service.jpg); width:100%; height: 600px; object-fit:cover;">
+  <!-- <section class="page__header position-relative " style="background-image: url(assets/img/banner/service.jpg); width:100%; height: 600px; object-fit:cover;">
     <div class="container">
       <div class="row">
         <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
-          <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
-          <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
           <div class="banner__content_title-s">
             <h1 data-aos="fade-up text-dark mt-5 ms-5 mt-sm-5 ms-sm-2" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" style="margin-left:150px;">
               Services </h1>
@@ -21,11 +19,10 @@
               <span>/</span> <a href="digital-marketing.php">Services</a>
             </div>
           </div>
-          <!-- <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" /> -->
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- --------------- End page header ----------- -->
 
   <!--  start service details -->
