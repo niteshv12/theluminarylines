@@ -597,15 +597,67 @@
     background-color: #000;
 }
 
-/* .top-banner {
+.top-banner {
     background-image: url(../img/banner/home-bannera.jpg);
     height: 600px;
     width: 100%;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     object-fit: cover;
-} */
+}
 
+.banner__content_title-home {
+    margin-top: 70px;
+    margin-left: 80px;
+}
 
+.banner__content_title-home>h1 {
+    font-size: 60px;
+    color: #fff;
+    font-weight: 700;
+    margin-top: 150px;
+}
+
+@media (max-width: 575.98px) {
+    .top-banner {
+        background-image: url(../img/banner/home-bannera.jpg);
+        height: 500px;
+        width: 100%;
+        /* background-repeat: no-repeat; */
+        object-fit: cover;
+    }
+
+    .banner__content_title-home {
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+
+    .banner__content_title-home>h1 {
+        font-size: 40px;
+        color: #fff;
+        font-weight: 500;
+        margin-top: 100px;
+    }
+}
+
+.banner__content_title-home>p {
+    /* max-width: 700px; */
+    font-size: 22px;
+    /* line-height: 22px; */
+    /* color: rgba(0, 0, 0, 0.67); */
+    color: #ffffff;
+    margin-top: 20px
+}
+
+@media (max-width: 575.98px) {
+    .banner__content_title-home>p {
+        /* max-width: 700px; */
+        font-size: 18px;
+        /* line-height: 22px; */
+        /* color: rgba(0, 0, 0, 0.67); */
+        color: #ffffff;
+        margin-top: 20px
+    }
+}
 
 
 
@@ -687,17 +739,9 @@
     border-radius: 50%
 } */
 .slides>img {
-    border-radius: 10px;
-    display: block;
-    /* margin-left: auto;
-    margin-right: auto; */
-    margin-top: 30px;
-    /* display: grid; */
-    /* justify-content: center;
-    align-items: center; */
-    width: 260px;
-    height: 200px;
-    object-fit: cover;
+    width: 80px;
+    height: 80px;
+    object-fit: fill;
 }
 
 .slides>i {
@@ -706,16 +750,30 @@
     padding-bottom: 20px;
 }
 
+.slides>h2 {
+    margin: 20px 0px;
+    /* margin-bottom: 20px; */
+}
+
 .slides>button {
-    background-color: #032539;
+    background-color: #FA991C;
 }
 
 .slides>a {
-    background-color: #032539;
+    background-color: #FA991C;
+    border-radius: 10px;
     color: #E3ECE7;
     padding: 20px 10px;
     margin-top: 20px;
 }
+
+/* .slides>a:hover {
+    background-color: #ffffff;
+    border-radius: 10px;
+    color: #fa991c;
+    padding: 20px 10px;
+    margin-top: 20px;
+} */
 
 .service__cards {
     padding: 40px;
@@ -806,5 +864,129 @@
         font-size: 36px;
         line-height: 53px;
 
+    }
+}
+
+.banner-faq {
+    background-image: url(../img/banner/faq.jpg);
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    /* background-repeat: no-repeat; */
+}
+
+@media(max-width: 576px) {
+    .banner-faq {
+        background-image: url(../img/banner/faq.jpg);
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+        /* background-repeat: no-repeat; */
+    }
+}
+
+.banner__content_titl-faq {
+    margin-top: 120px;
+    margin-left: 40px;
+
+}
+
+.banner__content_titl-faq>h1 {
+    color: #fff;
+    font-size: 70px;
+    margin-left: 150px;
+
+}
+
+.titl-faq {
+    margin-left: 150px;
+}
+
+.titl-faq>a {
+    color: #fff;
+    font-size: 24px;
+}
+
+.titl-faq>span {
+    color: #fff;
+    font-size: 24px;
+}
+
+@media(max-width: 576px) {
+
+    .banner__content_titl-faq {
+        margin-top: 160px;
+        margin-left: 0px;
+
+    }
+
+    .titl-faq>a {
+        color: #fff;
+        font-size: 18px;
+    }
+
+    .titl-faq>span {
+        color: #fff;
+        font-size: 18px;
+    }
+
+
+    .titl-faq {
+        margin-left: 40px;
+    }
+
+    .banner__content_titl-faq>h1 {
+        color: #fff;
+        font-size: 40px;
+        margin-left: 45px;
+
+    }
+}
+
+.banner-contect {
+    background-image: url(../img/banner/contact.jpg);
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
+
+.banner__content_title-contact {
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+.banner__content_title-contact>h1 {
+    color: #fff;
+    font-size: 70px;
+    margin-left: 150px;
+}
+
+.title-contact {
+    /* margin-top: 60px; */
+    margin-left: 150px;
+}
+
+@media(max-width: 576px) {
+    .title-contact {
+        /* margin-top: 60px; */
+        margin-left: 10px;
+    }
+
+    .banner-contect {
+        background-image: url(../img/banner/contact.jpg);
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+    }
+
+    .banner__content_title-contact {
+        margin-top: 40px;
+        /* margin-left: px; */
+    }
+
+    .banner__content_title-contact>h1 {
+        color: #fff;
+        font-size: 40px;
+        margin-left: 10px;
     }
 }

@@ -7,19 +7,19 @@
   <!-- --------------- End Header ------------ -->
 
   <!-- --------------- Start page header ----------- -->
-  <section class="page__header position-relative " style="background-image: url(assets/img/banner/contact.jpg);width:100%; height: 600px; object-fit:cover;">
+  <section class="page__header position-relative banner-contect " style="">
     <div class="container">
       <div class="row">
         <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
           <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
           <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
-          <div class="banner__content_title" style="margin-top: 60px; margin-left: 40px;">
-            <h1 data-aos="fade-up text-dark mt-5 ms-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" style="margin-left:150px;">
-              Contact </h1> 
-              <div class="d-flex justify-content-center gap-2" style="margin-left:150px;">
-                <a href="index.html">Home</a>
-                <span>/</span> <a href="who_we_are.html">Contact</a>
-              </div>
+          <div class="banner__content_title-contact">
+            <h1 data-aos="fade-up text-dark" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+              Contact </h1>
+            <div class="d-flex justify-content-center gap-2 title-contact">
+              <a href="index.html">Home</a>
+              <span class="text-light">/</span> <a href="who_we_are.html">Contact</a>
+            </div>
           </div>
           <!-- <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" /> -->
         </div>
@@ -64,8 +64,7 @@
             </ul>
           </div>
         </div>
-        <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0"
-          data-aos-duration="1000">
+        <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
           <div class="contact__form">
             <h5 class="t__28">Get In Touch Here</h5>
             <form action="">
@@ -115,10 +114,7 @@
 
   <!-- --------------- Start Map ------------- -->
   <section class="map py__130">
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3907.41189504866!2d76.30787097505515!3d11.665193688542812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba607f5c6db9aaf%3A0x5802698b8d011308!2sLuminary%20Lines!5e0!3m2!1sen!2sin!4v1710313092970!5m2!1sen!2sin"
-      width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-      referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3907.41189504866!2d76.30787097505515!3d11.665193688542812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba607f5c6db9aaf%3A0x5802698b8d011308!2sLuminary%20Lines!5e0!3m2!1sen!2sin!4v1710313092970!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </section>
   <!-- --------------- End Map --------------- -->
 

@@ -12,10 +12,11 @@
 
 
   <!-- --------------- Start Banner ----------- -->
-  <div class="container-fluid top-banner" style="background-image:url(assets/img/banner/home-bannera.jpg); height: 600px; width:100%;">
+  <div class="container-fluid top-banner">
+    <!-- <div class="container-fluid "> -->
     <div class="row">
       <div class="col-lg-8 ms-lg-5 ms-sm-0">
-        <div class="banner__content_title" style="margin-top: 60px;">
+        <div class="banner__content_title-home" style="margin-top: 60px;">
           <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             Design.Consult.<br>
             Advertise. </h1>
@@ -247,6 +248,11 @@
       <!-- ------ partner End -->
       <div class="projects__usecase mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <div class="row align-items-center">
+          <div class="col-lg-6 mt-5 mt-lg-0">
+            <div>
+              <img src="assets/img/projects/about.jpg" alt="" class="projects__usecase_img" />
+            </div>
+          </div>
           <div class="col-lg-6">
             <div class="projects__usecase_content">
               <h3 class="t__54">
@@ -268,11 +274,7 @@
               </button>
             </div>
           </div>
-          <div class="col-lg-6 mt-5 mt-lg-0">
-            <div>
-              <img src="assets/img/projects/about.jpg" alt="" class="projects__usecase_img" />
-            </div>
-          </div>
+
         </div>
       </div>
     </div>
@@ -369,6 +371,7 @@
         <div class="ser-row mt-5">
           <div>
             <div class="slides">
+              <img src="assets/img/icon/dm.png" alt="" />
               <!-- <i class="fa-solid fa-chart-simple"></i> -->
               <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
               <h2>Digital Marketing</h2>
@@ -388,7 +391,7 @@
           </div>
           <div>
             <div class="slides">
-
+              <img src="assets/img/icon/cc.png" alt="" />
               <h2>Content Creation</h2>
               <ul class="mb-5">
                 <li>Engaging Copywriting</li>
@@ -407,6 +410,7 @@
           </div>
           <div>
             <div class="slides">
+              <img src="assets/img/icon/graph.png" alt="" />
               <h2>Graphic Designing</h2>
               <ul class="mb-5">
                 <li>Logo Design and Branding</li>
@@ -424,6 +428,7 @@
           </div>
           <div>
             <div class="slides">
+              <img src="assets/img/icon/web.png" alt="" />
               <h2>Web Development</h2>
               <ul class="mb-5">
                 <li>Custom Website Design and Development</li>
@@ -441,6 +446,7 @@
           </div>
           <div>
             <div class="slides">
+              <img src="assets/img/icon/brand.png" alt="" />
               <h2>Brand Identity</h2>
               <ul class="mb-5">
                 <li>Brand Guidelines Development</li>
@@ -451,6 +457,7 @@
                   Brand Identity Consultation
                 </li>
                 <li>Brand Collateral Design</li>
+                <li>Brand Recognition</li>
 
               </ul>
               <a href="brand.php" class="mt-3
@@ -459,6 +466,7 @@
           </div>
           <div>
             <div class="slides">
+              <img src="assets/img/icon/comm.png" alt="" />
               <h2>Consulting</h2>
               <ul class="mb-5">
                 <li>Strategic Planning</li>
@@ -802,7 +810,7 @@
           <div class="pricing__card">
             <div class="text-center pricing__card_title">
               <h6>Basic plan</h6>
-              <h1 class="t__54">20000 ₹ </h1>
+              <h1 class="t__54"> ₹ 20,000 </h1>
               <p>Per year</p>
             </div>
             <span class="border__full"></span>
@@ -846,7 +854,7 @@
           <div class="pricing__card">
             <div class="text-center pricing__card_title">
               <h6 class="">Business plan</h6>
-              <h1 class="t__54">40,000 ₹ </h1>
+              <h1 class="t__54"> ₹ 40,000</h1>
               <p>Per year</p>
             </div>
             <span class="border__full"></span>
@@ -890,7 +898,7 @@
           <div class="pricing__card">
             <div class="text-center pricing__card_title">
               <h6>Advanced plan</h6>
-              <h1 class="t__54">80,000 ₹ </h1>
+              <h1 class="t__54"> ₹ 80,000 </h1>
               <p>Per year</p>
             </div>
             <span class="border__full"></span>
@@ -934,7 +942,7 @@
           <div class="pricing__card">
             <div class="text-center pricing__card_title">
               <h6>Premium plan</h6>
-              <h1 class="t__54"> 1,00,00 ₹ </h1>
+              <h1 class="t__54"> ₹ 1,00,00</h1>
               <p>Per year</p>
             </div>
             <span class="border__full"></span>
