@@ -1262,7 +1262,8 @@ p {
     padding: 40px;
     background-color: #fff;
     border-radius: 10px;
-    transition: all .5s
+    transition: all .5s;
+    height: 450px;
 }
 
 @media(max-width: 768px) {
@@ -1272,19 +1273,23 @@ p {
 }
 
 .services .service__card:hover {
-    background-color: var(--btn-clr)
+    background-color: #FA991C;
 }
 
-.services .service__card:hover p {
+/* .services .service__card:hover p {
     color: var(--secondary-clr)
-}
+} */
 
 .services .service__card:hover a {
-    color: var(--secondary-clr)
+    color: #032539;
+}
+
+.services .service__card .up__icon {
+    filter: brightness(70%) contrast(150%) saturate(0%);
 }
 
 .services .service__card:hover .up__icon {
-    filter: brightness(70%) contrast(150%) saturate(0%)
+    filter: brightness(70%) contrast(150%) saturate(0%);
 }
 
 .services .service__card:hover .yellow {
@@ -1295,10 +1300,26 @@ p {
     display: block
 }
 
-.services .service__card h3 {
-    color: var(--secondary-clr);
+.service__card h3 {
+    color: #333;
     margin-top: 30px;
     display: block
+}
+
+.service__card>img {
+    width: 80px;
+    height: 80px;
+    object-fit: fill;
+}
+
+.service__card:hover h3 {
+    color: #fff;
+}
+
+.service__card:hover ul li {
+    color: #ffffff;
+
+
 }
 
 @media(max-width: 576px) {
@@ -1324,7 +1345,7 @@ p {
 .services .service__card a {
     transition: all .5s;
     color: var(--main-clr);
-    font-weight: 600
+    font-weight: 600;
 }
 
 .services .service__card .black {

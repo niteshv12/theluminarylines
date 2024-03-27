@@ -94,7 +94,7 @@
       <span class="navbar-toggler-icon t"></span>
     </button>
     <div class="collapse navbar-collapse " id="navbarSupportedContent">
-      <ul class="navbar-nav justify-content-between align-items-center  " style="margin-left:-65px; ">
+      <ul class="navbar-nav justify-content-between align-items-center  " style="margin-left:-30px; ">
         <li class="dropdown__container">
           <div class="d-flex justify-content-between align-items-center ga">
             <a href="index.php">Home </a>

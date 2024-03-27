@@ -558,16 +558,39 @@
     margin-left: 40px;
 }
 
+.banner__content_title-t {
+    margin-left: 150px;
+}
+
+.banner__content_title-t>span {
+    /* margin-left: 150px; */
+    color: #fff;
+}
+
 .banner__content_title-s>h1 {
     font-size: 58px;
     color: #fff;
+    margin-left: 150px;
 }
 
 @media (max-width: 575.98px) {
     .banner__content_title-s {
-        margin-top: 60px;
+        margin-top: 30px;
+        margin-left: 10px;
+        /* background-color: #fa991c; */
+    }
+
+    .banner__content_title-s>h1 {
+        font-size: 58px;
+        color: #fff;
+        margin-left: 10px;
+        /* background-color: #fa991c; */
+    }
+
+    .banner__content_title-t {
         margin-left: 20px;
     }
+
 }
 
 .about__wapper_right>button {
@@ -692,4 +715,40 @@
     color: #E3ECE7;
     padding: 20px 10px;
     margin-top: 20px;
+}
+
+.service__cards {
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 10px;
+    transition: all .5s
+}
+
+.service__cards {
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 10px;
+    transition: all .5s
+}
+
+.service__card>h3 {
+    color: #032539;
+}
+
+.service-head {
+    background-image: url(../img/banner/service.jpg);
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+
+}
+
+@media (max-width: 575.98px) {
+    .service-head {
+        background-image: url(../img/banner/service.jpg);
+        width: 100%;
+        height: 400px;
+        object-fit: fill;
+
+    }
 }

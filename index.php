@@ -401,7 +401,7 @@
                 <li>Blog and Article Writing</li>
                 <li>Social Media Content Creation</li>
               </ul>
-              <a href="content-creation.php" class="text-dark mt-3
+              <a href="content-creation.php" class="text-light mt-3
               " style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
             </div>
           </div>
