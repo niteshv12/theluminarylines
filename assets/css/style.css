@@ -752,3 +752,59 @@
 
     }
 }
+
+.who-banner {
+    background-image: url(../img/banner/who-we-are.jpg);
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
+
+@media (max-width: 575.98px) {
+    .who-banner {
+        background-image: url(../img/banner/who-we-are.jpg);
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+    }
+}
+
+.banner__content_title-w {
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+.banner__content_title-w>h1 {
+    color: #ffffff;
+    font-size: 80px;
+    line-height: 100px;
+    font-weight: 600;
+}
+
+@media(max-width: 1200px) {
+    .banner__content_title-w h1 {
+        font-size: 80px;
+        line-height: 80px
+    }
+}
+
+@media(max-width: 991px) {
+    .banner__content_title-w h1 {
+        font-size: 60px;
+        line-height: 60px
+    }
+}
+
+@media(max-width: 576px) {
+
+    .banner__content_title-w {
+        margin-top: 40px;
+        margin-left: 20px;
+    }
+
+    .banner__content_title-w h1 {
+        font-size: 36px;
+        line-height: 53px;
+
+    }
+}

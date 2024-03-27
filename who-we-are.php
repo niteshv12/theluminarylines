@@ -9,7 +9,7 @@
   <!-- --------------- End Header ------------ -->
 
   <!-- --------------- Start page header ----------- -->
-  <section class="page__header position-relative" style="background-image: url(assets/img/banner/who-we-are.jpg); width:100%; height: 600px; object-fit:cover;">
+  <section class="page__header position-relative who-banner">
     <div class="container">
       <!-- <div class="row">
         <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
@@ -30,12 +30,12 @@
         <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
           <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
           <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
-          <div class="banner__content_title" style="margin-top: 60px; margin-left: 40px;">
+          <div class="banner__content_title-w">
             <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
               Who We Are? </h1>
             <div class="d-flex justify-content-center gap-2">
               <a href="index.html">Home</a>
-              <span>/</span> <a href="who_we_are.html">Who We Are?</a>
+              <span class="text-light">/</span> <a href="who_we_are.html">Who We Are?</a>
             </div>
           </div>
           <!-- <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" /> -->
