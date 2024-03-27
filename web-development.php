@@ -7,41 +7,37 @@
   <!-- --------------- End Header ------------ -->
 
   <!-- --------------- Start page header ----------- -->
-  <section class="page__header position-relative service-head">
+  <!-- <section class="page__header position-relative " style="background-image: url(assets/img/banner/service.jpg); width:100%; height: 600px; object-fit:cover;">
     <div class="container">
       <div class="row">
         <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
-          <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
-          <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
           <div class="banner__content_title-s">
-            <h1 data-aos="fade-up text-dark mt-5 ms-5 mt-sm-5 ms-sm-2" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <h1 data-aos="fade-up text-dark mt-5 ms-5 mt-sm-5 ms-sm-2" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" style="margin-left:150px;">
               Services </h1>
-            <div class="d-flex justify-content-center gap-2 banner__content_title-t ">
+            <div class="d-flex justify-content-center gap-2" style="margin-left:150px;">
               <a href="index.php">Home</a>
               <span>/</span> <a href="digital-marketing.php">Services</a>
-              <span>/</span><a href="brand.php">Brand-Identity</a>
             </div>
           </div>
-          <!-- <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" /> -->
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- --------------- End page header ----------- -->
 
   <!--  start service details -->
 
   <article class="service__details py__130">
     <div class="container ">
-      <img src="assets/img/services/brand.jpg" alt="" class="w-100 thumb__img" />
+      <img src="assets/img/services/web.jpg" alt="" class="w-100 thumb__img" />
       <div class="first__para pt__60">
         <h2 class="t__54 text-dark" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          Brand Identity
+          Web Development
         </h2>
         <p>
-          Brand Identity services involve developing and maintaining a consistent and recognizable visual and verbal identity for your brand. This encompasses elements such as logos, brand guidelines, positioning, messaging, and collateral design. Here's a breakdown:
+          Web Development encompasses the design, construction, and upkeep of websites to ensure they are functional, user-friendly, and visually appealing. This includes.
         </p>
-        <!-- <h4 class="t__28 mt-5">Content
+        <!-- <h4 class="t__28 mt-5">
           Search Engine Optimization (SEO)
         </h4>
         <p>
@@ -53,7 +49,7 @@
       <div class="second__para pt__60">
         <div class="row justify-content-between align-items-center">
           <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <img src="assets/img/services/lb.jpg" alt="" class="w-100" />
+            <img src="assets/img/services/web1.jpg" alt="" class="w-100" />
           </div>
           <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             <!-- <div>
@@ -68,10 +64,10 @@
               </ul>
             </div> -->
             <h4 class="t__28 mb-5 text-dark">
-              Logo Design and Branding
+              Custom Website Design and Development
             </h4>
             <p class="text-dark">
-              Crafting a visual identity that encapsulates your brand's personality and values. Logo design and branding are essential for creating a memorable and recognizable brand image that resonates with your target audience.
+              Tailoring a unique and visually captivating website to align with your brand's identity and meet your specific business objectives. By incorporating customized features and design elements, custom website development ensures a memorable online presence that stands out from the competition.
             </p>
           </div>
         </div>
@@ -92,15 +88,15 @@
               </ul>
             </div> -->
             <h4 class="t__28 mb-5 text-dark">
-              Brand Guidelines Development
+              E-commerce Solutions
             </h4>
             <p class="text-dark">
-              Establishing guidelines for the consistent use of your brand elements across all channels. Brand guidelines ensure uniformity in brand representation and help maintain brand integrity and coherence across various touchpoints.
+              Building an online store that enables you to showcase and sell your products or services directly to customers. With e-commerce solutions, businesses can create seamless shopping experiences, manage inventory, process transactions securely, and drive sales growth in the digital marketplace.
 
             </p>
           </div>
           <div class="col-md-5 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <img src="assets/img/services/lb2.jpg" alt="" class="w-100" />
+            <img src="assets/img/services/web2.jpg" alt="" class="w-100" />
           </div>
         </div>
       </div>
@@ -122,7 +118,7 @@
       <div class="second__para pt__60">
         <div class="row justify-content-between align-items-center">
           <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <img src="assets/img/services/lb3.jpg" alt="" class="w-100" />
+            <img src="assets/img/services/web3.jpg" alt="" class="w-100" />
           </div>
           <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             <!-- <div>
@@ -137,10 +133,10 @@
             </ul>
           </div> -->
             <h4 class="t__28 mb-5 text-dark">
-              Brand Positioning and Messaging
+              Mobile-Friendly Responsive Design
             </h4>
             <p class="text-dark">
-              Defining your brand's positioning and messaging to effectively communicate with your target audience. Brand positioning determines how your brand is perceived relative to competitors, while messaging conveys your brand's value proposition and resonates with your audience's needs and aspirations.
+              Optimizing your website to deliver a seamless user experience across various devices, including desktops, tablets, and smartphones. Mobile-friendly responsive design ensures that your website adapts and functions flawlessly on different screen sizes, enhancing accessibility and engagement for mobile users.
             </p>
           </div>
 
@@ -171,14 +167,15 @@
             </ul>
           </div> -->
             <h4 class="t__28 mb-5 text-dark">
-              Brand Identity Consultation
+              Website Maintenance and Support
             </h4>
             <p class="text-dark">
-              Providing expert guidance and recommendations to help you define and refine your brand identity. Brand identity consultation involves understanding your brand's essence, audience, and objectives to develop strategies for building a strong and cohesive brand image.
+              Providing ongoing maintenance and technical support to keep your website up-to-date, secure, and running smoothly. This includes regular updates, security patches, bug fixes, and troubleshooting to address any issues and ensure optimal performance over time.
             </p>
+            <p class="text-dark"> By investing in web development services, businesses can create a professional online presence, expand their reach, and enhance user experiences to drive engagement and achieve their digital objectives effectively.</p>
           </div>
           <div class="col-md-5 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <img src="assets/img/services/lb4.jpg" alt="" class="w-100" />
+            <img src="assets/img/services/web4.jpg" alt="" class="w-100" />
           </div>
         </div>
       </div>
@@ -193,7 +190,7 @@
       <div class="second__para pt__60">
         <div class="row justify-content-between align-items-center">
           <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <img src="assets/img/services/lb5.jpg" alt="" class="w-100" />
+            <img src="assets/img/services/web5.jpg" alt="" class="w-100" />
           </div>
           <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             <!-- <div>
@@ -208,14 +205,12 @@
             </ul>
           </div> -->
             <h4 class="t__28 mb-5 text-dark">
-              Brand Collateral Design
+              Social Media Content Creation
             </h4>
             <p class="text-dark">
-              Designing collateral materials such as business cards, letterheads, and presentations that reflect your brand identity. Brand collateral design ensures that all printed and digital materials align with your brand's visual identity and messaging, reinforcing brand recognition and consistency.
+              Develop engaging content tailored for social media platforms to attract followers, increase brand awareness, and foster community engagement. From eye-catching graphics and memes to interactive polls and live videos, social media content creation helps humanize your brand, spark conversations, and drive meaningful interactions with your audience.
             </p>
-            <p class="text-dark">
-              By investing in Brand Identity services, businesses can establish a strong and cohesive brand presence that resonates with their target audience, fosters brand loyalty, and drives long-term success in the marketplace.
-            </p>
+            <p class="text-dark">Businesses can effectively express their brand message, establish relationships with their audience, and drive engagement and conversions in today's digital market by concentrating on content development across these different mediums.</p>
           </div>
         </div>
       </div>

@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Title</title>
+  <title>The Luminary Lines</title>
   <!-- Required meta tags -->
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -107,15 +107,15 @@
         </li>
 
 
-        <li class="dropdown ms-4 ga"><a href="#"><span>Services </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-          <ul>
+        <li class="dropdown ms-4 ga"><a href="services.php"><span>Services </span></a>
+          <!-- <ul>
             <li><a href="digital-marketing.php">Digital Marketing</a></li>
             <li><a href="content-creation.php">Content Creation</a></li>
             <li><a href="web-dev.php">Web Development</a></li>
             <li><a href="brand.php">Brand Identity</a></li>
             <li><a href="graphic-design.php">Graphic Designing</a></li>
             <li><a href="consulting.php">Consulting</a></li>
-          </ul>
+          </ul> -->
         </li>
         <li class="dropdown__container ms-4">
           <div class="d-flex justify-content-between align-items-center ga">
