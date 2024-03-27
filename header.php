@@ -6,7 +6,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
+  <link href="assets/img/banner/New-Project2.png" rel="icon" />
   <!-- Bootstrap CSS v5.2.1 -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" crossorigin="anonymous" />
@@ -93,8 +93,8 @@
     <button class="navbar-toggler ms-auto btn-light" type="button" data-bs-toggle="offcanvas" data-bs-target="#staticBackdrop" aria-controls="staticBackdrop">
       <span class="navbar-toggler-icon t"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav justify-content-between align-items-center">
+    <div class="collapse navbar-collapse " id="navbarSupportedContent">
+      <ul class="navbar-nav justify-content-between align-items-center  " style="margin-left:-30px; ">
         <li class="dropdown__container">
           <div class="d-flex justify-content-between align-items-center ga">
             <a href="index.php">Home </a>
@@ -110,15 +110,24 @@
         <li class="dropdown ms-4 ga"><a href="#"><span>Services </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
           <ul>
             <li><a href="digital-marketing.php">Digital Marketing</a></li>
-
+            <li><a href="content-creation.php">Content Creation</a></li>
+            <li><a href="web-dev.php">Web Development</a></li>
+            <li><a href="brand.php">Brand Identity</a></li>
+            <li><a href="graphic-design.php">Graphic Designing</a></li>
+            <li><a href="consulting.php">Consulting</a></li>
           </ul>
         </li>
-        <li class="dropdown ms-4 ga"><a href="#"><span>Our Work </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+        <li class="dropdown__container ms-4">
+          <div class="d-flex justify-content-between align-items-center ga">
+            <a href="faq.php">Faq's </a>
+          </div>
+        </li>
+        <!-- <li class="dropdown ms-4 ga"><a href="#"><span>Our Work </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
           <ul>
             <li><a href="faq.php">Faq's</a></li>
 
           </ul>
-        </li>
+        </li> -->
         <li class="dropdown__container ms-4">
           <div class="d-flex justify-content-between align-items-center ga">
             <a href="blog.php">Blogs </a>
@@ -165,14 +174,24 @@
       <li class="dropdown mt-5 off"><a href="#"><span>Services </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
         <ul>
           <li><a href="digital-marketing.php">Digital Marketing</a></li>
+          <li><a href="content-creation.php">Content Creation</a></li>
+          <li><a href="web-dev.php">Web Development</a></li>
+          <li><a href="brand.php">Brand Identity</a></li>
+          <li><a href="graphic-design.php">Graphic Designing</a></li>
+          <li><a href="consulting.php">Consulting</a></li>
 
         </ul>
       </li>
-      <li class="dropdown mt-5 off"><a href="#"><span>Our Work </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+      <!-- <li class="dropdown mt-5 off"><a href="#"><span>Our Work </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
         <ul>
           <li class="off"><a href="faq.php">Faq's</a></li>
 
         </ul>
+      </li> -->
+      <li class="dropdown__container mt-5 ">
+        <div class="d-flex justify-content-between align-items-center off">
+          <a href="faq.php">Faq's </a>
+        </div>
       </li>
       <li class="dropdown__container mt-5 ">
         <div class="d-flex justify-content-between align-items-center off">

@@ -4,10 +4,12 @@
 <body>
   <!-- --------------- Start Header ------------ -->
   <?php include('header.php'); ?>
+
+
   <!-- --------------- End Header ------------ -->
 
   <!-- --------------- Start page header ----------- -->
-  <section class="page__header position-relative">
+  <!-- <section class="page__header position-relative">
     <div class="container">
       <div class="row">
         <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
@@ -25,15 +27,36 @@
         </div>
       </div>
     </div>
+  </section> -->
+  <!-- --------------- End page header ----------- -->
+  <!-- --------------- Start page header ----------- -->
+  <section class="page__header position-relative service-head">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
+          <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
+          <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
+          <div class="banner__content_title-s">
+            <h1 data-aos="fade-up text-dark mt-5 ms-5 mt-sm-5 ms-sm-2" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+              Services </h1>
+            <div class="d-flex justify-content-center gap-2 banner__content_title-t ">
+              <a href="index.php">Home</a>
+              <span>/</span> <a href="digital-marketing.php">Services</a>
+            </div>
+          </div>
+          <!-- <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" /> -->
+        </div>
+      </div>
+    </div>
   </section>
   <!-- --------------- End page header ----------- -->
-
   <section class="services all__services py__130">
     <div class="container">
       <div class="row">
         <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
-            <img src="assets/img/services/abstract-shape_1.svg" alt="" />
+            <img src="assets/img/icon/dm.png" alt="" />
+            <!-- <i class="fa-solid fa-chart-simple"></i> -->
             <h3 class="t_28">Digital Marketing</h3>
             <ul class="mt-5 mb-5">
               <li>Search Engine Optimization (SEO)</li>
@@ -54,7 +77,7 @@
         </div>
         <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
-            <img src="assets/img/services/x_2.svg" alt="" />
+            <img src="assets/img/icon/cc.png" alt="" />
 
             <h3 class="t__28">Content Creation</h3>
             <ul class="mt-5 mb-5">
@@ -76,7 +99,7 @@
         </div>
         <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
-            <img src="assets/img/services/cubes_1.svg" alt="" />
+            <img src="assets/img/icon/graph.png" alt="" />
             <h3 class="t__28">Graphic Designing</h3>
             <ul class="mt-5 mb-5">
               <li>Logo Design and Branding</li>
@@ -97,7 +120,7 @@
         </div>
         <div class="col-xl-4 col-md-6 mb-5 mb-md-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
-            <img src="assets/img/services/abstract-shape (3) 1.svg" alt="" />
+            <img src="assets/img/icon/web.png" alt="" />
             <h3 class="t__28">Web Development</h3>
             <ul class="mt-5 mb-5">
               <li>Custom Website Design and Development</li>
@@ -118,7 +141,7 @@
         </div>
         <div class="col-xl-4 col-md-6 mb-5 mb-md-0" data-aos="fade-up" data-aos-delay="500" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
-            <img src="assets/img/services/cubes_1.svg" alt="" />
+            <img src="assets/img/icon/brand.png" alt="" />
             <h3 class="t__28">Brand Identity</h3>
             <ul class="mt-5 mb-5">
               <li>Brand Guidelines Development</li>
@@ -139,7 +162,7 @@
         </div>
         <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0" data-aos-duration="1000">
           <div class="service__card">
-            <img src="assets/img/services/abstract-shape (2) 1.svg" alt="" />
+            <img src="assets/img/icon/comm.png" alt="" />
             <h3 class="t__28">Consulting</h3>
             <ul class="mt-5 mb-5 sl">
               <li>Strategic Planning</li>
@@ -160,7 +183,7 @@
         </div>
       </div>
 
-      <div class="custom__pagination" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <!-- <div class="custom__pagination" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <div class="row">
           <div class="col-12">
             <ul class="d-flex justify-content-center">
@@ -176,7 +199,7 @@
             </ul>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
   </section>
 
