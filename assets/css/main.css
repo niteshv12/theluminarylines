@@ -3494,3 +3494,29 @@ p {
     padding: 0;
     margin-top: 130px
 }
+
+.dm-top {
+    background-color: #338EA3;
+    width: 100% !important;
+    height: 440px;
+}
+
+.dm-contact-title>h1 {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    color: #fff;
+    font-size: 80px;
+    text-shadow: 5px 5px #333;
+}
+
+@media (max-width: 575.98px) {
+    .dm-contact-title>h1 {
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        color: #fff;
+        font-size: 20px;
+        text-shadow: 5px 5px #333;
+    }
+}

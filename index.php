@@ -4,41 +4,41 @@
 
 
 
-<body class="home1">
-  <!-- --------------- Start Header ------------ -->
+<!-- <body class="home1"> -->
+<!-- --------------- Start Header ------------ -->
 
-  <?php include('header.php'); ?>
-  <!-- --------------- End Header ------------ -->
+<?php include('header.php'); ?>
+<!-- --------------- End Header ------------ -->
 
 
-  <!-- --------------- Start Banner ----------- -->
-  <div class="container-fluid top-banner">
-    <!-- <div class="container-fluid "> -->
-    <div class="row">
-      <div class="col-lg-8 ms-lg-5 ms-sm-0">
-        <div class="banner__content_title-home" style="margin-top: 60px;">
-          <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            Design.Consult.<br>
-            Advertise. </h1>
-          <p data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
-            High-quality, relevant content is essential for engaging <br>
-            & retaining online audiences.
-          </p>
-        </div>
-        <div class="buttons d-sm-flex align-items-center" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
-          <button class="common__btn buttons_file" style="background-color: #000; border-style: none;">
-            <span> Get A Quote</span>
-            <img src="assets/icons/arrow-up-right.svg" alt="" />
-          </button>
-          <!-- <button class="common__btn buttons_outline mt-4 mt-sm-0">
+<!-- --------------- Start Banner ----------- -->
+<div class="container-fluid top-banner">
+  <!-- <div class="container-fluid "> -->
+  <div class="row">
+    <div class="col-lg-8 ms-lg-5 ms-sm-0">
+      <div class="banner__content_title-home" style="margin-top: 60px;">
+        <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+          Design.Consult.<br>
+          Advertise. </h1>
+        <p data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+          High-quality, relevant content is essential for engaging <br>
+          & retaining online audiences.
+        </p>
+      </div>
+      <div class="buttons d-sm-flex align-items-center" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+        <button class="common__btn buttons_file" style="background-color: #000; border-style: none;">
+          <span> Get A Quote</span>
+          <img src="assets/icons/arrow-up-right.svg" alt="" />
+        </button>
+        <!-- <button class="common__btn buttons_outline mt-4 mt-sm-0">
             <span>More About Us</span>
             <img src="assets/icons/arrow-up-right-yellow.svg" alt="" />
           </button> -->
-        </div>
       </div>
     </div>
   </div>
-  <!-- <section class="banner overflow-hidden">
+</div>
+<!-- <section class="banner overflow-hidden">
     <div class="container position-relative">
       <div class="row">
         <div class="col-lg-8">
@@ -100,19 +100,19 @@
       </div>
     </div>
   </section> -->
-  <!-- --------------- End Banner ----------- -->
+<!-- --------------- End Banner ----------- -->
 
-  <!-- --------------- Start About ----------- -->
-  <section class="about py__40 " id="about">
-    <div class="container">
-      <div class="row justify-content-between about__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <div class="col-lg-10">
-          <div class="intro">
-            <!-- <h1 class="title">
+<!-- --------------- Start About ----------- -->
+<section class="about py__40 " id="about">
+  <div class="container">
+    <div class="row justify-content-between about__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <div class="col-lg-10">
+        <div class="intro">
+          <!-- <h1 class="title">
               Welcome to<br>
               <span class="mt-5">Luminary Lines!</span>
             </h1> -->
-            <!-- <p class="mt-5">
+          <!-- <p class="mt-5">
               Your all-in-one destination for advertising, consulting, and designing excellence.
               We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting
               insights, and delivering stunning designs that elevate your brand.
@@ -121,72 +121,72 @@
               At Luminary Lines, we merge creativity with strategy to illuminate your brand's journey, ensuring it
               stands out in the ever-evolving landscape.
             </p> -->
-          </div>
-        </div>
-        <div class="col-lg-2">
-          <div class="about__title_shap position-relative">
-            <img src="assets/img/banner/Shape.svg" alt="" class="w-100" />
-          </div>
         </div>
       </div>
-      <div class="row justify-content-between align-items-center about__wapper">
-        <div class="col-xl-6 col-lg-6">
-          <div class="about__wapper_left" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <h1 class="title">
-              Welcome to<br>
-              <span class="mt-5">Luminary Lines!</span>
-            </h1>
-            <p class="mt-4">
-              Your all-in-one destination for advertising, consulting, and designing excellence.
-              We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting
-              insights, and delivering stunning designs that elevate your brand.
-            </p>
-            <!-- <a href="about.html" class="circle">
+      <div class="col-lg-2">
+        <div class="about__title_shap position-relative">
+          <img src="assets/img/banner/Shape.svg" alt="" class="w-100" />
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-between align-items-center about__wapper">
+      <div class="col-xl-6 col-lg-6">
+        <div class="about__wapper_left" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+          <h1 class="title">
+            Welcome to<br>
+            <span class="mt-5">Luminary Lines!</span>
+          </h1>
+          <p class="mt-4">
+            Your all-in-one destination for advertising, consulting, and designing excellence.
+            We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting
+            insights, and delivering stunning designs that elevate your brand.
+          </p>
+          <!-- <a href="about.html" class="circle">
               <img src="assets/icons/arrow-up-right-yellow.svg" alt="" class="yellow" />
               <img src="assets/icons/arrow-up-rignt-black.svg" alt="" class="black" />
               <span>Get A Quote</span>
             </a> -->
+        </div>
+        <div class="row">
+          <div class="col-lg-6 about__wapper_right mt-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+            <ul>
+              <li>
+                <img src="assets/icons/checkmark.svg" alt="" />
+                <span>We Grow Businesses</span>
+              </li>
+              <li>
+                <img src="assets/icons/checkmark.svg" alt="" />
+                <span>We’re skilled developers</span>
+              </li>
+              <li>
+                <img src="assets/icons/checkmark.svg" alt="" />
+                <span>Perfect & modern solution</span>
+              </li>
+              <li>
+                <img src="assets/icons/checkmark.svg" alt="" />
+                <span>Quality marketing</span>
+              </li>
+            </ul>
+            <button class="common__btn buttons_file mt-5" style="background-color: #000; border-style: none;">
+              <span> Get A Quote</span>
+              <img src="assets/icons/arrow-up-right.svg" alt="" />
+            </button>
           </div>
-          <div class="row">
-            <div class="col-lg-6 about__wapper_right mt-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
-              <ul>
-                <li>
-                  <img src="assets/icons/checkmark.svg" alt="" />
-                  <span>We Grow Businesses</span>
-                </li>
-                <li>
-                  <img src="assets/icons/checkmark.svg" alt="" />
-                  <span>We’re skilled developers</span>
-                </li>
-                <li>
-                  <img src="assets/icons/checkmark.svg" alt="" />
-                  <span>Perfect & modern solution</span>
-                </li>
-                <li>
-                  <img src="assets/icons/checkmark.svg" alt="" />
-                  <span>Quality marketing</span>
-                </li>
-              </ul>
-              <button class="common__btn buttons_file mt-5" style="background-color: #000; border-style: none;">
-                <span> Get A Quote</span>
-                <img src="assets/icons/arrow-up-right.svg" alt="" />
-              </button>
-            </div>
-            <!-- <div class="col-lg-6 mt-5 ms-auto d-sm-block d-none " style="position: absolute; left: 30%; z-index: 25px;" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+          <!-- <div class="col-lg-6 mt-5 ms-auto d-sm-block d-none " style="position: absolute; left: 30%; z-index: 25px;" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
               <a href="contact.php" class="circle">
                 <img src="assets/icons/arrow-up-right-yellow.svg" alt="" class="yellow" />
                 <img src="assets/icons/arrow-up-rignt-black.svg" alt="" class="black" />
                 <span>Get A Quote</span>
               </a>
             </div> -->
-          </div>
         </div>
-        <div class="col-xl-6 col-lg-6 abe" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
-          <div class=" about__wapper_center" style="z-index: -25px;">
-            <img src="assets/img/about/ab3.jpg" alt="" />
-          </div>
+      </div>
+      <div class="col-xl-6 col-lg-6 abe" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+        <div class=" about__wapper_center" style="z-index: -25px;">
+          <img src="assets/img/about/ab3.jpg" alt="" />
         </div>
-        <!-- <div class="col-xl-3 col-lg-6 mt-5 mt-xl-0">
+      </div>
+      <!-- <div class="col-xl-3 col-lg-6 mt-5 mt-xl-0">
           <ul class="about__wapper_right" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0"
             data-aos-duration="1000">
             <li>
@@ -207,9 +207,9 @@
             </li>
           </ul>
         </div> -->
-      </div>
-      <!-- ------ partner start -->
-      <!-- <div class="partner">
+    </div>
+    <!-- ------ partner start -->
+    <!-- <div class="partner">
         <div class="partner__wapper">
           <div class="partner__content">
             <div class="slide">
@@ -245,44 +245,44 @@
           </div>
         </div>
       </div> -->
-      <!-- ------ partner End -->
-      <div class="projects__usecase mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <div class="row align-items-center">
-          <div class="col-lg-6 mt-5 mt-lg-0">
-            <div>
-              <img src="assets/img/projects/about.jpg" alt="" class="projects__usecase_img" />
-            </div>
+    <!-- ------ partner End -->
+    <div class="projects__usecase mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <div class="row align-items-center">
+        <div class="col-lg-6 mt-5 mt-lg-0">
+          <div>
+            <img src="assets/img/projects/about.jpg" alt="" class="projects__usecase_img" />
           </div>
-          <div class="col-lg-6">
-            <div class="projects__usecase_content">
-              <h3 class="t__54">
-                About Us
-              </h3>
-              <p class="pt__20 text-dark">
-                Luminary Lines is an esteemed advertising, consulting, and design firm. Our purpose is to elevate brands
-                and boost their success through innovative solutions.
-              </p>
-              <p class="para2 text-dark">
-                Your all-in-one destination for advertising, consulting, and designing excellence.
-                We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting
-                insights, and delivering stunning designs that elevate your brand.
-              </p>
-              <button class="common__btn" style="border-style: none;"><a href="who-we-are.php">
-                  <span>Know More</span>
-                  <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-                </a>
-              </button>
-            </div>
-          </div>
-
         </div>
+        <div class="col-lg-6">
+          <div class="projects__usecase_content">
+            <h3 class="t__54">
+              About Us
+            </h3>
+            <p class="pt__20 text-dark">
+              Luminary Lines is an esteemed advertising, consulting, and design firm. Our purpose is to elevate brands
+              and boost their success through innovative solutions.
+            </p>
+            <p class="para2 text-dark">
+              Your all-in-one destination for advertising, consulting, and designing excellence.
+              We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting
+              insights, and delivering stunning designs that elevate your brand.
+            </p>
+            <button class="common__btn" style="border-style: none;"><a href="who-we-are.php">
+                <span>Know More</span>
+                <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+              </a>
+            </button>
+          </div>
+        </div>
+
       </div>
     </div>
+  </div>
 
-  </section>
-  <!-- --------------- End About ----------- -->
-  <!-- new services start -->
-  <!-- <section id="new-services" class="pt-8 pb-10 " style="background-color:#417972;">
+</section>
+<!-- --------------- End About ----------- -->
+<!-- new services start -->
+<!-- <section id="new-services" class="pt-8 pb-10 " style="background-color:#417972;">
     <div class="container-fluid">
       <div class="container">
         <div class="row text-center ser">
@@ -353,151 +353,151 @@
       </div>
     </div>
   </section> -->
-  <!-- new services end -->
+<!-- new services end -->
 
 
-  <!-- --------------- Start Testimonial ----------- -->
-  <section class="testimonial py__60 ">
-    <div class="container position-relative">
-      <!-- title Start -->
-      <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <h1 class="title-testimonials text-center">
-          Services
-        </h1>
-      </div>
-      <!-- title End -->
+<!-- --------------- Start Testimonial ----------- -->
+<section class="testimonial py__60 ">
+  <div class="container position-relative">
+    <!-- title Start -->
+    <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <h1 class="title-testimonials text-center">
+        Services
+      </h1>
+    </div>
+    <!-- title End -->
 
-      <div class="services__wapper" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <div class="ser-row mt-5">
-          <div>
-            <div class="slides">
-              <img src="assets/img/icon/dm.png" alt="" />
-              <!-- <i class="fa-solid fa-chart-simple"></i> -->
-              <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
-              <h2>Digital Marketing</h2>
-              <ul class="mb-5">
-                <li>Search Engine Optimization (SEO)</li>
-                <li>
-                  Search Engine Marketing (SEM)
-                </li>
-                <li>
-                  Social Media Marketing (SMM)
-                </li>
-                <li>Email Marketing</li>
-                <li>Pay-Per-Click (PPC) Advertising</li>
-              </ul>
-              <a href="digital-marketing.php" class="mt-5" style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
-            </div>
+    <div class="services__wapper" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <div class="ser-row mt-5">
+        <div>
+          <div class="slides">
+            <img src="assets/img/icon/dm.png" alt="" />
+            <!-- <i class="fa-solid fa-chart-simple"></i> -->
+            <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
+            <h2>Digital Marketing</h2>
+            <ul class="mb-5">
+              <li>Search Engine Optimization (SEO)</li>
+              <li>
+                Search Engine Marketing (SEM)
+              </li>
+              <li>
+                Social Media Marketing (SMM)
+              </li>
+              <li>Email Marketing</li>
+              <li>Pay-Per-Click (PPC) Advertising</li>
+            </ul>
+            <a href="digital-marketing.php" class="mt-5"> Read More</a>
           </div>
-          <div>
-            <div class="slides">
-              <img src="assets/img/icon/cc.png" alt="" />
-              <h2>Content Creation</h2>
-              <ul class="mb-5">
-                <li>Engaging Copywriting</li>
-                <li>
-                  Compelling Video Production
-                </li>
-                <li>
-                  Stunning Photography
-                </li>
-                <li>Blog and Article Writing</li>
-                <li>Social Media Content Creation</li>
-              </ul>
-              <a href="content-creation.php" class="text-light mt-3
-              " style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
-            </div>
+        </div>
+        <div>
+          <div class="slides">
+            <img src="assets/img/icon/cc.png" alt="" />
+            <h2>Content Creation</h2>
+            <ul class="mb-5">
+              <li>Engaging Copywriting</li>
+              <li>
+                Compelling Video Production
+              </li>
+              <li>
+                Stunning Photography
+              </li>
+              <li>Blog and Article Writing</li>
+              <li>Social Media Content Creation</li>
+            </ul>
+            <a href="content-creation.php" class=" mt-3
+              "> Read More</a>
           </div>
-          <div>
-            <div class="slides">
-              <img src="assets/img/icon/graph.png" alt="" />
-              <h2>Graphic Designing</h2>
-              <ul class="mb-5">
-                <li>Logo Design and Branding</li>
-                <li>
-                  Brochure and Flyer Design
-                </li>
-                <li>
-                  Poster and Banner Design
-                </li>
-                <li>Infographics</li>
-                <li>Packaging Design</li>
-              </ul>
-              <a href="graphic-design.php" class="mt-3 " style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
-            </div>
+        </div>
+        <div>
+          <div class="slides">
+            <img src="assets/img/icon/graph.png" alt="" />
+            <h2>Graphic Designing</h2>
+            <ul class="mb-5">
+              <li>Logo Design and Branding</li>
+              <li>
+                Brochure and Flyer Design
+              </li>
+              <li>
+                Poster and Banner Design
+              </li>
+              <li>Infographics</li>
+              <li>Packaging Design</li>
+            </ul>
+            <a href="graphic-design.php" class="mt-3 "> Read More</a>
           </div>
-          <div>
-            <div class="slides">
-              <img src="assets/img/icon/web.png" alt="" />
-              <h2>Web Development</h2>
-              <ul class="mb-5">
-                <li>Custom Website Design and Development</li>
-                <li>
-                  E-commerce Solutions
-                </li>
-                <li>
-                  Mobile-Friendly Responsive Design
-                </li>
-                <li>Website Maintenance and Support</li>
+        </div>
+        <div>
+          <div class="slides">
+            <img src="assets/img/icon/web.png" alt="" />
+            <h2>Web Development</h2>
+            <ul class="mb-5">
+              <li>Custom Website Design and Development</li>
+              <li>
+                E-commerce Solutions
+              </li>
+              <li>
+                Mobile-Friendly Responsive Design
+              </li>
+              <li>Website Maintenance and Support</li>
 
-              </ul>
-              <a href="web-dev.php" class=" mt-3" style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
-            </div>
+            </ul>
+            <a href="web-dev.php" class=" mt-3"> Read More</a>
           </div>
-          <div>
-            <div class="slides">
-              <img src="assets/img/icon/brand.png" alt="" />
-              <h2>Brand Identity</h2>
-              <ul class="mb-5">
-                <li>Brand Guidelines Development</li>
-                <li>
-                  Brand Positioning and Messaging
-                </li>
-                <li>
-                  Brand Identity Consultation
-                </li>
-                <li>Brand Collateral Design</li>
-                <li>Brand Recognition</li>
+        </div>
+        <div>
+          <div class="slides">
+            <img src="assets/img/icon/brand.png" alt="" />
+            <h2>Brand Identity</h2>
+            <ul class="mb-5">
+              <li>Brand Guidelines Development</li>
+              <li>
+                Brand Positioning and Messaging
+              </li>
+              <li>
+                Brand Identity Consultation
+              </li>
+              <li>Brand Collateral Design</li>
+              <li>Brand Recognition</li>
 
-              </ul>
-              <a href="brand.php" class="mt-3
-              " style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
-            </div>
+            </ul>
+            <a href="brand.php" class="mt-3
+              "> Read More</a>
           </div>
-          <div>
-            <div class="slides">
-              <img src="assets/img/icon/comm.png" alt="" />
-              <h2>Consulting</h2>
-              <ul class="mb-5">
-                <li>Strategic Planning</li>
-                <li>
-                  Market Analysis and Research
-                </li>
-                <li>
-                  Brand Strategy Development
-                </li>
-                <li>Digital Marketing Strategy</li>
-                <li>Campaign Optimization</li>
-              </ul>
-              <a href="consulting.php" class=" mt-3" style="background-color:#032539; padding:10px 20px; margin-top: 20px;"> Read More</a>
-            </div>
+        </div>
+        <div>
+          <div class="slides">
+            <img src="assets/img/icon/comm.png" alt="" />
+            <h2>Consulting</h2>
+            <ul class="mb-5">
+              <li>Strategic Planning</li>
+              <li>
+                Market Analysis and Research
+              </li>
+              <li>
+                Brand Strategy Development
+              </li>
+              <li>Digital Marketing Strategy</li>
+              <li>Campaign Optimization</li>
+            </ul>
+            <a href="consulting.php" class=" mt-3"> Read More</a>
           </div>
         </div>
       </div>
     </div>
-  </section>
-  <!-- --------------- End Testimonial ----------- -->
+  </div>
+</section>
+<!-- --------------- End Testimonial ----------- -->
 
 
-  <!-- --------------- Start Services ----------- -->
-  <section class="services  " id="services">
-    <div class="container position-relative">
-      <div class="row text-center ser">
-        <!-- <h1 class="mt-4">
+<!-- --------------- Start Services ----------- -->
+<section class="services  " id="services">
+  <div class="container position-relative">
+    <div class="row text-center ser">
+      <!-- <h1 class="mt-4">
           Our Services
         </h1> -->
-      </div>
-      <!-- <div class="row ser-row justify-content-between align-items-center about__wapper">
+    </div>
+    <!-- <div class="row ser-row justify-content-between align-items-center about__wapper">
         <div class="g-5">
           <div class="ser-col text-center">
             <img src="assets/img/banner/web.png" alt="">
@@ -666,87 +666,87 @@
 
       </div> -->
 
-      <!-- <a href="digital-marketing.php" class="common__btn2 mt-4 mt-lg-0" style="border-style: none;">
+    <!-- <a href="digital-marketing.php" class="common__btn2 mt-4 mt-lg-0" style="border-style: none;">
         <span>View All Services</span>
         <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
       </a> -->
 
-      <!-- -- counter start -->
-      <div class="counter">
-        <div class="counter__box">
-          <h1 class="counter__number">549+</h1>
-          <p class="counter__text">Total Client</p>
-        </div>
-        <div class="counter__box">
-          <h1 class="counter__number">100%</h1>
-          <p class="counter__text">Your Satisfaction Rate</p>
-        </div>
-        <div class="counter__box">
-          <h1 class="counter__number">836</h1>
-          <p class="counter__text">Total Employee</p>
-        </div>
-        <div class="counter__box">
-          <h1 class="counter__number">67+</h1>
-          <p class="counter__text">Global Awards</p>
-        </div>
+    <!-- -- counter start -->
+    <div class="counter">
+      <div class="counter__box">
+        <h1 class="counter__number">549+</h1>
+        <p class="counter__text">Total Client</p>
       </div>
-      <!-- -- counter end -->
+      <div class="counter__box">
+        <h1 class="counter__number">100%</h1>
+        <p class="counter__text">Your Satisfaction Rate</p>
+      </div>
+      <div class="counter__box">
+        <h1 class="counter__number">836</h1>
+        <p class="counter__text">Total Employee</p>
+      </div>
+      <div class="counter__box">
+        <h1 class="counter__number">67+</h1>
+        <p class="counter__text">Global Awards</p>
+      </div>
     </div>
-  </section>
-  <!-- --------------- project  start ----------- -->
-  <section class="all__project" style="padding-top: 200px;">
-    <div class="container">
-      <!-- title Start -->
-      <div data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" class=" text-center mb-4">
-        <h1 class="title text-center">Why Luminary Lines ?</h1>
-        <p class="text-center text-dark mt-5">Discover Luminary Lines, your gateway to unparalleled expertise,
-          innovative
-          solutions, and unwavering commitment to your brand's success. With our industry-leading services, tailored
-          strategies, and results-driven approach, we stand ready to be your trusted partner in achieving your business
-          objectives. Choose Luminary Lines and embark on a journey of transformation and growth in today's
-          competitive landscape.</p>
+    <!-- -- counter end -->
+  </div>
+</section>
+<!-- --------------- project  start ----------- -->
+<section class="all__project" style="padding-top: 200px;">
+  <div class="container">
+    <!-- title Start -->
+    <div data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" class=" text-center mb-4">
+      <h1 class="title text-center">Why Luminary Lines ?</h1>
+      <p class="text-center text-dark mt-5">Discover Luminary Lines, your gateway to unparalleled expertise,
+        innovative
+        solutions, and unwavering commitment to your brand's success. With our industry-leading services, tailored
+        strategies, and results-driven approach, we stand ready to be your trusted partner in achieving your business
+        objectives. Choose Luminary Lines and embark on a journey of transformation and growth in today's
+        competitive landscape.</p>
+    </div>
+    <!-- title End -->
+    <div class="row mt-5">
+      <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <div class="projects__2_card">
+          <a href="#">
+            <img src="assets/img/blogs/w1.jpg" alt="" class="w-100" />
+          </a>
+          <div>
+
+            <h4 class="text-dark text-center">Industry-leading expertise ensures
+              proficient
+              project handling.
+            </h4>
+          </div>
+        </div>
       </div>
-      <!-- title End -->
-      <div class="row mt-5">
-        <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <div class="projects__2_card">
-            <a href="#">
-              <img src="assets/img/blogs/w1.jpg" alt="" class="w-100" />
-            </a>
-            <div>
+      <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+        <div class="projects__2_card">
+          <a href="#">
+            <img src="assets/img/blogs/w2.jpg" alt="" class="w-100" />
+          </a>
+          <div>
+            <h4 class="text-dark text-center ">Dedicated commitment to exceeding your
+              expectations.
+            </h4>
+          </div>
+        </div>
+      </div>
+      <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+        <div class="projects__2_card">
+          <a href="#">
+            <img src="assets/img/blogs/w3.jpg" alt="" class="w-100" />
+          </a>
+          <div>
+            <h4 class="text-dark text-center">Trusted partnership backed by
+              client satisfaction.</h4>
 
-              <h4 class="text-dark text-center">Industry-leading expertise ensures
-                proficient
-                project handling.
-              </h4>
-            </div>
           </div>
         </div>
-        <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
-          <div class="projects__2_card">
-            <a href="#">
-              <img src="assets/img/blogs/w2.jpg" alt="" class="w-100" />
-            </a>
-            <div>
-              <h4 class="text-dark text-center ">Dedicated commitment to exceeding your
-                expectations.
-              </h4>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
-          <div class="projects__2_card">
-            <a href="#">
-              <img src="assets/img/blogs/w3.jpg" alt="" class="w-100" />
-            </a>
-            <div>
-              <h4 class="text-dark text-center">Trusted partnership backed by
-                client satisfaction.</h4>
-
-            </div>
-          </div>
-        </div>
-        <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0"
+      </div>
+      <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0"
           data-aos-duration="1000">
           <div class="projects__2_card">
             <a href="project_details.html">
@@ -758,7 +758,7 @@
             </div>
           </div>
         </div> -->
-        <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="500" data-aos-offset="0"
+      <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="500" data-aos-offset="0"
           data-aos-duration="1000">
           <div class="projects__2_card">
             <a href="project_details.html">
@@ -790,352 +790,352 @@
             </div>
           </div>
         </div> -->
-      </div>
-
     </div>
-  </section>
-  <!-- --------------- project  end ----------- -->
-  <!-- --------------- pricing start ----------- -->
-  <section class="pricing  ">
-    <div class="container">
-      <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <h1 class="title text-center">
-          Take a look the perfect pricing plan to get started
-        </h1>
-      </div>
-      <!-- title End -->
-      <div class="row pt__50">
 
-        <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <div class="pricing__card">
-            <div class="text-center pricing__card_title">
-              <h6>Basic plan</h6>
-              <h1 class="t__54"> ₹ 20,000 </h1>
-              <p>Per year</p>
-            </div>
-            <span class="border__full"></span>
-            <ul>
-              <li>
-                <span></span>
-                <p>Web Design & Development</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Web Hosting</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Search Engine Optimization</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Paid Advertising System</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Social Media Management</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Maintenance and Updates</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Legal and Compliance</p>
-              </li>
-            </ul>
-            <button class="common__btn" style="border-style: none;">
-              <span>Get Started</span>
-              <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-            </button>
-          </div>
-        </div>
-        <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
-          <div class="pricing__card">
-            <div class="text-center pricing__card_title">
-              <h6 class="">Business plan</h6>
-              <h1 class="t__54"> ₹ 40,000</h1>
-              <p>Per year</p>
-            </div>
-            <span class="border__full"></span>
-            <ul>
-              <li>
-                <span></span>
-                <p>Do Only Development Site</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Web Hosting & Customize</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Search Engine Optimization</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Paid Advertising System</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Social Media Management</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Maintenance and Updates</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Maintenance and Support</p>
-              </li>
-            </ul>
-            <button class="common__btn" style="border-style: none;">
-              <span>Get Started</span>
-              <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-            </button>
-          </div>
-        </div>
-        <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
-          <div class="pricing__card">
-            <div class="text-center pricing__card_title">
-              <h6>Advanced plan</h6>
-              <h1 class="t__54"> ₹ 80,000 </h1>
-              <p>Per year</p>
-            </div>
-            <span class="border__full"></span>
-            <ul>
-              <li>
-                <span></span>
-                <p>Web Design & Development</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Web Hosting</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Search Engine Optimization</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Paid Advertising System</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Social Media Management</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Maintenance and Updates</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Legal and Compliance</p>
-              </li>
-            </ul>
-            <button class="common__btn" style="border-style: none;">
-              <span>Get Started</span>
-              <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-            </button>
-          </div>
-        </div>
-        <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0" data-aos-duration="1000">
-          <div class="pricing__card">
-            <div class="text-center pricing__card_title">
-              <h6>Premium plan</h6>
-              <h1 class="t__54"> ₹ 1,00,00</h1>
-              <p>Per year</p>
-            </div>
-            <span class="border__full"></span>
-            <ul>
-              <li>
-                <span></span>
-                <p>Social Media Account Setup</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Digital Advertising System</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Search Engine Optimization</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Paid Advertising System</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Social Media Management</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Maintenance and Updates</p>
-              </li>
-              <li>
-                <span></span>
-                <p>Analytics and Reporting</p>
-              </li>
-            </ul>
-            <button class="common__btn" style="border-style:none;">
-              <span>Get Started</span>
-              <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-            </button>
-          </div>
-        </div>
-      </div>
+  </div>
+</section>
+<!-- --------------- project  end ----------- -->
+<!-- --------------- pricing start ----------- -->
+<section class="pricing  ">
+  <div class="container">
+    <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <h1 class="title text-center">
+        Take a look the perfect pricing plan to get started
+      </h1>
     </div>
-  </section>
-  <!-- --------------- pricing end ----------- -->
+    <!-- title End -->
+    <div class="row pt__50">
 
-  <!-- --------------- Start Testimonial ----------- -->
-  <section class="testimonial py__60 ">
-    <div class="container position-relative">
-      <!-- title Start -->
-      <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <h1 class="title-testimonials text-center">
-          Testimonials
-        </h1>
-      </div>
-      <!-- title End -->
-
-      <div class="testimonial__wapper" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <div class="testimonial__slides">
-          <div>
-            <div class="slide">
-              <div class="d-flex gap-2 star">
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-              </div>
-              <p class="review">
-                Shoutout to Luminary Lines for making our conference a hit. Their event skills are top-notch. From plans
-                to cool touches, they made it all happen smoothly.
-              </p>
-              <div class="d-flex justify-content-between">
-                <div class="d-flex gap-4 reviewer__info">
-                  <img src="assets/img/testimonail/Rectangle 48 (1).png" alt="" />
-                  <div>
-                    <p>Dharmendra Singh</p>
-                    <small>CTO Sales Management</small>
-                  </div>
-                </div>
-                <div>
-                  <img src="assets/img/testimonail/quotes 1.svg" alt="" />
-                </div>
-              </div>
-            </div>
+      <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <div class="pricing__card">
+          <div class="text-center pricing__card_title">
+            <h6>Basic plan</h6>
+            <h1 class="t__54"> ₹ 20,000 </h1>
+            <p>Per year</p>
           </div>
-          <div>
-            <div class="slide">
-              <div class="d-flex gap-2 star">
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-              </div>
-              <p class="review">
-                Luminary Lines is like a design wizard! Every project we do with them turns out better than we imagined.
-                Their attention to detail makes them our favorite design partner.
-              </p>
-              <div class="d-flex justify-content-between">
-                <div class="d-flex gap-4 reviewer__info">
-                  <img src="assets/img/testimonail/Rectangle 48 (1).png" alt="" />
-                  <div>
-                    <p>Neha Gupta</p>
-                    <small>CTO Sales Management</small>
-                  </div>
-                </div>
-                <div>
-                  <img src="assets/img/testimonail/quotes 1.svg" alt="" />
-                </div>
-              </div>
-            </div>
-          </div>
-          <div>
-            <div class="slide">
-              <div class="d-flex gap-2 star">
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-              </div>
-              <p class="review">
-                Luminary Lines helped me revamp my brand identity with a captivating logo design. Their creativity and
-                dedication to capturing my brand's essence were commendable. I'm thrilled with the final result.
-              </p>
-              <div class="d-flex justify-content-between">
-                <div class="d-flex gap-4 reviewer__info">
-                  <img src="assets/img/testimonail/Rectangle 48 (1).png" alt="" />
-                  <div>
-                    <p>Sanjay Joshi</p>
-                    <small>CTO Sales Management</small>
-                  </div>
-                </div>
-                <div>
-                  <img src="assets/img/testimonail/quotes 1.svg" alt="" />
-                </div>
-              </div>
-            </div>
-          </div>
-          <div>
-            <div class="slide">
-              <div class="d-flex gap-2 star">
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i>
-              </div>
-              <p class="review">
-                I'm incredibly grateful to the team at Luminary Lines for their exceptional web development services.
-                They created a user-friendly and visually stunning website for my business that exceeded my
-                expectations.
-              </p>
-              <div class="d-flex justify-content-between">
-                <div class="d-flex gap-4 reviewer__info">
-                  <img src="assets/img/testimonail/Rectangle 48 (1).png" alt="" />
-                  <div>
-                    <p>Pooja Shah</p>
-                    <small>CTO Sales Management</small>
-                  </div>
-                </div>
-                <div>
-                  <img src="assets/img/testimonail/quotes 1.svg" alt="" />
-                </div>
-              </div>
-            </div>
-          </div>
+          <span class="border__full"></span>
+          <ul>
+            <li>
+              <span></span>
+              <p>Web Design & Development</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Web Hosting</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Search Engine Optimization</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Paid Advertising System</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Social Media Management</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Maintenance and Updates</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Legal and Compliance</p>
+            </li>
+          </ul>
+          <button class="common__btn" style="border-style: none;">
+            <span>Get Started</span>
+            <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+          </button>
         </div>
       </div>
-
-      <div class="video">
-        <div class="position-relative">
-          <img src="assets/img/testimonail/video.jpg" alt="" class="video_thumb" />
-          <a href="https://youtu.be/BPmktRHW5jU" class="video_icon video-play">
-            <img src="assets/img/testimonail/Frame_20.svg" alt="" />
-          </a>
+      <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+        <div class="pricing__card">
+          <div class="text-center pricing__card_title">
+            <h6 class="">Business plan</h6>
+            <h1 class="t__54"> ₹ 40,000</h1>
+            <p>Per year</p>
+          </div>
+          <span class="border__full"></span>
+          <ul>
+            <li>
+              <span></span>
+              <p>Do Only Development Site</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Web Hosting & Customize</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Search Engine Optimization</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Paid Advertising System</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Social Media Management</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Maintenance and Updates</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Maintenance and Support</p>
+            </li>
+          </ul>
+          <button class="common__btn" style="border-style: none;">
+            <span>Get Started</span>
+            <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+          </button>
+        </div>
+      </div>
+      <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+        <div class="pricing__card">
+          <div class="text-center pricing__card_title">
+            <h6>Advanced plan</h6>
+            <h1 class="t__54"> ₹ 80,000 </h1>
+            <p>Per year</p>
+          </div>
+          <span class="border__full"></span>
+          <ul>
+            <li>
+              <span></span>
+              <p>Web Design & Development</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Web Hosting</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Search Engine Optimization</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Paid Advertising System</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Social Media Management</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Maintenance and Updates</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Legal and Compliance</p>
+            </li>
+          </ul>
+          <button class="common__btn" style="border-style: none;">
+            <span>Get Started</span>
+            <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+          </button>
+        </div>
+      </div>
+      <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0" data-aos-duration="1000">
+        <div class="pricing__card">
+          <div class="text-center pricing__card_title">
+            <h6>Premium plan</h6>
+            <h1 class="t__54"> ₹ 1,00,00</h1>
+            <p>Per year</p>
+          </div>
+          <span class="border__full"></span>
+          <ul>
+            <li>
+              <span></span>
+              <p>Social Media Account Setup</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Digital Advertising System</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Search Engine Optimization</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Paid Advertising System</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Social Media Management</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Maintenance and Updates</p>
+            </li>
+            <li>
+              <span></span>
+              <p>Analytics and Reporting</p>
+            </li>
+          </ul>
+          <button class="common__btn" style="border-style:none;">
+            <span>Get Started</span>
+            <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+          </button>
         </div>
       </div>
     </div>
-  </section>
-  <!-- --------------- End Testimonial ----------- -->
+  </div>
+</section>
+<!-- --------------- pricing end ----------- -->
 
-  <!-- --------------- Start Blog ----------- -->
-  <section class="blogs py__130" id="blogs">
-    <div class="container">
-      <!-- title Start -->
-      <div class="blogs__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <h1 class="title-blogs text-center">
-          Blogs
-        </h1>
+<!-- --------------- Start Testimonial ----------- -->
+<section class="testimonial py__60 ">
+  <div class="container position-relative">
+    <!-- title Start -->
+    <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <h1 class="title-testimonials text-center">
+        Testimonials
+      </h1>
+    </div>
+    <!-- title End -->
+
+    <div class="testimonial__wapper" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <div class="testimonial__slides">
+        <div>
+          <div class="slide">
+            <div class="d-flex gap-2 star">
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+            </div>
+            <p class="review">
+              Shoutout to Luminary Lines for making our conference a hit. Their event skills are top-notch. From plans
+              to cool touches, they made it all happen smoothly.
+            </p>
+            <div class="d-flex justify-content-between">
+              <div class="d-flex gap-4 reviewer__info">
+                <img src="assets/img/testimonail/men.png" alt="" />
+                <div>
+                  <p>Dharmendra Singh</p>
+                  <small>CTO Sales Management</small>
+                </div>
+              </div>
+              <div>
+                <img src="assets/img/testimonail/quotes 1.svg" alt="" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="slide">
+            <div class="d-flex gap-2 star">
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+            </div>
+            <p class="review">
+              Luminary Lines is like a design wizard! Every project we do with them turns out better than we imagined.
+              Their attention to detail makes them our favorite design partner.
+            </p>
+            <div class="d-flex justify-content-between">
+              <div class="d-flex gap-4 reviewer__info">
+                <img src="assets/img/testimonail/women.png" alt="" />
+                <div>
+                  <p>Neha Gupta</p>
+                  <small>CTO Sales Management</small>
+                </div>
+              </div>
+              <div>
+                <img src="assets/img/testimonail/quotes 1.svg" alt="" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="slide">
+            <div class="d-flex gap-2 star">
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+            </div>
+            <p class="review">
+              Luminary Lines helped me revamp my brand identity with a captivating logo design. Their creativity and
+              dedication to capturing my brand's essence were commendable. I'm thrilled with the final result.
+            </p>
+            <div class="d-flex justify-content-between">
+              <div class="d-flex gap-4 reviewer__info">
+                <img src="assets/img/testimonail/men2.png" alt="" />
+                <div>
+                  <p>Sanjay Joshi</p>
+                  <small>CTO Sales Management</small>
+                </div>
+              </div>
+              <div>
+                <img src="assets/img/testimonail/quotes 1.svg" alt="" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="slide">
+            <div class="d-flex gap-2 star">
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+              <i class="bi bi-star-fill"></i>
+            </div>
+            <p class="review">
+              I'm incredibly grateful to the team at Luminary Lines for their exceptional web development services.
+              They created a user-friendly and visually stunning website for my business that exceeded my
+              expectations.
+            </p>
+            <div class="d-flex justify-content-between">
+              <div class="d-flex gap-4 reviewer__info">
+                <img src="assets/img/testimonail/womenmen2.png" alt="" />
+                <div>
+                  <p>Pooja Shah</p>
+                  <small>CTO Sales Management</small>
+                </div>
+              </div>
+              <div>
+                <img src="assets/img/testimonail/quotes 1.svg" alt="" />
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <!-- title End -->
-      <div class="blogs__wapper">
-        <!-- <div class="row">
+    </div>
+
+    <div class="video">
+      <div class="position-relative">
+        <img src="assets/img/testimonail/video.jpg" alt="" class="video_thumb" />
+        <a href="https://youtu.be/BPmktRHW5jU" class="video_icon video-play">
+          <img src="assets/img/testimonail/Frame_20.svg" alt="" />
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- --------------- End Testimonial ----------- -->
+
+<!-- --------------- Start Blog ----------- -->
+<section class="blogs py__130" id="blogs">
+  <div class="container">
+    <!-- title Start -->
+    <div class="blogs__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <h1 class="title-blogs text-center">
+        Blogs
+      </h1>
+    </div>
+    <!-- title End -->
+    <div class="blogs__wapper">
+      <!-- <div class="row">
           <div class="col-lg-4 col-md-6 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             <div class="blogs__wapper_card">
               <a href="" class="">
@@ -1199,18 +1199,18 @@
             </div>
           </div>
         </div> -->
-        <div class="row mt-5">
-          <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <div class="projects__2_card">
-              <a href="#">
-                <img src="assets/img/blogs/b001.jpg" alt="" class="w-100" />
+      <div class="row mt-5">
+        <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+          <div class="projects__2_card">
+            <a href="#">
+              <img src="assets/img/blogs/b001.jpg" alt="" class="w-100" />
+            </a>
+            <div>
+              <a href="" class="card__title t__28 text-dark">Promote Your Website on Social Media
               </a>
-              <div>
-                <a href="" class="card__title t__28 text-dark">Promote Your Website on Social Media
-                </a>
-                <div class="d-flex card__author ">
-                  <p>Harness the power of social media platforms like Facebook, Instagram, Twitter ...</p>
-                  <!-- <p>
+              <div class="d-flex card__author ">
+                <p>Harness the power of social media platforms like Facebook, Instagram, Twitter ...</p>
+                <!-- <p>
                     <img src="assets/img/blogs/Frame (3).svg" alt="" />
                     <span>Sojol Saiful</span>
                   </p>
@@ -1218,19 +1218,19 @@
                     <img src="assets/img/blogs/Frame (4).svg" alt="" />
                     <span>03 Comments</span>
                   </p> -->
-                </div>
               </div>
             </div>
           </div>
-          <div class="col-xl-4 col-md-6 mb-5q mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
-            <div class="projects__2_card">
-              <a href="#">
-                <img src="assets/img/blogs/b002.jpg" alt="" class="w-100" />
+        </div>
+        <div class="col-xl-4 col-md-6 mb-5q mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+          <div class="projects__2_card">
+            <a href="#">
+              <img src="assets/img/blogs/b002.jpg" alt="" class="w-100" />
+            </a>
+            <div>
+              <a href="" class="card__title t__28 text-dark">Optimize Your Website for Search Engines
               </a>
-              <div>
-                <a href="" class="card__title t__28 text-dark">Optimize Your Website for Search Engines
-                </a>
-                <!-- <div class="d-flex card__author">
+              <!-- <div class="d-flex card__author">
                   <p>
                     <img src="assets/img/blogs/Frame (3).svg" alt="" />
                     <span>Danuel Stone</span>
@@ -1241,28 +1241,28 @@
                   </p>
 
                 </div> -->
-                <div class="d-flex card__author ">
-                  <p> To boost your website's visibility in search engine results ...</p>
-                </div>
+              <div class="d-flex card__author ">
+                <p> To boost your website's visibility in search engine results ...</p>
               </div>
             </div>
           </div>
-          <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
-            <div class="projects__2_card">
-              <a href="#">
-                <img src="assets/img/blogs/b003.jpg" alt="" class="w-100" />
+        </div>
+        <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+          <div class="projects__2_card">
+            <a href="#">
+              <img src="assets/img/blogs/b003.jpg" alt="" class="w-100" />
+            </a>
+            <div>
+              <a href="" class="card__title t__28 text-dark">Create High-Quality Content
               </a>
-              <div>
-                <a href="" class="card__title t__28 text-dark">Create High-Quality Content
-                </a>
-                <div class="d-flex card__author">
-                  <p>Content is king when it comes to attracting and engaging ...</p>
+              <div class="d-flex card__author">
+                <p>Content is king when it comes to attracting and engaging ...</p>
 
-                </div>
               </div>
             </div>
           </div>
-          <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0"
+        </div>
+        <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0"
           data-aos-duration="1000">
           <div class="projects__2_card">
             <a href="project_details.html">
@@ -1274,7 +1274,7 @@
             </div>
           </div>
         </div> -->
-          <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="500" data-aos-offset="0"
+        <!-- <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="500" data-aos-offset="0"
           data-aos-duration="1000">
           <div class="projects__2_card">
             <a href="project_details.html">
@@ -1306,16 +1306,16 @@
             </div>
           </div>
         </div> -->
-        </div>
       </div>
     </div>
-  </section>
-  <!-- --------------- End Blog ----------- -->
+  </div>
+</section>
+<!-- --------------- End Blog ----------- -->
 
-  <scrip>
-    </script>
-    <!-- --------------- start Footer ----------- -->
-    <?php include('footer.php'); ?>
-</body>
+<scrip>
+  </script>
+  <!-- --------------- start Footer ----------- -->
+  <?php include('footer.php'); ?>
+  </body>
 
 </html>
