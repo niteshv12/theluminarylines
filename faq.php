@@ -47,7 +47,7 @@
           <div id="collapsecmn4" class="accordion-collapse collapse" aria-labelledby="cmnid4" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <p class="ms-5 me-4 text-light">
-                Luminary Lines offers a comprehensive range of services including marketing strategy development, digital advertising, content creation, graphic design, web development, brand identity consulting, event management, and more.
+                Luminary Lines offers a comprehensive range of services including marketing strategy development, digital advertising, content creation, graphic design, web development, brand identity, and consulting.
               </p>
             </div>
           </div>

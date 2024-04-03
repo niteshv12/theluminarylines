@@ -55,8 +55,10 @@
     <div class="row">
       <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <div class="service__card">
-          <img src="assets/img/icon/dm.png" alt="" />
+          <a href="digital-marketing.php" class="ilink">
+            <img src="assets/img/icon/dm01.png" alt="" /></a>
           <!-- <i class="fa-solid fa-chart-simple"></i> -->
+          <a href="digital-marketing.php"></a>
           <h3 class="t_28">Digital Marketing</h3>
           <ul class="mt-5 mb-5">
             <li>Search Engine Optimization (SEO)</li>
@@ -75,11 +77,14 @@
           </a>
         </div>
       </div>
-      <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
-        <div class="service__card">
-          <img src="assets/img/icon/cc.png" alt="" />
+      <div href="content-creation.php" class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
 
-          <h3 class="t__28">Content Creation</h3>
+        <div class="service__card">
+          <a href="content-creation.php" class="ilink"><img src="assets/img/icon/cc.png" alt="" /></a>
+
+          <a href="content-creation.php">
+            <h3 class="t__28">Content Creation</h3>
+          </a>
           <ul class="mt-5 mb-5">
             <li>Engaging Copywriting</li>
             <li>
@@ -96,11 +101,15 @@
             <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
           </a>
         </div>
+
       </div>
       <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
         <div class="service__card">
-          <img src="assets/img/icon/graph.png" alt="" />
-          <h3 class="t__28">Graphic Designing</h3>
+          <a href="graphic-design.php" class="ilink">
+            <img src="assets/img/icon/gp.png" alt="" /></a>
+          <a href="graphic-design.php">
+            <h3 class="t__28">Graphic Designing</h3>
+          </a>
           <ul class="mt-5 mb-5">
             <li>Logo Design and Branding</li>
             <li>
@@ -120,8 +129,11 @@
       </div>
       <div class="col-xl-4 col-md-6 mb-5 mb-md-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0" data-aos-duration="1000">
         <div class="service__card">
-          <img src="assets/img/icon/web.png" alt="" />
-          <h3 class="t__28">Web Development</h3>
+          <a href="web-development.php" class="ilink">
+            <img src="assets/img/icon/web.png" alt="" /></a>
+          <a href="web-development.php">
+            <h3 class="t__28">Web Development</h3>
+          </a>
           <ul class="mt-5 mb-5">
             <li>Custom Website Design and Development</li>
             <li>
@@ -141,8 +153,11 @@
       </div>
       <div class="col-xl-4 col-md-6 mb-5 mb-md-0" data-aos="fade-up" data-aos-delay="500" data-aos-offset="0" data-aos-duration="1000">
         <div class="service__card">
-          <img src="assets/img/icon/brand.png" alt="" />
-          <h3 class="t__28">Brand Identity</h3>
+          <a href="brand-identity.php" class="ilink">
+            <img src="assets/img/icon/brand.png" alt="" /></a>
+          <a href="brand-identity.php">
+            <h3 class="t__28">Brand Identity</h3>
+          </a>
           <ul class="mt-5 mb-5">
             <li>Brand Guidelines Development</li>
             <li>
@@ -162,8 +177,11 @@
       </div>
       <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0" data-aos-duration="1000">
         <div class="service__card">
-          <img src="assets/img/icon/comm.png" alt="" />
-          <h3 class="t__28">Consulting</h3>
+          <a href="consulting.php" class="ilink">
+            <img src="assets/img/icon/comm.png" alt="" /></a>
+          <a href="consulting.php">
+            <h3 class="t__28">Consulting</h3>
+          </a>
           <ul class="mt-5 mb-5 sl">
             <li>Strategic Planning</li>
             <li>

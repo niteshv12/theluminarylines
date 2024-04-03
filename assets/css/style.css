@@ -300,7 +300,6 @@
         position: sticky;
         top: 0;
         /* background-color: rgb(85, 85, 11); */
-        padding: 0px;
         font-size: 20px;
         background-color: var(--btn-clr);
         padding: 24px 0;
@@ -598,7 +597,7 @@
 }
 
 .top-banner {
-    background-image: url(../img/banner/home-bannera.jpg);
+    /* background-image: url(../img/banner/hm.jpg); */
     height: 600px;
     width: 100%;
     /* background-repeat: no-repeat; */
@@ -745,6 +744,8 @@
 }
 
 .slides>ul {
+    list-style-type: circle;
+    /* padding-left: 15%; */
     /* list-style: ; */
 }
 
@@ -798,7 +799,7 @@
 }
 
 .service-head {
-    background-image: url(../img/banner/service.jpg);
+    background-image: url(../img/banner/hm34.png);
     width: 100%;
     height: 600px;
     object-fit: cover;
@@ -807,7 +808,7 @@
 
 @media (max-width: 575.98px) {
     .service-head {
-        background-image: url(../img/banner/service.jpg);
+        background-image: url(../img/banner/hm34.png);
         width: 100%;
         height: 400px;
         object-fit: fill;
@@ -816,7 +817,7 @@
 }
 
 .who-banner {
-    background-image: url(../img/banner/who-we-are.jpg);
+    background-image: url(../img/banner/hm.png);
     width: 100%;
     height: 600px;
     object-fit: cover;
@@ -824,7 +825,7 @@
 
 @media (max-width: 575.98px) {
     .who-banner {
-        background-image: url(../img/banner/who-we-are.jpg);
+        background-image: url(../img/banner/hm.png);
         width: 100%;
         height: 400px;
         object-fit: cover;
@@ -872,7 +873,7 @@
 }
 
 .banner-faq {
-    background-image: url(../img/banner/faq.jpg);
+    background-image: url(../img/banner/faq1.jpg);
     width: 100%;
     height: 600px;
     object-fit: cover;
@@ -881,7 +882,7 @@
 
 @media(max-width: 576px) {
     .banner-faq {
-        background-image: url(../img/banner/faq.jpg);
+        background-image: url(../img/banner/faq1.jpg);
         width: 100%;
         height: 400px;
         object-fit: cover;
@@ -890,7 +891,7 @@
 }
 
 .banner__content_titl-faq {
-    margin-top: 120px;
+    margin-top: 200px;
     margin-left: 40px;
 
 }
@@ -948,7 +949,7 @@
 }
 
 .banner-contect {
-    background-image: url(../img/banner/contact.jpg);
+    background-image: url(../img/banner/contact01.jpg);
     width: 100%;
     height: 600px;
     object-fit: cover;
@@ -1003,7 +1004,8 @@
 } */
 
 .dm-top {
-    background-color: #1c768f;
+    background-image: url(../img/services/topbg.jpg);
+    /* background-color: #1c768f; */
     height: 400px;
     width: 100% !important;
 }
@@ -1017,8 +1019,117 @@
 }
 
 .top-blog {
-    background-image: url(../img/banner/blogs.jpg);
+    background-image: url(../img/banner/blogs1.jpg);
     width: 100%;
     height: 600px;
     object-fit: cover;
+}
+
+.blogss>a {
+    font-size: 18px;
+}
+
+.top-brand {
+    background-image: url(../img/services/lb2.jpg);
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+
+
+/* .slidess>.slink>img {
+    width: 80px;
+    height: 80px;
+    object-fit: fill;
+} */
+
+.slidess>img {
+    width: 80px;
+    height: 80px;
+    object-fit: fill;
+}
+
+.slidess>ul {
+    list-style-type: circle;
+    /* padding-left: 15%; */
+    /* list-style: ; */
+}
+
+.slidess:hover.ul>li {
+    color: #E3ECE7;
+    /* list-style-type: circle; */
+    /* padding-left: 15%; */
+    /* list-style: ; */
+}
+
+.slidess>i {
+    font-size: 56px;
+    color: #032539;
+    padding-bottom: 20px;
+}
+
+.slidess>h2 {
+    margin: 20px 0px;
+    /* margin-bottom: 20px; */
+}
+
+.slidess>button {
+    background-color: #FA991C;
+}
+
+.slidess>a {
+    background-color: #032539;
+    border-radius: 10px;
+    color: #ffffff;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.slidess>a {
+    background-color: #032539;
+    border-radius: 10px;
+    color: #ffffff;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.services__wapper .slidess:hover>ul>li {
+    color: #E3ECE7 !important;
+}
+
+
+
+
+@media(max-width: 576px) {
+    .testimonial__wapper {
+        margin-bottom: -200px
+    }
+
+    .services__wapper .slidess {
+        background-color: #d8d9d9;
+        border-radius: 10px;
+        padding: 40px;
+        /* width: 100%; */
+    }
+}
+
+.services__wapper .slidess {
+    background-color: #d8d9d9;
+    border-radius: 10px;
+    padding: 40px;
+    /* width: 80%; */
+}
+
+.services__wapper .slidess:hover {
+    background-color: #FA991C;
+    border-radius: 10px;
+    padding: 40px;
+    transition: 0.5s;
+}
+
+@media(max-width: 768px) {
+    .services__wapper .slidess {
+        padding: 25px
+    }
 }

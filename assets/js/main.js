@@ -84,6 +84,8 @@
                     settings: {
                         slidesToShow: 1,
                         dots: false,
+                        prevArrow: '<i class="fa-solid fa-arrow-right slide__nav prev-arrow"></i>',
+                        nextArrow: '<i class="fa-solid fa-arrow-left slide__nav next-arrow"></i>',
                     }
                 }
             ],
@@ -183,9 +185,9 @@
 
 
         /*START VIDEO JS*/
-        $('.video-play').magnificPopup({
-            type: 'iframe'
-        });
+        // $('.video-play').magnificPopup({
+        //     type: 'iframe'
+        // });
         /*END VIDEO JS*/
 
     });

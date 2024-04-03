@@ -50,7 +50,7 @@
                   <span>12, January 2023</span>
                 </li>
               </ul> -->
-            <h2 class="t__54" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <h2 class="t__54 mt-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
 
               Building a Strong Brand Identity: Making People Like Your Business More
             </h2>
@@ -331,6 +331,26 @@
             <ul>
               <li>
                 <a href="digital-marketing.php">Digital Marketing</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="content-creation.php"> Content Creation</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="web-development.php">Web Development</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="graphic-design.php">Graphic Designing</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="consulting.php">Consulting</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="brand-identity.php">Brand Identity</a>
                 <!-- <p>(09)</p> -->
               </li>
               <!-- <li>

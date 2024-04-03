@@ -276,24 +276,24 @@ p {
     border: 1px solid var(--btn-clr)
 }
 
-.video {
+.videos {
     transform: translateY(500px)
 }
 
 @media(max-width: 991px) {
-    .video {
+    .videos {
         transform: translateY(557px)
     }
 }
 
 @media(max-width: 768px) {
-    .video {
+    .videos {
         transform: translateY(420px)
     }
 }
 
 @media(max-width: 576px) {
-    .video {
+    .videos {
         transform: translateY(350px)
     }
 }
@@ -1313,6 +1313,12 @@ p {
     object-fit: fill;
 }
 
+.service__card>.ilink>img {
+    width: 80px;
+    height: 80px;
+    object-fit: fill;
+}
+
 .service__card:hover h3 {
     color: #fff;
 }
@@ -1773,6 +1779,14 @@ p {
     display: block
 }
 
+.projects__2_card>a>img {
+    border-radius: 10px;
+    margin-bottom: 35px;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
 .projects__2_card p {
     margin-top: 20px;
     color: var(--main-clr)
@@ -1902,7 +1916,7 @@ p {
 }
 
 .all__project {
-    margin-bottom: 181px
+    margin-bottom: 80px;
 }
 
 .all__project .projects__2_card {
@@ -2093,6 +2107,17 @@ p {
     color: #FFF;
 }
 
+@media (max-width: 575.98px) {
+    .testimonial .next-arrow {
+        left: 30%;
+        color: #FFF;
+    }
+
+    .testimonial .prev-arrow {
+        right: 28%
+    }
+}
+
 .testimonial__2 {
     background-color: rgba(0, 0, 0, 0)
 }
@@ -2228,7 +2253,7 @@ p {
     font-family: Kanit;
     color: var(--grayWhite-clr);
     margin-bottom: 29px;
-    transition: all .5s
+    transition: all .5s;
 }
 
 .blogs__wapper_card .card__title:hover {
@@ -2274,6 +2299,12 @@ p {
 
 .blogs__2_card .card__title:hover {
     color: var(--main-clr)
+}
+
+.blogs__2_card>a>img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
 }
 
 .blogs__2_card .card__author p {
@@ -2345,17 +2376,27 @@ p {
     margin-top: 35px
 }
 
-.sidebar .categories ul li {
+.sidebar .categories ul li>a {
     display: flex;
     align-items: center;
+    color: #032539;
     justify-content: space-between;
-    padding: 26px 0;
+    padding: 13px 0;
+    border-bottom: 1px solid #e3ece7
+}
+
+.sidebar .categories ul li>a:hover {
+    display: flex;
+    align-items: center;
+    color: #fa991c;
+    justify-content: space-between;
+    padding: 13px 0;
     border-bottom: 1px solid #e3ece7
 }
 
 @media(max-width: 768px) {
     .sidebar .categories ul li {
-        padding: 22px 0
+        padding: 12px 0
     }
 }
 
@@ -2431,13 +2472,24 @@ p {
 }
 
 .sidebar .tags li a {
-    background-color: var(--grayWhite-clr);
+    background-color: #032539;
     font-size: 15px;
     border-radius: 2px;
     padding: 11px 10px;
-    color: #6e6f75;
+    color: #f9faff;
     margin-bottom: 5px;
     display: inline-block
+}
+
+.sidebar .tags li a:hover {
+    background-color: #fa991c;
+    font-size: 15px;
+    border-radius: 2px;
+    padding: 11px 10px;
+    color: #f9faff;
+    margin-bottom: 5px;
+    display: inline-block;
+    transition: 0.5s;
 }
 
 .footer {
@@ -2680,6 +2732,12 @@ p {
 @media(max-width: 1200px) {
     .page__header .left__arrow {
         display: none
+    }
+}
+
+@media(max-width: 576px) {
+    .page__header .left__pei {
+        display: block
     }
 }
 
@@ -2994,11 +3052,15 @@ p {
 }
 
 .blog__details .second__para p {
-    margin-top: 30px
+    margin-top: 14px
+}
+
+.blog__details .second__para h5 {
+    margin-top: 14px
 }
 
 .blog__details .second__para p:last-child {
-    margin-top: 40px
+    margin-top: 14px
 }
 
 .blog__details .share__option {
@@ -3441,8 +3503,8 @@ p {
 .pricing__card ul li {
     display: flex;
     align-items: center;
-    gap: 9px;
-    margin-bottom: 30px
+    gap: 10px;
+    margin-bottom: 20px
 }
 
 .pricing__card ul li span {
@@ -3483,7 +3545,7 @@ p {
 }
 
 .pricing__card:hover ul li span {
-    background-color: rgba(227, 236, 231, .2509803922)
+    background-color: #032539;
 }
 
 .pricing__card:hover ul li p {

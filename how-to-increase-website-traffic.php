@@ -331,6 +331,26 @@
                 <a href="digital-marketing.php">Digital Marketing</a>
                 <!-- <p>(09)</p> -->
               </li>
+              <li>
+                <a href="content-creation.php"> Content Creation</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="web-development.php">Web Development</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="graphic-design.php">Graphic Designing</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="consulting.php">Consulting</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="brand-identity.php">Brand Identity</a>
+                <!-- <p>(09)</p> -->
+              </li>
               <!-- <li>
                   <a href="">Unique UI Design</a>
                   <p>(12)</p>

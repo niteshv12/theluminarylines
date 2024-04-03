@@ -50,7 +50,7 @@
                   <span>12, January 2023</span>
                 </li>
               </ul> -->
-            <h2 class="t__54" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <h2 class="t__54 mt-4" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
               Crafting Compelling Content: Writing Stuff People Want to Read
             </h2>
             <p>
@@ -88,8 +88,8 @@
               </div>
             </div> -->
           <div class="second__paramt-5">
-            <h5 class="t__28 ">Understanding Your Audience</h5>
-            <p>
+            <h5 class="t__28 mt-5">Understanding Your Audience</h5>
+            <p class="mt-3">
               Before you start writing, it's crucial to understand your audience's interests, preferences, and pain points. Take the time to research your target demographic and identify their needs and desires. What questions are they asking? What problems are they trying to solve? By gaining insights into your audience's mindset, you can tailor your content to address their specific concerns and provide valuable solutions.
             </p>
             <!-- <p>
@@ -335,6 +335,26 @@
             <ul>
               <li>
                 <a href="digital-marketing.php">Digital Marketing</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="content-creation.php"> Content Creation</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="web-development.php">Web Development</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="graphic-design.php">Graphic Designing</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="consulting.php">Consulting</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="brand-identity.php">Brand Identity</a>
                 <!-- <p>(09)</p> -->
               </li>
               <!-- <li>

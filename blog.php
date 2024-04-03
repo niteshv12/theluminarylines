@@ -60,7 +60,7 @@
                 <img src="assets/img/blogs/bl2.jpg" alt="" class="card__thumb" />
               </a>
               <div>
-                <a href="crafting-compelling-content.php" class="card__title t__28 text-dark">Crafting Compelling Content: Writing Stuff People Want to Read</a>
+                <a href="crafting-compelling-content.php" class="card__title t__28">Crafting Compelling Content: Writing Stuff People Want to Read</a>
                 <div class="d-flex card__author">
                   <!-- <p>
                       <img src="assets/icons/user-black.svg" alt="" />
@@ -80,7 +80,7 @@
                 <img src="assets/img/blogs/bl3.jpg" alt="" class="card__thumb" />
               </a>
               <div class="text-dark">
-                <a href="designing-your-brand.php" class="card__title t__28 text-dark">Designing Your Brand: Making a Cool Logo for Your Business</a>
+                <a href="designing-your-brand.php" class="card__title t__28 ">Designing Your Brand: Making a Cool Logo for Your Business</a>
                 <div class="d-flex card__author">
                   <!-- <p>
                       <img src="assets/icons/user-black.svg" alt="" />
@@ -100,7 +100,7 @@
                 <img src="assets/img/blogs/bl4.jpg" alt="" class="card__thumb" />
               </a>
               <div>
-                <a href="building-a-strong-brand-identity.php" class="card__title t__28">Change your life to a get 09 thing with the
+                <a href="building-a-strong-brand-identity.php" class="card__title t__28">Building a Strong Brand Identity: Making People Like Your Business More
                   lifestyle</a>
                 <div class="d-flex card__author">
                   <!-- <p>
@@ -218,6 +218,26 @@
             <ul>
               <li>
                 <a href="digital-marketing.php">Digital Marketing</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="content-creation.php"> Content Creation</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="web-development.php">Web Development</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="graphic-design.php">Graphic Designing</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="consulting.php">Consulting</a>
+                <!-- <p>(09)</p> -->
+              </li>
+              <li>
+                <a href="brand-identity.php">Brand Identity</a>
                 <!-- <p>(09)</p> -->
               </li>
               <!-- <li>

@@ -12,7 +12,7 @@
 
 
 <!-- --------------- Start Banner ----------- -->
-<div class="container-fluid top-banner">
+<div class="container-fluid top-banner" style="background-image: url(assets/img/banner/hm02.png);  width:100%; object-fit:cover; height: 600px;">
   <!-- <div class="container-fluid "> -->
   <div class="row">
     <div class="col-lg-8 ms-lg-5 ms-sm-0">
@@ -371,7 +371,7 @@
       <div class="ser-row mt-5">
         <div>
           <div class="slides">
-            <img src="assets/img/icon/dm.png" alt="" />
+            <img src="assets/img/icon/dm01.png" alt="" />
             <!-- <i class="fa-solid fa-chart-simple"></i> -->
             <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
             <h2>Digital Marketing</h2>
@@ -410,7 +410,7 @@
         </div>
         <div>
           <div class="slides">
-            <img src="assets/img/icon/graph.png" alt="" />
+            <img src="assets/img/icon/gp.png" alt="" />
             <h2>Graphic Designing</h2>
             <ul class="mb-5">
               <li>Logo Design and Branding</li>
@@ -441,7 +441,7 @@
               <li>Website Maintenance and Support</li>
 
             </ul>
-            <a href="web-dev.php" class=" mt-3"> Read More</a>
+            <a href="web-development.php" class=" mt-3"> Read More</a>
           </div>
         </div>
         <div>
@@ -460,7 +460,7 @@
               <li>Brand Recognition</li>
 
             </ul>
-            <a href="brand.php" class="mt-3
+            <a href="brand-identity.php" class="mt-3
               "> Read More</a>
           </div>
         </div>
@@ -469,7 +469,7 @@
             <img src="assets/img/icon/comm.png" alt="" />
             <h2>Consulting</h2>
             <ul class="mb-5">
-              <li>Strategic Planning</li>
+              <li> <span></span>Strategic Planning</li>
               <li>
                 Market Analysis and Research
               </li>
@@ -490,13 +490,9 @@
 
 
 <!-- --------------- Start Services ----------- -->
-<section class="services  " id="services">
+<section class="services  " id="services" style="margin-top: -100px;">
   <div class="container position-relative">
-    <div class="row text-center ser">
-      <!-- <h1 class="mt-4">
-          Our Services
-        </h1> -->
-    </div>
+
     <!-- <div class="row ser-row justify-content-between align-items-center about__wapper">
         <div class="g-5">
           <div class="ser-col text-center">
@@ -697,7 +693,7 @@
 <section class="all__project" style="padding-top: 200px;">
   <div class="container">
     <!-- title Start -->
-    <div data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" class=" text-center mb-4">
+    <div class=" text-center mb-4">
       <h1 class="title text-center">Why Luminary Lines ?</h1>
       <p class="text-center text-dark mt-5">Discover Luminary Lines, your gateway to unparalleled expertise,
         innovative
@@ -711,7 +707,7 @@
       <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <div class="projects__2_card">
           <a href="#">
-            <img src="assets/img/blogs/w1.jpg" alt="" class="w-100" />
+            <img src="assets/img/about/ac1.jpg" alt="" class="w-100" />
           </a>
           <div>
 
@@ -725,7 +721,7 @@
       <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
         <div class="projects__2_card">
           <a href="#">
-            <img src="assets/img/blogs/w2.jpg" alt="" class="w-100" />
+            <img src="assets/img/about/ac2.jpg" alt="" class="w-100" />
           </a>
           <div>
             <h4 class="text-dark text-center ">Dedicated commitment to exceeding your
@@ -737,7 +733,7 @@
       <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
         <div class="projects__2_card">
           <a href="#">
-            <img src="assets/img/blogs/w3.jpg" alt="" class="w-100" />
+            <img src="assets/img/about/ac3.jpg" alt="" class="w-100" />
           </a>
           <div>
             <h4 class="text-dark text-center">Trusted partnership backed by
@@ -817,31 +813,31 @@
           <ul>
             <li>
               <span></span>
-              <p>Web Design & Development</p>
+              <p>Basic SEO</p>
             </li>
             <li>
               <span></span>
-              <p>Web Hosting</p>
+              <p>Social Media Management (2 platforms)</p>
             </li>
             <li>
               <span></span>
-              <p>Search Engine Optimization</p>
+              <p>Basic Brand Guidelines </p>
             </li>
             <li>
               <span></span>
-              <p>Paid Advertising System</p>
+              <p>Basic PPC setup</p>
             </li>
             <li>
               <span></span>
-              <p>Social Media Management</p>
+              <p>Mobile Responsiveness</p>
             </li>
             <li>
               <span></span>
-              <p>Maintenance and Updates</p>
+              <p>4 social media posts</p>
             </li>
             <li>
               <span></span>
-              <p>Legal and Compliance</p>
+              <p>Logo Design (basic)</p>
             </li>
           </ul>
           <button class="common__btn" style="border-style: none;">
@@ -861,31 +857,31 @@
           <ul>
             <li>
               <span></span>
-              <p>Do Only Development Site</p>
+              <p>Comprehensive SEO</p>
             </li>
             <li>
               <span></span>
-              <p>Web Hosting & Customize</p>
+              <p>Social Media Management (3 platforms)</p>
             </li>
             <li>
               <span></span>
-              <p>Search Engine Optimization</p>
+              <p>Enhanced Logo Design</p>
             </li>
             <li>
               <span></span>
-              <p>Paid Advertising System</p>
+              <p>Enhanced PPC setup</p>
             </li>
             <li>
               <span></span>
-              <p>Social Media Management</p>
+              <p>Market Analysis Report</p>
             </li>
             <li>
               <span></span>
-              <p>Maintenance and Updates</p>
+              <p>Mobile Responsiveness</p>
             </li>
             <li>
               <span></span>
-              <p>Maintenance and Support</p>
+              <p>4 social media graphics</p>
             </li>
           </ul>
           <button class="common__btn" style="border-style: none;">
@@ -905,7 +901,7 @@
           <ul>
             <li>
               <span></span>
-              <p>Web Design & Development</p>
+              <p>Advanced SEO with regular monitoring and optimization</p>
             </li>
             <li>
               <span></span>
@@ -1018,7 +1014,8 @@
                 <img src="assets/img/testimonail/men.png" alt="" />
                 <div>
                   <p>Dharmendra Singh</p>
-                  <small>CTO Sales Management</small>
+                  <small>CEO, TechSprint Solutions
+                  </small>
                 </div>
               </div>
               <div>
@@ -1045,7 +1042,8 @@
                 <img src="assets/img/testimonail/women.png" alt="" />
                 <div>
                   <p>Neha Gupta</p>
-                  <small>CTO Sales Management</small>
+                  <small>Artisan Crafts Co.
+                  </small>
                 </div>
               </div>
               <div>
@@ -1072,7 +1070,9 @@
                 <img src="assets/img/testimonail/men2.png" alt="" />
                 <div>
                   <p>Sanjay Joshi</p>
-                  <small>CTO Sales Management</small>
+                  <small>
+                    Marketing Manager, Summit Innovations
+                  </small>
                 </div>
               </div>
               <div>
@@ -1100,7 +1100,7 @@
                 <img src="assets/img/testimonail/womenmen2.png" alt="" />
                 <div>
                   <p>Pooja Shah</p>
-                  <small>CTO Sales Management</small>
+                  <small>COO, Swift Solutions Inc.</small>
                 </div>
               </div>
               <div>
@@ -1112,12 +1112,46 @@
       </div>
     </div>
 
-    <div class="video">
+    <div class="videos">
       <div class="position-relative">
         <img src="assets/img/testimonail/video.jpg" alt="" class="video_thumb" />
-        <a href="https://youtu.be/BPmktRHW5jU" class="video_icon video-play">
+        <a href="" class="video_icon ">
           <img src="assets/img/testimonail/Frame_20.svg" alt="" />
+          <!-- <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalToggleLabel">Modal 1</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                Show a second modal and hide this one with the button below.
+              </div>
+              <div class="modal-footer">
+                <button class="btn btn-primary" data-bs-target="#exampleModalToggle2" data-bs-toggle="modal">Open second modal</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                Hide this modal and show the first with the button below.
+              </div>
+              <div class="modal-footer">
+                <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to first</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="btn video_icon" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Open first modal</button> -->
         </a>
+
       </div>
     </div>
   </div>
@@ -1202,16 +1236,17 @@
       <div class="row mt-5">
         <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <div class="projects__2_card">
-            <a href="#">
+            <a href="how-to-increase-website-traffic.php">
               <img src="assets/img/blogs/b001.jpg" alt="" class="w-100" />
             </a>
-            <div>
-              <a href="" class="card__title t__28 text-dark">Promote Your Website on Social Media
+            <div class="blogss">
+              <a href="how-to-increase-website-traffic.php" class=" t__28 text-dark"> How to Increase Website Traffic: 7 Simple Strategies
               </a>
               <div class="d-flex card__author ">
-                <p>Harness the power of social media platforms like Facebook, Instagram, Twitter ...</p>
+                <p>Welcome to Luminary Lines' blog, where we provide actionable insights to help you succeed ...</p>
+
                 <!-- <p>
-                    <img src="assets/img/blogs/Frame (3).svg" alt="" />
+                    <img lklklkkbnbsrc="assets/img/blogs/Frame (3).svg" alt="" />
                     <span>Sojol Saiful</span>
                   </p>
                   <p>
@@ -1222,13 +1257,13 @@
             </div>
           </div>
         </div>
-        <div class="col-xl-4 col-md-6 mb-5q mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+        <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
           <div class="projects__2_card">
-            <a href="#">
+            <a href="crafting-compelling-content.php">
               <img src="assets/img/blogs/b002.jpg" alt="" class="w-100" />
             </a>
-            <div>
-              <a href="" class="card__title t__28 text-dark">Optimize Your Website for Search Engines
+            <div class="blogss">
+              <a href="crafting-compelling-content.php" class=" t__28 text-dark">Crafting Compelling Content: Writing Stuff People Want to Read
               </a>
               <!-- <div class="d-flex card__author">
                   <p>
@@ -1242,21 +1277,21 @@
 
                 </div> -->
               <div class="d-flex card__author ">
-                <p> To boost your website's visibility in search engine results ...</p>
+                <p>Welcome to Luminary Lines' blog, where we share practical tips and insights to help you ...</p>
               </div>
             </div>
           </div>
         </div>
         <div class="col-xl-4 col-md-6 mb-5 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
           <div class="projects__2_card">
-            <a href="#">
+            <a href="designing-your-brand.php">
               <img src="assets/img/blogs/b003.jpg" alt="" class="w-100" />
             </a>
-            <div>
-              <a href="" class="card__title t__28 text-dark">Create High-Quality Content
+            <div class="blogss">
+              <a href="designing-your-brand.php" class=" t__28 text-dark"> Designing Your Brand: Making a Cool Logo for Your Business
               </a>
               <div class="d-flex card__author">
-                <p>Content is king when it comes to attracting and engaging ...</p>
+                <p>Welcome to Luminary Lines' blog, your go-to resource for creative inspiration and practical ...</p>
 
               </div>
             </div>

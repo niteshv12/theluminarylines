@@ -8,8 +8,26 @@
 <!-- --------------- End Header ------------ -->
 
 <!-- --------------- Start page header ----------- -->
-
-<div class="container-fluid  dm-top" style=" ">
+<section class="page__header position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
+        <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" />
+        <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" />
+        <div class="text-center " data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+          <h2 class="text-light">Digital-Marketing</h2>
+          <div class="d-flex justify-content-center gap-2">
+            <a href="index.html">Home</a>
+            <span class="text-light">/</span>
+            <p class="text-light">Services</p>
+          </div>
+        </div>
+        <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow d-none d-lg-block" />
+      </div>
+    </div>
+  </div>
+</section>
+<!-- <div class="container-fluid  dm-top" style="background-image: url(assets/img/services/topbg.jpg); ">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center dm-contact-title ">
@@ -17,7 +35,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <!-- <section class="page__header position-relative " style="background-image: url(assets/img/banner/service.jpg); width:100%; height: 600px; object-fit:cover;">
   <div class="container">
     <div class="row">
@@ -63,7 +81,7 @@
     <div class="second__para pt__60">
       <div class="row justify-content-between align-items-center">
         <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <img src="assets/img/services/seo.jpg" alt="" class="w-100" />
+          <img src="assets/img/services/seo.jpg" alt="" class="w-100 " />
         </div>
         <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <!-- <div>
@@ -77,7 +95,7 @@
                 <li>Sustainability Initiatives</li>
               </ul>
             </div> -->
-          <h4 class="t__28 mb-5 text-dark">
+          <h4 class="t__28 mb-3 text-dark">
             Search Engine Optimization (SEO)
           </h4>
           <p class="text-dark">
@@ -104,7 +122,7 @@
                 <li>Sustainability Initiatives</li>
               </ul>
             </div> -->
-          <h4 class="t__28 mb-5 text-dark">
+          <h4 class="t__28 mb-3 text-dark">
             Search Engine Marketing (SEM)
           </h4>
           <p class="text-dark">
@@ -151,7 +169,7 @@
               <li>Sustainability Initiatives</li>
             </ul>
           </div> -->
-          <h4 class="t__28 mb-5 text-dark">
+          <h4 class="t__28 mb-3 text-dark">
             Social Media Marketing (SMM)
           </h4>
           <p class="text-dark">
@@ -189,7 +207,7 @@
               <li>Sustainability Initiatives</li>
             </ul>
           </div> -->
-          <h4 class="t__28 mb-5 text-dark">
+          <h4 class="t__28 mb-3 text-dark">
             Email Marketing
           </h4>
           <p class="text-dark">
@@ -228,7 +246,7 @@
               <li>Sustainability Initiatives</li>
             </ul>
           </div> -->
-          <h4 class="t__28 mb-5 text-dark">
+          <h4 class="t__28 mb-3 text-dark">
             Pay-Per-Click (PPC) Advertising
           </h4>
           <p class="text-dark">
@@ -294,7 +312,7 @@
     </div>
   </div> -->
 <!-- why Choose end -->
-<div class="conatiner-fluid " style="margin-bottom: 250px; ">
+<div class="conatiner-fluid mb-5">
   <div class="container">
     <div class="row text-center">
       <h1 style="font-size: 56px;">How We Work</h1>
@@ -306,9 +324,9 @@
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-6 work">
-        <img src="assets/img/services/how.jpg" alt="">
+        <img src="assets/img/services/wework.jpg" alt="">
       </div>
-      <div class="col-md-6 mt-5">
+      <div class="col-md-6  ">
         <h5 class="mb-2 mt-4 fw-bold">Strategic Planning:</h5>
         <p class="text-dark">Our team conducts thorough research and analysis to develop a strategic plan customized to your brand's objectives. This plan serves as the roadmap for our collaboration.</p>
         <h5 class="mb-2 mt-4 fw-bold">Creative Ideation:</h5>
@@ -321,6 +339,139 @@
     </div>
   </div>
 </div>
+
+<hr class="" style="color: #FA991C;">
+<!-- --------------- Start services ----------- -->
+<section class="testimonial py__60 " style="margin-bottom:200px; background-color:#FBF3F2;" id="">
+  <div class="container position-relative">
+    <!-- title Start -->
+    <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <h1 class="title-testimonials text-center text-dark">
+        More Services
+      </h1>
+    </div>
+    <!-- title End -->
+
+    <div class="services__wapper" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <div class="ser-row mt-5">
+        <div>
+          <div class="slidess">
+            <img src="assets/img/icon/dm01.png" alt="" />
+            <!-- <i class="fa-solid fa-chart-simple"></i> -->
+            <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
+            <h2>Digital Marketing</h2>
+            <ul class="mb-5">
+              <li>Search Engine Optimization (SEO)</li>
+              <li>
+                Search Engine Marketing (SEM)
+              </li>
+              <li>
+                Social Media Marketing (SMM)
+              </li>
+              <li>Email Marketing</li>
+              <li>Pay-Per-Click (PPC) Advertising</li>
+            </ul>
+            <a href="digital-marketing.php" class="mt-5"> Read More</a>
+          </div>
+        </div>
+        <div>
+          <div class="slidess">
+            <img src="assets/img/icon/cc.png" alt="" />
+            <h2>Content Creation</h2>
+            <ul class="mb-5">
+              <li>Engaging Copywriting</li>
+              <li>
+                Compelling Video Production
+              </li>
+              <li>
+                Stunning Photography
+              </li>
+              <li>Blog and Article Writing</li>
+              <li>Social Media Content Creation</li>
+            </ul>
+            <a href="content-creation.php" class=" mt-3
+              "> Read More</a>
+          </div>
+        </div>
+        <div>
+          <div class="slidess">
+            <img src="assets/img/icon/gp.png" alt="" />
+            <h2>Graphic Designing</h2>
+            <ul class="mb-5">
+              <li>Logo Design and Branding</li>
+              <li>
+                Brochure and Flyer Design
+              </li>
+              <li>
+                Poster and Banner Design
+              </li>
+              <li>Infographics</li>
+              <li>Packaging Design</li>
+            </ul>
+            <a href="graphic-design.php" class="mt-3 "> Read More</a>
+          </div>
+        </div>
+        <div>
+          <div class="slidess">
+            <img src="assets/img/icon/web.png" alt="" />
+            <h2>Web Development</h2>
+            <ul class="mb-5">
+              <li>Custom Website Design and Development</li>
+              <li>
+                E-commerce Solutions
+              </li>
+              <li>
+                Mobile-Friendly Responsive Design
+              </li>
+              <li>Website Maintenance and Support</li>
+
+            </ul>
+            <a href="web-development.php" class=" mt-3"> Read More</a>
+          </div>
+        </div>
+        <div>
+          <div class="slidess">
+            <img src="assets/img/icon/brand.png" alt="" />
+            <h2>Brand Identity</h2>
+            <ul class="mb-5">
+              <li>Brand Guidelines Development</li>
+              <li>
+                Brand Positioning and Messaging
+              </li>
+              <li>
+                Brand Identity Consultation
+              </li>
+              <li>Brand Collateral Design</li>
+              <li>Brand Recognition</li>
+
+            </ul>
+            <a href="brand-identity.php" class="mt-3
+              "> Read More</a>
+          </div>
+        </div>
+        <div>
+          <div class="slidess">
+            <img src="assets/img/icon/comm.png" alt="" />
+            <h2>Consulting</h2>
+            <ul class="mb-5">
+              <li> <span></span>Strategic Planning</li>
+              <li>
+                Market Analysis and Research
+              </li>
+              <li>
+                Brand Strategy Development
+              </li>
+              <li>Digital Marketing Strategy</li>
+              <li>Campaign Optimization</li>
+            </ul>
+            <a href="consulting.php" class=" mt-3"> Read More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- --------------- End services ----------- -->
 <!--  End service details -->
 
 <!-- --------------- start Footer ----------- -->

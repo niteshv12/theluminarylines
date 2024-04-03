@@ -123,7 +123,7 @@
       </div>
       <div class="col-xl-6 col-lg-6 abe" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
         <div class=" about__wapper_center" style="z-index: -25px;">
-          <img src="assets/img/about/ab4.jpg" alt="" />
+          <img src="assets/img/about/abimg.jpg" alt="" />
         </div>
       </div>
       <!-- <div class="col-xl-3 col-lg-6 mt-5 mt-xl-0">
@@ -340,7 +340,7 @@
 <section class="blogs blogs__2 " style="margin-top: -140px;">
   <div class=" container">
     <!-- title Start -->
-    <div class="blogs__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+    <div class="blogs__title">
       <h1 class="title title__black text-center text-dark">
         Why Choose Luminary Lines?
       </h1>
@@ -358,15 +358,15 @@
     <!-- title End -->
     <div class="blogs__wapper">
       <div class="row">
-        <div class="col-lg-3 col-md-3 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
             <a href="" class="">
-              <img src="assets/img/about/indust.jpg" alt="" class="card__thumb" />
+              <img src="assets/img/about/ac1.jpg" alt="" class="card__thumb" />
             </a>
             <div>
               <a href="" class="card__title t__28 text-dark">Industry-leading expertise ensures proficient project handling.</a>
               <div class="d-flex card__author">
-                <!-- <p>
+                <!-- <p>4444444444444444444444444444444444444444444444
                     <img src="assets/icons/user-black.svg" alt="" />
                     <span>Danuel Stone</span>
                   </p>
@@ -378,10 +378,10 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-3 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+        <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
             <a href="" class="">
-              <img src="assets/img/about/brand.jpg" alt="" class="card__thumb" />
+              <img src="assets/img/about/ac2.jpg" alt="" class="card__thumb" />
             </a>
             <div>
               <a href="" class="card__title t__28 text-dark">Creative brilliance that sets your brand apart.</a>
@@ -398,10 +398,10 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-3 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+        <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
             <a href="" class="">
-              <img src="assets/img/about/grow.jpg" alt="" class="card__thumb" />
+              <img src="assets/img/about/ac3.jpg" alt="" class="card__thumb" />
             </a>
             <div>
               <a href="" class="card__title t__28 text-dark">Dedicated commitment to exceeding your expectations.</a>
@@ -418,10 +418,10 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-3 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+        <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
             <a href="" class="">
-              <img src="assets/img/about/cr.jpg" alt="" class="card__thumb" />
+              <img src="assets/img/about/ac4.jpg" alt="" class="card__thumb" />
             </a>
             <div>
               <a href="" class="card__title t__28 text-dark">Trusted partnership backed by client satisfaction.</a>

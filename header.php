@@ -27,7 +27,7 @@
   <link rel="stylesheet" href="assets/css/main.css" />
   <!-- style  me  -->
   <link rel="stylesheet" href="assets/css/style.css" />
-  <link rel="" />
+  <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 
 <body>
@@ -104,13 +104,13 @@
           </li>
           <li class="dropdown__container ms-4">
             <div class="d-flex justify-content-between align-items-center ga">
-              <a href="who-we-are.php">Who Are We? </a>
+              <a href="who-we-are.php">Who We Are? </a>
             </div>
           </li>
 
 
           <li class="dropdown ms-4 ga"><a href="services.php"><span>Services </span></a>
-            <!-- <ul>
+            <!-- <ul>zzz z 
             <li><a href="digital-marketing.php">Digital Marketing</a></li>
             <li><a href="content-creation.php">Content Creation</a></li>
             <li><a href="web-dev.php">Web Development</a></li>
@@ -171,9 +171,13 @@
             <a href="who-we-are.php">Who Are We? </a>
           </div>
         </li>
-
-
-        <li class="dropdown mt-5 off"><a href="#"><span>Services </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+        <!-- <li class="dropdown ms-4 ga"><a href="services.php"><span>Services </span></a> -->
+        <li class="dropdown__container mt-5">
+          <div class="d-flex justify-content-between align-items-center   off">
+            <a href="services.php">Services</a>
+          </div>
+        </li>
+        <!-- <li class="dropdown mt-5 off"><a href="#"><span>Services </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
           <ul>
             <li><a href="digital-marketing.php">Digital Marketing</a></li>
             <li><a href="content-creation.php">Content Creation</a></li>
@@ -183,7 +187,7 @@
             <li><a href="consulting.php">Consulting</a></li>
 
           </ul>
-        </li>
+        </li> -->
         <!-- <li class="dropdown mt-5 off"><a href="#"><span>Our Work </span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
         <ul>
           <li class="off"><a href="faq.php">Faq's</a></li>
