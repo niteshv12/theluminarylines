@@ -325,120 +325,122 @@
       <div class="ser-row mt-5">
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/dm01.png" alt="" />
-            <!-- <i class="fa-solid fa-chart-simple"></i> -->
-            <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
-            <h2>Digital Marketing</h2>
-            <ul class="mb-5">
-              <li>Search Engine Optimization (SEO)</li>
-              <li>
-                Search Engine Marketing (SEM)
-              </li>
-              <li>
-                Social Media Marketing (SMM)
-              </li>
-              <li>Email Marketing</li>
-              <li>Pay-Per-Click (PPC) Advertising</li>
-            </ul>
-            <a href="digital-marketing.php" class="mt-5"> Read More</a>
+            <div class="car-img">
+              <a href="digital-marketing">
+                <img src="assets/img/icon/dm01.png" alt="" />
+                <!-- <i class="fa-solid fa-chart-simple"></i> -->
+                <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
+                <h2>Digital Marketing</h2>
+                <ul class="mb-5">
+                  <li>Search Engine Optimization (SEO)</li>
+                  <li>
+                    Search Engine Marketing (SEM)
+                  </li>
+                  <li>
+                    Social Media Marketing (SMM)
+                  </li>
+                  <li>Email Marketing</li>
+                  <li>Pay-Per-Click (PPC) Advertising</li>
+                </ul>
+                <a href="digital-marketing.php" class="mt-5"> Read More</a>
+            </div>
           </div>
-        </div>
-        <div>
-          <div class="slidess">
-            <img src="assets/img/icon/cc.png" alt="" />
-            <h2>Content Creation</h2>
-            <ul class="mb-5">
-              <li>Engaging Copywriting</li>
-              <li>
-                Compelling Video Production
-              </li>
-              <li>
-                Stunning Photography
-              </li>
-              <li>Blog and Article Writing</li>
-              <li>Social Media Content Creation</li>
-            </ul>
-            <a href="content-creation.php" class=" mt-3
+          <div>
+            <div class="slidess">
+              <img src="assets/img/icon/cc.png" alt="" />
+              <h2>Content Creation</h2>
+              <ul class="mb-5">
+                <li>Engaging Copywriting</li>
+                <li>
+                  Compelling Video Production
+                </li>
+                <li>
+                  Stunning Photography
+                </li>
+                <li>Blog and Article Writing</li>
+                <li>Social Media Content Creation</li>
+              </ul>
+              <a href="content-creation.php" class=" mt-3
               "> Read More</a>
+            </div>
           </div>
-        </div>
-        <div>
-          <div class="slidess">
-            <img src="assets/img/icon/gp.png" alt="" />
-            <h2>Graphic Designing</h2>
-            <ul class="mb-5">
-              <li>Logo Design and Branding</li>
-              <li>
-                Brochure and Flyer Design
-              </li>
-              <li>
-                Poster and Banner Design
-              </li>
-              <li>Infographics</li>
-              <li>Packaging Design</li>
-            </ul>
-            <a href="graphic-design.php" class="mt-3 "> Read More</a>
+          <div>
+            <div class="slidess">
+              <img src="assets/img/icon/gp.png" alt="" />
+              <h2>Graphic Designing</h2>
+              <ul class="mb-5">
+                <li>Logo Design and Branding</li>
+                <li>
+                  Brochure and Flyer Design
+                </li>
+                <li>
+                  Poster and Banner Design
+                </li>
+                <li>Infographics</li>
+                <li>Packaging Design</li>
+              </ul>
+              <a href="graphic-design.php" class="mt-3 "> Read More</a>
+            </div>
           </div>
-        </div>
-        <div>
-          <div class="slidess">
-            <img src="assets/img/icon/web.png" alt="" />
-            <h2>Web Development</h2>
-            <ul class="mb-5">
-              <li>Custom Website Design and Development</li>
-              <li>
-                E-commerce Solutions
-              </li>
-              <li>
-                Mobile-Friendly Responsive Design
-              </li>
-              <li>Website Maintenance and Support</li>
+          <div>
+            <div class="slidess">
+              <img src="assets/img/icon/web.png" alt="" />
+              <h2>Web Development</h2>
+              <ul class="mb-5">
+                <li>Custom Website Design and Development</li>
+                <li>
+                  E-commerce Solutions
+                </li>
+                <li>
+                  Mobile-Friendly Responsive Design
+                </li>
+                <li>Website Maintenance and Support</li>
 
-            </ul>
-            <a href="web-development.php" class=" mt-3"> Read More</a>
+              </ul>
+              <a href="web-development.php" class=" mt-3"> Read More</a>
+            </div>
           </div>
-        </div>
-        <div>
-          <div class="slidess">
-            <img src="assets/img/icon/brand.png" alt="" />
-            <h2>Brand Identity</h2>
-            <ul class="mb-5">
-              <li>Brand Guidelines Development</li>
-              <li>
-                Brand Positioning and Messaging
-              </li>
-              <li>
-                Brand Identity Consultation
-              </li>
-              <li>Brand Collateral Design</li>
-              <li>Brand Recognition</li>
+          <div>
+            <div class="slidess">
+              <img src="assets/img/icon/brand.png" alt="" />
+              <h2>Brand Identity</h2>
+              <ul class="mb-5">
+                <li>Brand Guidelines Development</li>
+                <li>
+                  Brand Positioning and Messaging
+                </li>
+                <li>
+                  Brand Identity Consultation
+                </li>
+                <li>Brand Collateral Design</li>
+                <li>Brand Recognition</li>
 
-            </ul>
-            <a href="brand-identity.php" class="mt-3
+              </ul>
+              <a href="brand-identity.php" class="mt-3
               "> Read More</a>
+            </div>
           </div>
-        </div>
-        <div>
-          <div class="slidess">
-            <img src="assets/img/icon/comm.png" alt="" />
-            <h2>Consulting</h2>
-            <ul class="mb-5">
-              <li> <span></span>Strategic Planning</li>
-              <li>
-                Market Analysis and Research
-              </li>
-              <li>
-                Brand Strategy Development
-              </li>
-              <li>Digital Marketing Strategy</li>
-              <li>Campaign Optimization</li>
-            </ul>
-            <a href="consulting.php" class=" mt-3"> Read More</a>
+          <div>
+            <div class="slidess">
+              <img src="assets/img/icon/comm.png" alt="" />
+              <h2>Consulting</h2>
+              <ul class="mb-5">
+                <li> <span></span>Strategic Planning</li>
+                <li>
+                  Market Analysis and Research
+                </li>
+                <li>
+                  Brand Strategy Development
+                </li>
+                <li>Digital Marketing Strategy</li>
+                <li>Campaign Optimization</li>
+              </ul>
+              <a href="consulting.php" class=" mt-3"> Read More</a>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
 </section>
 <!-- --------------- End services ----------- -->
 <!-- --------------- start Footer ----------- -->

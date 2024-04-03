@@ -1050,6 +1050,12 @@
     object-fit: fill;
 }
 
+.car-img>a>img {
+    width: 80px;
+    height: 80px;
+    object-fit: fill;
+}
+
 .slidess>ul {
     list-style-type: circle;
     /* padding-left: 15%; */
@@ -1086,12 +1092,11 @@
     margin-top: 20px;
 }
 
-.slidess>a {
-    background-color: #032539;
-    border-radius: 10px;
-    color: #ffffff;
-    padding: 10px 20px;
-    margin-top: 20px;
+
+
+.car-tag>a>h2 {
+    margin: 20px 0px;
+    color: #032539
 }
 
 .services__wapper .slidess:hover>ul>li {

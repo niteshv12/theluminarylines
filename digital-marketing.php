@@ -356,10 +356,18 @@
       <div class="ser-row mt-5">
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/dm01.png" alt="" />
+            <div class="car-img">
+              <a href="digital-marketing.php">
+                <img src="assets/img/icon/dm01.png" alt="" />
+              </a>
+            </div>
             <!-- <i class="fa-solid fa-chart-simple"></i> -->
             <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
-            <h2>Digital Marketing</h2>
+            <div class="car-tag">
+              <a href="digital-marketing.php">
+                <h2>Digital Marketing</h2>
+              </a>
+            </div>
             <ul class="mb-5">
               <li>Search Engine Optimization (SEO)</li>
               <li>
@@ -376,8 +384,16 @@
         </div>
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/cc.png" alt="" />
-            <h2>Content Creation</h2>
+            <div class="car-img">
+              <a href="content-creation.php">
+                <img src="assets/img/icon/cc.png" alt="" />
+              </a>
+            </div>
+            <div class="car-tag">
+              <a href="content-creation.php">
+                <h2>Content Creation</h2>
+              </a>
+            </div>
             <ul class="mb-5">
               <li>Engaging Copywriting</li>
               <li>
@@ -395,8 +411,16 @@
         </div>
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/gp.png" alt="" />
-            <h2>Graphic Designing</h2>
+            <div class="car-img">
+              <a href="graphic-design.php">
+                <img src="assets/img/icon/gp.png" alt="" />
+              </a>
+            </div>
+            <div class="car-tag">
+              <a href="graphic-design.php">
+                <h2>Graphic Designing</h2>
+              </a>
+            </div>
             <ul class="mb-5">
               <li>Logo Design and Branding</li>
               <li>
@@ -413,8 +437,16 @@
         </div>
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/web.png" alt="" />
-            <h2>Web Development</h2>
+            <div class="car-img">
+              <a href="web-development.php">
+                <img src="assets/img/icon/web.png" alt="" />
+              </a>
+            </div>
+            <div class="car-tag">
+              <a href="web-development.php">
+                <h2>Web Development</h2>
+              </a>
+            </div>
             <ul class="mb-5">
               <li>Custom Website Design and Development</li>
               <li>
@@ -431,8 +463,16 @@
         </div>
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/brand.png" alt="" />
-            <h2>Brand Identity</h2>
+            <div class="car-img">
+              <a href="brand-identity.php">
+                <img src="assets/img/icon/brand.png" alt="" />
+              </a>
+            </div>
+            <div class="car-tag">
+              <a href="brand-identity.php">
+                <h2>Brand Identity</h2>
+              </a>
+            </div>
             <ul class="mb-5">
               <li>Brand Guidelines Development</li>
               <li>
@@ -451,8 +491,16 @@
         </div>
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/comm.png" alt="" />
-            <h2>Consulting</h2>
+            <div class="car-img">
+              <a href="consulting.php">
+                <img src="assets/img/icon/comm.png" alt="" />
+              </a>
+            </div>
+            <div class="car-tag">
+              <a href="consulting.php">
+                <h2>Consulting</h2>
+              </a>
+            </div>
             <ul class="mb-5">
               <li> <span></span>Strategic Planning</li>
               <li>
