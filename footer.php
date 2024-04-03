@@ -103,10 +103,10 @@
               <a href="index.php">Home</a>
             </li>
             <li>
-              <a href="digital-marketing.php">Our All Services</a>
+              <a href="services.php">Our All Services</a>
             </li>
             <li>
-              <a href="who-we-are.php">About Luminary Lines</a>
+              <a href="who-we-are.php">Who We Are</a>
             </li>
           </ul>
         </div>
@@ -122,7 +122,7 @@
               <a href="faq.php">FAQ's</a>
             </li>
             <li>
-              <a href="">Privacy Policy</a>
+              <a href="blogs.php">Blog's</a>
             </li>
           </ul>
         </div>
