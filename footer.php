@@ -86,7 +86,7 @@
             </li>
             <li>
               <img src="assets/icons/Frame (6).svg" alt="" />
-              <p style="color: #fff;"> +91 9871845696</p>
+              <p style="color: #fff;">+91 7428599745 | +91 7428599751 </p>
             </li>
             <!-- <li>
                 <img src="assets/icons/Frame (7).svg" alt="" />
