@@ -4,9 +4,9 @@
 <!-- --------------- Start Header ------------ -->
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
-
+<img src="assets/img/services/CONTENT.jpg" alt="" class="top-img">
 <!-- --------------- Start page header ----------- -->
-<section class="page__header position-relative">
+<!-- <section class="page__header position-relative">
   <div class="container">
     <div class="row">
       <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
@@ -24,7 +24,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- <section class="page__header position-relative service-head">
     <div class="container">
       <div class="row">
@@ -48,7 +48,7 @@
 
 <article class="service__details py__130">
   <div class="container ">
-    <img src="assets/img/services/cc.jpg" alt="" class="w-100 thumb__img" />
+    <!-- <img src="assets/img/services/cc.jpg" alt="" class="w-100 thumb__img" /> -->
     <div class="first__para pt__60">
       <h2 class="t__54 text-dark" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         Content Creation
@@ -313,7 +313,8 @@
 <!--  End service details -->
 <hr class="" style="color: #FA991C;">
 <!-- --------------- Start services ----------- -->
-<section class="testimonial py__60 " style="margin-bottom:200px; background-color:#FBF3F2;" id="">
+<section class="testimonial py__60 mb-5
+ " style=" background-color:#FBF3F2;" id="">
   <div class="container position-relative">
     <!-- title Start -->
     <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">

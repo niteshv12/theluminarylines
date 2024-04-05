@@ -1,7 +1,7 @@
 <footer class="footer">
   <div class="container">
     <!-- Subscribe Form -->
-    <div class="subscribe">
+    <!-- <div class="subscribe">
       <div class="row">
         <div class="col-lg-8">
           <h2>Subscribe to our newsletter & get more information</h2>
@@ -16,7 +16,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Subscribe Form -->
 
     <!-- -------Logo and socal icon -->

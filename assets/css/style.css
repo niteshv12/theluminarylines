@@ -1138,3 +1138,17 @@
         padding: 25px
     }
 }
+
+.bbg {
+    background-image: url(../img/services/cc5.jpg);
+    height: 350px;
+    width: 100%;
+    object-fit: fill;
+}
+
+.top-img {
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}

@@ -6,7 +6,7 @@
 <!-- --------------- End Header ------------ -->
 
 <!-- --------------- Start page header ----------- -->
-<section class="page__header position-relative banner-contect " style="">
+<section class="page__header position-relative banner-contect ">
   <div class="container">
     <div class="row">
       <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">

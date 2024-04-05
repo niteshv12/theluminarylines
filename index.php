@@ -26,9 +26,10 @@
         </p>
       </div>
       <div class="buttons d-sm-flex align-items-center" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
-        <button class="common__btn buttons_file" style="background-color: #000; border-style: none;">
-          <span> Get A Quote</span>
+        <!-- <button class="common__btn buttons_file" href="contact.php" style="background-color: #000; border-style: none;"> -->
+        <a href="contact.php" class="common__btn buttons_file" style="background-color: #000; border-style: none;"><span> Get A Quote</span>
           <img src="assets/icons/arrow-up-right.svg" alt="" />
+        </a>
         </button>
         <!-- <button class="common__btn buttons_outline mt-4 mt-sm-0">
             <span>More About Us</span>
@@ -167,10 +168,11 @@
                 <span>Quality marketing</span>
               </li>
             </ul>
-            <button class="common__btn buttons_file mt-5" style="background-color: #000; border-style: none;">
-              <span> Get A Quote</span>
+            <!-- <button class="common__btn buttons_file mt-5" style="background-color: #000; border-style: none;"> -->
+            <a href="contact.php" class="common__btn buttons_file mt-5" style="background-color: #000; border-style: none;"><span> Get A Quote</span>
               <img src="assets/icons/arrow-up-right.svg" alt="" />
-            </button>
+            </a>
+            <!-- </button> -->
           </div>
           <!-- <div class="col-lg-6 mt-5 ms-auto d-sm-block d-none " style="position: absolute; left: 30%; z-index: 25px;" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
               <a href="contact.php" class="circle">
@@ -490,7 +492,7 @@
 
 
 <!-- --------------- Start Services ----------- -->
-<section class="services  " id="services" style="margin-top: -100px;">
+<section class="services  " id="services" style="margin-top: -40px;">
   <div class="container position-relative">
 
     <!-- <div class="row ser-row justify-content-between align-items-center about__wapper">
@@ -840,10 +842,12 @@
               <p>Logo Design (basic)</p>
             </li>
           </ul>
-          <button class="common__btn" style="border-style: none;">
-            <span>Get Started</span>
+          <!-- <button class="common__btn" style="border-style: none;"> -->
+          <a href="pricing.php" style="border-style: none;" class="common__btn">
+            <span>View More</span>
             <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-          </button>
+          </a>
+          <!-- </button> -->
         </div>
       </div>
       <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
@@ -884,10 +888,12 @@
               <p>4 social media graphics</p>
             </li>
           </ul>
-          <button class="common__btn" style="border-style: none;">
-            <span>Get Started</span>
+          <!-- <button class="common__btn" style="border-style: none;"> -->
+          <a href="contact.php" class="common__btn" style="border-style: none;">
+            <span>View More</span>
             <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-          </button>
+          </a>
+          <!-- </button> -->
         </div>
       </div>
       <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
@@ -928,10 +934,12 @@
               <p>Legal and Compliance</p>
             </li>
           </ul>
-          <button class="common__btn" style="border-style: none;">
-            <span>Get Started</span>
+          <!-- <button class="common__btn" style="border-style: none;"> -->
+          <a href="" class="common__btn" style="border-style: none;">
+            <span>View More</span>
             <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-          </button>
+            <!-- </button> -->
+          </a>
         </div>
       </div>
       <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0" data-aos-duration="1000">
@@ -949,7 +957,8 @@
             </li>
             <li>
               <span></span>
-              <p>Digital Advertising System</p>
+              <p>16 social media posts
+                4 promotional videos </p>
             </li>
             <li>
               <span></span>
@@ -971,11 +980,14 @@
               <span></span>
               <p>Analytics and Reporting</p>
             </li>
+            <!--  -->
           </ul>
-          <button class="common__btn" style="border-style:none;">
-            <span>Get Started</span>
+          <!-- <button class="common__btn" style="border-style:none;"> -->
+          <a href="contact.php" class="common__btn" style="border-style: none;">
+            <span>View More</span>
             <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-          </button>
+          </a>
+          <!-- </button> -->
         </div>
       </div>
     </div>
@@ -1159,7 +1171,7 @@
 <!-- --------------- End Testimonial ----------- -->
 
 <!-- --------------- Start Blog ----------- -->
-<section class="blogs py__130" id="blogs">
+<section class="blogs " id="blogs" style="padding-top: 130px;">
   <div class="container">
     <!-- title Start -->
     <div class="blogs__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
@@ -1347,10 +1359,9 @@
 </section>
 <!-- --------------- End Blog ----------- -->
 
-<scrip>
-  </script>
-  <!-- --------------- start Footer ----------- -->
-  <?php include('footer.php'); ?>
-  </body>
+
+<!-- --------------- start Footer ----------- -->
+<?php include('footer.php'); ?>
+</body>
 
 </html>

@@ -5,9 +5,15 @@
 <!-- --------------- Start Header ------------ -->
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
-
+<!-- <img src="assets/img/serv
+" alt="" class="top-img" style=" width:100%;
+    height: 450px;
+    object-fit: cover;
+    background-repeat: no-repeat;"> -->
+<img src="assets/img/services/bb.jpg" alt="" class="top-img">
 <!-- --------------- Start page header ----------- -->
-<section class="page__header position-relative">
+
+<!-- <section class="page__header position-relative">
   <div class="container">
     <div class="row">
       <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
@@ -25,7 +31,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- <section class="page__header position-relative service-head">
     <div class="container">
       <div class="row">
@@ -47,16 +53,18 @@
 
 <!--  start service details -->
 <article class="service__details py__130">
-  <div class="container ">
-    <img src="assets/img/services/brand.jpg" alt="" class="w-100 thumb__img" />
-    <div class="first__para pt__60">
-      <h2 class="t__54 text-dark" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        Brand Identity
-      </h2>
-      <p>
-        Brand Identity services involve developing and maintaining a consistent and recognizable visual and verbal identity for your brand. This encompasses elements such as logos, brand guidelines, positioning, messaging, and collateral design. Here's a breakdown:
-      </p>
-      <!-- <h4 class="t__28 mt-5">Content
+  <div class="container-fluid">
+    <!-- <img src="assets/img/services/brand.jpg" alt="" class="w-100 " /> -->
+    <div class="container ">
+
+      <div class="first__para pt__60">
+        <h2 class="t__54 text-dark" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+          Brand Identity
+        </h2>
+        <p>
+          Brand Identity services involve developing and maintaining a consistent and recognizable visual and verbal identity for your brand. This encompasses elements such as logos, brand guidelines, positioning, messaging, and collateral design. Here's a breakdown:
+        </p>
+        <!-- <h4 class="t__28 mt-5">Content
           Search Engine Optimization (SEO)
         </h4>
         <p>
@@ -64,14 +72,14 @@
           (SERPs). Through strategic techniques such as keyword research, on-page optimization, and link building, SEO
           aims to increase organic traffic to your website and enhance its authority in search engine algorithms.
         </p> -->
-    </div>
-    <div class="second__para pt__60">
-      <div class="row justify-content-between align-items-center">
-        <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <img src="assets/img/services/lb.jpg" alt="" class="w-100" />
-        </div>
-        <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
+      </div>
+      <div class="second__para pt__60">
+        <div class="row justify-content-between align-items-center">
+          <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <img src="assets/img/services/lb.jpg" alt="" class="w-100" />
+          </div>
+          <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <!-- <div>
               <h4 class="t__28">
                 Our premium detail package makes your vehicle look & smell
                 like new again,
@@ -82,20 +90,20 @@
                 <li>Sustainability Initiatives</li>
               </ul>
             </div> -->
-          <h4 class="t__28 mb-3 text-dark">
-            Logo Design and Branding
-          </h4>
-          <p class="text-dark">
-            Crafting a visual identity that encapsulates your brand's personality and values. Logo design and branding are essential for creating a memorable and recognizable brand image that resonates with your target audience.
-          </p>
+            <h4 class="t__28 mb-3 text-dark">
+              Logo Design and Branding
+            </h4>
+            <p class="text-dark">
+              Crafting a visual identity that encapsulates your brand's personality and values. Logo design and branding are essential for creating a memorable and recognizable brand image that resonates with your target audience.
+            </p>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="second__para pt__60">
-      <div class="row justify-content-between align-items-center">
+      <div class="second__para pt__60">
+        <div class="row justify-content-between align-items-center">
 
-        <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
+          <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <!-- <div>
               <h4 class="t__28">
                 Our premium detail package makes your vehicle look & smell
                 like new again,
@@ -106,27 +114,27 @@
                 <li>Sustainability Initiatives</li>
               </ul>
             </div> -->
-          <h4 class="t__28 mb-3 text-dark">
-            Brand Guidelines Development
-          </h4>
-          <p class="text-dark">
-            Establishing guidelines for the consistent use of your brand elements across all channels. Brand guidelines ensure uniformity in brand representation and help maintain brand integrity and coherence across various touchpoints.
+            <h4 class="t__28 mb-3 text-dark">
+              Brand Guidelines Development
+            </h4>
+            <p class="text-dark">
+              Establishing guidelines for the consistent use of your brand elements across all channels. Brand guidelines ensure uniformity in brand representation and help maintain brand integrity and coherence across various touchpoints.
 
-          </p>
-        </div>
-        <div class="col-md-5 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <img src="assets/img/services/lb2.jpg" alt="" class="w-100" />
+            </p>
+          </div>
+          <div class="col-md-5 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <img src="assets/img/services/lb2.jpg" alt="" class="w-100" />
+          </div>
         </div>
       </div>
-    </div>
-    <!-- <div class="thred__para pt__50">
+      <!-- <div class="thred__para pt__50">
         <h5 class="t__28">Search Engine Marketing (SEM)</h5>
         <p>
           SEM involves paid advertising on search engines like Google or Bing to increase your website's visibility in
           search engine results. With SEM, you can target specific keywords and demographics, allowing you to reach
           potential customers actively searching for products or services similar to yours.
         </p> -->
-    <!-- <ul class="d-flex justify-content-between align-items-center flex-wrap gap-3" data-aos="fade-up"
+      <!-- <ul class="d-flex justify-content-between align-items-center flex-wrap gap-3" data-aos="fade-up"
             data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             <li>Low Cost Our Fee</li>
             <li>Available 24 hours</li>
@@ -134,13 +142,13 @@
             <li>Warranty & Maintenance</li>
           </ul> -->
 
-    <div class="second__para pt__60">
-      <div class="row justify-content-between align-items-center">
-        <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <img src="assets/img/services/lb3.jpg" alt="" class="w-100" />
-        </div>
-        <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
+      <div class="second__para pt__60">
+        <div class="row justify-content-between align-items-center">
+          <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <img src="assets/img/services/lb3.jpg" alt="" class="w-100" />
+          </div>
+          <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <!-- <div>
             <h4 class="t__28">
               Our premium detail package makes your vehicle look & smell
               like new again,
@@ -151,17 +159,17 @@
               <li>Sustainability Initiatives</li>
             </ul>
           </div> -->
-          <h4 class="t__28 mb-3 text-dark">
-            Brand Positioning and Messaging
-          </h4>
-          <p class="text-dark">
-            Defining your brand's positioning and messaging to effectively communicate with your target audience. Brand positioning determines how your brand is perceived relative to competitors, while messaging conveys your brand's value proposition and resonates with your audience's needs and aspirations.
-          </p>
-        </div>
+            <h4 class="t__28 mb-3 text-dark">
+              Brand Positioning and Messaging
+            </h4>
+            <p class="text-dark">
+              Defining your brand's positioning and messaging to effectively communicate with your target audience. Brand positioning determines how your brand is perceived relative to competitors, while messaging conveys your brand's value proposition and resonates with your audience's needs and aspirations.
+            </p>
+          </div>
 
+        </div>
       </div>
-    </div>
-    <!-- <div class="fourt__para">
+      <!-- <div class="fourt__para">
       <h5 class="t__28">Social Media Marketing (SMM): </h5>
       <p>
         SMM involves promoting your brand and engaging with your audience on various social media platforms such as
@@ -170,11 +178,11 @@
         customer loyalty.
       </p>
     </div> -->
-    <div class="second__para pt__60">
-      <div class="row justify-content-between align-items-center">
+      <div class="second__para pt__60">
+        <div class="row justify-content-between align-items-center">
 
-        <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
+          <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <!-- <div>
             <h4 class="t__28">
               Our premium detail package makes your vehicle look & smell
               like new again,
@@ -185,19 +193,19 @@
               <li>Sustainability Initiatives</li>
             </ul>
           </div> -->
-          <h4 class="t__28 mb-3 text-dark">
-            Brand Identity Consultation
-          </h4>
-          <p class="text-dark">
-            Providing expert guidance and recommendations to help you define and refine your brand identity. Brand identity consultation involves understanding your brand's essence, audience, and objectives to develop strategies for building a strong and cohesive brand image.
-          </p>
-        </div>
-        <div class="col-md-5 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <img src="assets/img/services/lb4.jpg" alt="" class="w-100" />
+            <h4 class="t__28 mb-3 text-dark">
+              Brand Identity Consultation
+            </h4>
+            <p class="text-dark">
+              Providing expert guidance and recommendations to help you define and refine your brand identity. Brand identity consultation involves understanding your brand's essence, audience, and objectives to develop strategies for building a strong and cohesive brand image.
+            </p>
+          </div>
+          <div class="col-md-5 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <img src="assets/img/services/lb4.jpg" alt="" class="w-100" />
+          </div>
         </div>
       </div>
-    </div>
-    <!-- <div class="fourt__para">
+      <!-- <div class="fourt__para">
       <h5 class="t__28">Email Marketing </h5>
       <p>
         Email marketing is a direct communication channel used to reach out to your target audience through
@@ -205,13 +213,13 @@
         subscribers' inboxes, email marketing helps nurture leads, retain customers, and drive conversions.
       </p>
     </div> -->
-    <div class="second__para pt__60">
-      <div class="row justify-content-between align-items-center">
-        <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <img src="assets/img/services/lb5.jpg" alt="" class="w-100" />
-        </div>
-        <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
+      <div class="second__para pt__60">
+        <div class="row justify-content-between align-items-center">
+          <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <img src="assets/img/services/lb5.jpg" alt="" class="w-100" />
+          </div>
+          <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+            <!-- <div>
             <h4 class="t__28">
               Our premium detail package makes your vehicle look & smell
               like new again,
@@ -222,19 +230,19 @@
               <li>Sustainability Initiatives</li>
             </ul>
           </div> -->
-          <h4 class="t__28 mb-3 text-dark">
-            Brand Collateral Design
-          </h4>
-          <p class="text-dark">
-            Designing collateral materials such as business cards, letterheads, and presentations that reflect your brand identity. Brand collateral design ensures that all printed and digital materials align with your brand's visual identity and messaging, reinforcing brand recognition and consistency.
-          </p>
-          <p class="text-dark">
-            By investing in Brand Identity services, businesses can establish a strong and cohesive brand presence that resonates with their target audience, fosters brand loyalty, and drives long-term success in the marketplace.
-          </p>
+            <h4 class="t__28 mb-3 text-dark">
+              Brand Collateral Design
+            </h4>
+            <p class="text-dark">
+              Designing collateral materials such as business cards, letterheads, and presentations that reflect your brand identity. Brand collateral design ensures that all printed and digital materials align with your brand's visual identity and messaging, reinforcing brand recognition and consistency.
+            </p>
+            <p class="text-dark">
+              By investing in Brand Identity services, businesses can establish a strong and cohesive brand presence that resonates with their target audience, fosters brand loyalty, and drives long-term success in the marketplace.
+            </p>
+          </div>
         </div>
       </div>
-    </div>
-    <!-- <div class="fourt__para">
+      <!-- <div class="fourt__para">
       <h5 class="t__28">Pay-Per-Click (PPC) Advertising</h5>
       <p>
         PPC advertising involves bidding on keywords and paying a fee each time your ad is clicked. This allows you
@@ -247,6 +255,7 @@
       </p>
     </div> -->
 
+    </div>
   </div>
 </article>
 
@@ -314,7 +323,7 @@
 <!--  End service details -->
 <hr class="" style="color: #FA991C;">
 <!-- --------------- Start services ----------- -->
-<section class="testimonial py__60 " style="margin-bottom:200px; background-color:#FBF3F2;" id="">
+<section class="testimonial py__60 mb-5" style=" background-color:#FBF3F2;" id="">
   <div class="container position-relative">
     <!-- title Start -->
     <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
@@ -328,10 +337,18 @@
       <div class="ser-row mt-5">
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/dm01.png" alt="" />
+            <div class="car-img">
+              <a href="digital-marketing.php">
+                <img src="assets/img/icon/dm01.png" alt="" />
+              </a>
+            </div>
             <!-- <i class="fa-solid fa-chart-simple"></i> -->
             <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
-            <h2>Digital Marketing</h2>
+            <div class="car-tag">
+              <a href="digital-marketing.php">
+                <h2>Digital Marketing</h2>
+              </a>
+            </div>
             <ul class="mb-5">
               <li>Search Engine Optimization (SEO)</li>
               <li>
@@ -348,8 +365,16 @@
         </div>
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/cc.png" alt="" />
-            <h2>Content Creation</h2>
+            <div class="car-img">
+              <a href="content-creation.php">
+                <img src="assets/img/icon/cc.png" alt="" />
+              </a>
+            </div>
+            <div class="car-tag">
+              <a href="content-creation.php">
+                <h2>Content Creation</h2>
+              </a>
+            </div>
             <ul class="mb-5">
               <li>Engaging Copywriting</li>
               <li>
@@ -367,8 +392,16 @@
         </div>
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/gp.png" alt="" />
-            <h2>Graphic Designing</h2>
+            <div class="car-img">
+              <a href="graphic-design.php">
+                <img src="assets/img/icon/gp.png" alt="" />
+              </a>
+            </div>
+            <div class="car-tag">
+              <a href="graphic-design.php">
+                <h2>Graphic Designing</h2>
+              </a>
+            </div>
             <ul class="mb-5">
               <li>Logo Design and Branding</li>
               <li>
@@ -385,8 +418,16 @@
         </div>
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/web.png" alt="" />
-            <h2>Web Development</h2>
+            <div class="car-img">
+              <a href="web-development.php">
+                <img src="assets/img/icon/web.png" alt="" />
+              </a>
+            </div>
+            <div class="car-tag">
+              <a href="web-development.php">
+                <h2>Web Development</h2>
+              </a>
+            </div>
             <ul class="mb-5">
               <li>Custom Website Design and Development</li>
               <li>
@@ -403,8 +444,16 @@
         </div>
         <div>
           <div class="slidess">
-            <img src="assets/img/icon/brand.png" alt="" />
-            <h2>Brand Identity</h2>
+            <div class="car-img">
+              <a href="brand-identity.php">
+                <img src="assets/img/icon/brand.png" alt="" />
+              </a>
+            </div>
+            <div class="car-tag">
+              <a href="brand-identity.php">
+                <h2>Brand Identity</h2>
+              </a>
+            </div>
             <ul class="mb-5">
               <li>Brand Guidelines Development</li>
               <li>

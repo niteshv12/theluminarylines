@@ -5,9 +5,9 @@
 <!-- --------------- Start Header ------------ -->
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
-
+<img src="assets/img/services/wdev.jpg" alt="" class="top-img">
 <!-- --------------- Start page header ----------- -->
-<section class="page__header position-relative">
+<!-- <section class="page__header position-relative">
   <div class="container">
     <div class="row">
       <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
@@ -25,7 +25,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- <section class="page__header position-relative " style="background-image: url(assets/img/banner/service.jpg); width:100%; height: 600px; object-fit:cover;">
     <div class="container">
       <div class="row">
@@ -46,9 +46,9 @@
 
 <!--  start service details -->
 
-<article class="service__details py__130">
+<article class="service__details " style="margin-bottom: 100px;">
   <div class="container ">
-    <img src="assets/img/services/web.jpg" alt="" class="w-100 thumb__img" />
+    <!-- <img src="assets/img/services/web.jpg" alt="" class="w-100 thumb__img" /> -->
     <div class="first__para pt__60">
       <h2 class="t__54 text-dark" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         Web Development

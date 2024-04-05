@@ -96,7 +96,7 @@
         <span class="navbar-toggler-icon t"></span>
       </button>
       <div class="collapse navbar-collapse " id="navbarSupportedContent">
-        <ul class="navbar-nav justify-content-between align-items-center  " style="margin-left:-30px; ">
+        <ul class="navbar-nav justify-content-between align-items-center">
           <li class="dropdown__container">
             <div class="d-flex justify-content-between align-items-center ga">
               <a href="index.php">Home </a>
@@ -133,6 +133,11 @@
           <li class="dropdown__container ms-4">
             <div class="d-flex justify-content-between align-items-center ga">
               <a href="blog.php">Blogs </a>
+            </div>
+          </li>
+          <li class="dropdown__container ms-4">
+            <div class="d-flex justify-content-between align-items-center ga">
+              <a href="pricing.php">Pricing </a>
             </div>
           </li>
           <li class="dropdown__container ms-4">
@@ -202,6 +207,11 @@
         <li class="dropdown__container mt-5 ">
           <div class="d-flex justify-content-between align-items-center off">
             <a href="blog.php">Blogs </a>
+          </div>
+        </li>
+        <li class="dropdown__container mt-5 ">
+          <div class="d-flex justify-content-between align-items-center off">
+            <a href="pricing.php">Pricing </a>
           </div>
         </li>
         <li class="dropdown__container mt-5 ">
