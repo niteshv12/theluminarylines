@@ -601,8 +601,8 @@ p {
 }
 
 .banner__content_title {
-    margin-top: 60px;
-    margin-left: 40px;
+    margin-top: 220px;
+    margin-left: 60px;
 }
 
 .banner__content_title h1 {
@@ -636,12 +636,12 @@ p {
 
 @media(max-width: 576px) {
     .banner__content_title {
-        margin-top: 60px;
-        margin-left: 20px;
+        margin-top: 160px;
+        margin-right: 40px;
     }
 
     .banner__content_title h1 {
-        font-size: 36px;
+        font-size: 46px;
         line-height: 53px;
 
     }
@@ -1141,6 +1141,7 @@ p {
 }
 
 .services {
+    margin-top: 350px;
     /* background-color: var(--main-clr); */
     background-color: #032539;
     padding-bottom: 0px
@@ -2313,7 +2314,8 @@ p {
 }
 
 .all__blog {
-    margin-bottom: 181px
+    margin-bottom: 181px;
+    margin-top: 200px;
 }
 
 .all__blog .blogs__wapper_card {
@@ -3245,7 +3247,17 @@ p {
 .contact {
     max-width: 1096px;
     margin: auto;
-    padding-top: 166px
+    /* padding-top: 166px; */
+    margin-top: 350px;
+}
+
+@media (max-width: 575.98px) {
+    .contact {
+        max-width: 1096px;
+        margin: auto;
+        padding-top: 100px;
+        /* margin-top: 60px; */
+    }
 }
 
 .contact .location .location__disc {
@@ -3401,7 +3413,26 @@ p {
 .faq {
     max-width: 1096px;
     margin: auto;
-    margin-bottom: 181px
+    margin-bottom: 181px;
+    margin-top: 250px;
+}
+
+@media (max-width: 575.98px) {
+    .faq {
+        max-width: 1096px;
+        margin: auto;
+        margin-bottom: 181px;
+        margin-top: 60px;
+    }
+}
+
+@media(min-width: 576px) and (max-width: 991.98px) {
+    .faq {
+        max-width: 1096px;
+        margin: auto;
+        margin-bottom: 181px;
+        margin-top: 60px;
+    }
 }
 
 .faq .title {
@@ -3422,10 +3453,10 @@ p {
 
 .faq .faq__wapper .accordion-item .accordion-header .accordion-button {
     box-shadow: none;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(247, 247, 247, 0);
     font-size: 20px;
     font-weight: 400;
-    color: var(--secondary-clr);
+    color: #FFF;
     border: unset;
     font-size: 28px;
     font-family: Kanit;

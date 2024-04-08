@@ -7,29 +7,30 @@
 <!-- --------------- Start Header ------------ -->
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
+<div class="container-fluid header-to">
+  <img src="assets/img/banner/hm.png" alt="" class="c-img  d-lg-block d-none">
+  <!-- <img src="assets/img/banner/hm.png " alt="" class="mb-show d-sm-block d-none" style="height: 400px;"> -->
+  <div class="row">
+    <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
 
-<!-- --------------- Start page header ----------- -->
-<section class="page__header position-relative who-banner">
-  <div class="container">
-    <!-- <div class="row">
-        <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
-          <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" />
-          <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" />
-          <div class="text-center" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <h2>Who Are We? </h2>
-            <div class="d-flex justify-content-center gap-2">
-              <a href="index.html">Home</a>
-              <span>/</span>
-              <p>Who Are We? </p>
-            </div>
-          </div>
-          <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" />
+      <div class="banner__content_title-w">
+        <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+          Who We Are? </h1>
+        <div class="d-flex justify-content-center gap-2">
+          <a href="index.html">Home</a>
+          <span class="text-light">/</span> <a href="who_we_are.html">Who We Are?</a>
         </div>
-      </div> -->
+      </div>
+
+    </div>
+  </div>
+</div>
+<!-- --------------- Start page header ----------- -->
+<!-- <section class="page__header position-relative who-banner">
+  <div class="container">
     <div class="row">
       <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
-        <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
-        <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
+
         <div class="banner__content_title-w">
           <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             Who We Are? </h1>
@@ -38,14 +39,14 @@
             <span class="text-light">/</span> <a href="who_we_are.html">Who We Are?</a>
           </div>
         </div>
-        <!-- <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" /> -->
+
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- --------------- End page header ----------- -->
 <!-- --------------- Start About ----------- -->
-<section class="about py__40" id="about">
+<section class="who-about py__40" id="about">
   <div class="container">
     <div class="row justify-content-between about__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
       <div class="col-lg-10">
@@ -278,7 +279,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div>x
   </section> -->
 <!-- --------------- End Testimonial ----------- -->
 <!-- --------------- project  start ----------- -->
@@ -337,7 +338,7 @@
 </section>
 <!-- --------------- project  end ----------- -->
 <!-- --------------- Start Blog ----------- -->
-<section class="blogs blogs__2 " style="margin-top: -140px;">
+<section class="blogs blogs__2 " style="margin-top: -100px;">
   <div class=" container">
     <!-- title Start -->
     <div class="blogs__title">

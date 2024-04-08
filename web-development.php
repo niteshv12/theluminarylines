@@ -5,7 +5,7 @@
 <!-- --------------- Start Header ------------ -->
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
-<img src="assets/img/services/wdev.jpg" alt="" class="top-img">
+<img src="assets/img/services/web01.jpg" alt="" class="top-img">
 <!-- --------------- Start page header ----------- -->
 <!-- <section class="page__header position-relative">
   <div class="container">
