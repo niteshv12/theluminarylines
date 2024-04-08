@@ -2079,8 +2079,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid #fff;
-    color: #fff;
+    border: 1px solid #FA991C;
+    color: #FA991C;
 }
 
 .testimonial .slide__nav {
@@ -2105,8 +2105,9 @@ p {
 
 .testimonial .next-arrow {
     left: 41.5%;
-    color: #FFF;
+    color: #FA991C;
 }
+
 
 @media (max-width: 575.98px) {
     .testimonial .next-arrow {
@@ -2241,7 +2242,9 @@ p {
 .blogs__wapper_card .card__thumb {
     border-radius: 10px;
     margin-bottom: 34px;
-    width: 100%
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
 }
 
 @media(max-width: 768px) {

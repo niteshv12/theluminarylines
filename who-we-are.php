@@ -361,11 +361,11 @@
       <div class="row">
         <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
-            <a href="" class="">
-              <img src="assets/img/about/ac1.jpg" alt="" class="card__thumb" />
-            </a>
+            <!-- <a href="" class=""> -->
+            <img src="assets/img/about/ac1.jpg" alt="" class="card__thumb" />
+            <!-- </a> -->
             <div>
-              <a href="" class="card__title t__28 text-dark">Industry-leading expertise ensures proficient project handling.</a>
+              <h2 class="card__title t__28 text-dark">Industry-leading expertise ensures proficient project handling.</h2>
               <div class="d-flex card__author">
                 <!-- <p>4444444444444444444444444444444444444444444444
                     <img src="assets/icons/user-black.svg" alt="" />
@@ -381,11 +381,11 @@
         </div>
         <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
-            <a href="" class="">
-              <img src="assets/img/about/ac2.jpg" alt="" class="card__thumb" />
-            </a>
+            <!-- <a href="" class=""> -->
+            <img src="assets/img/about/ac2.jpg" alt="" class="card__thumb" />
+            <!-- </a> -->
             <div>
-              <a href="" class="card__title t__28 text-dark">Creative brilliance that sets your brand apart.</a>
+              <h2 class="card__title t__28 text-dark">Creative brilliance that sets your brand apart.</h2>
               <div class="d-flex card__author">
                 <!-- <p>
                     <img src="assets/icons/user-black.svg" alt="" />
@@ -401,11 +401,12 @@
         </div>
         <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
-            <a href="" class="">
-              <img src="assets/img/about/ac3.jpg" alt="" class="card__thumb" />
-            </a>
+            <!-- <a href="" class=""> -->
+            <img src="assets/img/about/ac3.jpg" alt="" class="card__thumb" />
+            <!-- </a> -->
             <div>
-              <a href="" class="card__title t__28 text-dark">Dedicated commitment to exceeding your expectations.</a>
+              <!-- <a href="" class="card__title t__28 text-dark"> -->
+              <h2 class="card__title t__28 text-dark">Dedicated commitment to exceeding your expectations.</h2>
               <div class="d-flex card__author">
                 <!-- <p>
                     <img src="assets/icons/user-black.svg" alt="" />
@@ -421,11 +422,11 @@
         </div>
         <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
-            <a href="" class="">
-              <img src="assets/img/about/ac4.jpg" alt="" class="card__thumb" />
-            </a>
+            <!-- <a href="" class=""> -->
+            <img src="assets/img/about/ac4.jpg" alt="" class="card__thumb" />
+            <!-- </a> -->
             <div>
-              <a href="" class="card__title t__28 text-dark">Trusted partnership backed by client satisfaction.</a>
+              <h2 class="card__title t__28 text-dark">Trusted partnership backed by client satisfaction.</h2>
               <div class="d-flex card__author">
                 <!-- <p>
                     <img src="assets/icons/user-black.svg" alt="" />
