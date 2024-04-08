@@ -698,7 +698,7 @@
     <!-- -- counter start -->
     <div class="counter">
       <div class="counter__box">
-        <h1 class="counter__number">549+</h1>
+        <h1 class="counter__number">200+</h1>
         <p class="counter__text">Total Client</p>
       </div>
       <div class="counter__box">
@@ -706,11 +706,11 @@
         <p class="counter__text">Your Satisfaction Rate</p>
       </div>
       <div class="counter__box">
-        <h1 class="counter__number">836</h1>
+        <h1 class="counter__number">35+</h1>
         <p class="counter__text">Total Employee</p>
       </div>
       <div class="counter__box">
-        <h1 class="counter__number">67+</h1>
+        <h1 class="counter__number">11+</h1>
         <p class="counter__text">Global Awards</p>
       </div>
     </div>
