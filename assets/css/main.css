@@ -2315,7 +2315,7 @@ p {
 
 .all__blog {
     margin-bottom: 181px;
-    margin-top: 400px;
+    margin-top: 200px;
 }
 
 .all__blog .blogs__wapper_card {
@@ -3247,8 +3247,8 @@ p {
 .contact {
     max-width: 1096px;
     margin: auto;
-    padding-top: 166px;
-    margin-top: 400px;
+    /* padding-top: 166px; */
+    margin-top: 350px;
 }
 
 @media (max-width: 575.98px) {
