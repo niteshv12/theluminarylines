@@ -10,7 +10,7 @@
     height: 450px;
     object-fit: cover;
     background-repeat: no-repeat;"> -->
-<img src="assets/img/services/bb.jpg" alt="" class="top-img">
+<img src="assets/img/services/brand1.jpg" alt="" class="top-img">
 <!-- --------------- Start page header ----------- -->
 
 <!-- <section class="page__header position-relative">

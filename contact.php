@@ -4,27 +4,31 @@
 <!-- --------------- Start Header ------------ -->
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
-
-<!-- --------------- Start page header ----------- -->
-<section class="page__header position-relative banner-contect ">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
-        <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
-        <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
-        <div class="banner__content_title-contact">
-          <h1 data-aos="fade-up text-dark" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            Contact </h1>
-          <div class="d-flex justify-content-center gap-2 title-contact">
-            <a href="index.html">Home</a>
-            <span class="text-light">/</span> <a href="who_we_are.html">Contact</a>
-          </div>
+<div class="container-fluid header-to">
+  <img src="assets/img/banner/contact01.jpg" alt="" class="c-img d-lg-block d-none">
+  <div class="row">
+    <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
+      <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
+      <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
+      <div class="banner__content_title-contact">
+        <h1 data-aos="fade-up text-dark" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+          Contact </h1>
+        <div class="d-flex justify-content-center gap-2 title-contact">
+          <a href="index.html">Home</a>
+          <span class="text-light">/</span> <a href="who_we_are.html">Contact</a>
         </div>
-        <!-- <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" /> -->
       </div>
+      <!-- <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" /> -->
     </div>
   </div>
-</section>
+</div>
+
+<!-- --------------- Start page header ----------- -->
+<!-- <section class="page__header position-relative banner-contect ">
+  <div class="container">
+    
+  </div>
+</section> -->
 <!-- --------------- End page header ----------- -->
 
 <!-- --------------- Start Contact From ----------- -->

@@ -9,14 +9,11 @@
 
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
-
-
-<!-- --------------- Start Banner ----------- -->
-<div class="container-fluid top-banner" style="background-image: url(assets/img/banner/hm02.png);  width:100%; object-fit:cover; height: 600px;">
-  <!-- <div class="container-fluid "> -->
+<div class="container-fluid header-to">
+  <img src="assets/img/banner/hm02.jpg" alt="" class="c-img d-lg-block d-none">
   <div class="row">
     <div class="col-lg-8 ms-lg-5 ms-sm-0">
-      <div class="banner__content_title-home" style="margin-top: 60px;">
+      <div class="banner__content_title-home" style="margin-top: 0px;">
         <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           Design.Consult.<br>
           Advertise. </h1>
@@ -39,6 +36,35 @@
     </div>
   </div>
 </div>
+
+<!-- --------------- Start Banner ----------- -->
+<!-- <div class="container-fluid top-banner" style="background-image: url(assets/img/banner/hm02.png);  width:100%; object-fit:cover; height: 600px;"> -->
+<!-- <div class="container-fluid "> -->
+<!-- <div class="row"> -->
+<!-- <div class="col-lg-8 ms-lg-5 ms-sm-0">
+      <div class="banner__content_title-home" style="margin-top: 60px;">
+        <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+          Design.Consult.<br>
+          Advertise. </h1>
+        <p data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
+          High-quality, relevant content is essential for engaging <br>
+          & retaining online audiences.
+        </p>
+      </div> -->
+<!-- <div class="buttons d-sm-flex align-items-center" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000"> -->
+<!-- <button class="common__btn buttons_file" href="contact.php" style="background-color: #000; border-style: none;"> -->
+<!-- <a href="contact.php" class="common__btn buttons_file" style="background-color: #000; border-style: none;"><span> Get A Quote</span>
+          <img src="assets/icons/arrow-up-right.svg" alt="" />
+        </a>
+        </button> -->
+<!-- <button class="common__btn buttons_outline mt-4 mt-sm-0">
+            <span>More About Us</span>
+            <img src="assets/icons/arrow-up-right-yellow.svg" alt="" />
+          </button> -->
+<!-- </div>
+    </div>
+  </div>
+</div> -->
 <!-- <section class="banner overflow-hidden">
     <div class="container position-relative">
       <div class="row">
@@ -149,7 +175,7 @@
             </a> -->
         </div>
         <div class="row">
-          <div class="col-lg-6 about__wapper_right mt-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+          <div class="col-lg-12 about__wapper_right mt-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
             <ul>
               <li>
                 <img src="assets/icons/checkmark.svg" alt="" />
@@ -1127,7 +1153,7 @@
     <div class="videos">
       <div class="position-relative">
         <img src="assets/img/testimonail/video.jpg" alt="" class="video_thumb" />
-        <a href="" class="video_icon ">
+        <a href="https://www.youtube.com/watch?v=eyMi4SnJkcE" class="video_icon ">
           <img src="assets/img/testimonail/Frame_20.svg" alt="" />
           <!-- <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
           <div class="modal-dialog modal-dialog-centered">
