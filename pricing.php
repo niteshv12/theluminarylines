@@ -180,68 +180,68 @@
           <span class="border__full"></span>
           <ul>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>Basic SEO</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>Social Media Management (2 platforms)</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
-              <p>Email Marketing (1 campaign)</p>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
+              <p>Email Marketing </p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>Basic Brand Guidelines </p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>Basic PPC setup</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>4 blog posts/articles (500 words each)</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>4 social media posts</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>Logo Design (basic)</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>2 social media graphics</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>Basic website setup (up to 5 pages)</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>Mobile Responsiveness</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>Initial strategy session (1 hour)</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-xmark"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-xmark"></i> -->
               <p>Market Analysis Report</p>
             </li>
           </ul>
@@ -305,35 +305,44 @@
             <li><span></span>
               <p>Basic E-commerce integration</p>
             </li>
-            <li><span></span>
-              <p> Comprehensive brand logo design</p>
-            </li>
-            <li><span></span>
-              <p>Basic Brand Guidelines</p>
-            </li>
-            <li><span></span>
-              <p>
-                Initial strategy session (2 hours)
-              </p>
-            </li>
 
-            <li>
-              <span></span>
-              <p>Market Analysis Report</p>
-            </li>
-            <li>
-              <span></span>
-              <p>Mobile Responsiveness</p>
-            </li>
-            <li>
-              <span></span>
-              <p>Brand Positioning Consultation</p>
-            </li>
+            <button class="accordion1">Read More <span><i class="fa-solid fa-chevron-down"></i></span></button>
+            <div class="panel">
+              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> -->
+              <ul class="mt-5">
+                <li><span></span>
+                  <p> Comprehensive brand logo design</p>
+                </li>
+                <li><span></span>
+                  <p>Basic Brand Guidelines</p>
+                </li>
+                <li><span></span>
+                  <p>
+                    Initial strategy session (2 hours)
+                  </p>
+                </li>
+
+                <li>
+                  <span></span>
+                  <p>Market Analysis Report</p>
+                </li>
+                <li>
+                  <span></span>
+                  <p>Mobile Responsiveness</p>
+                </li>
+                <li>
+                  <span></span>
+                  <p>Brand Positioning Consultation</p>
+                </li>
+              </ul>
+              <button class="common__btn" style="border-style: none;">
+                <span>Get Started</span>
+                <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+              </button>
+            </div>
+
           </ul>
-          <button class="common__btn" style="border-style: none;">
-            <span>Get Started</span>
-            <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-          </button>
+
         </div>
       </div>
       <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
@@ -387,45 +396,56 @@
             <li><span></span>
               <p>2 brochure/flyer designs</p>
             </li>
+
             <li><span></span>
               <p>Infographic</p>
             </li>
-            <li><span></span>
-              <p>Custom website setup (up to 15 pages)</p>
-            </li>
-            <li><span></span>
-              <p>Mobile Responsiveness</p>
-            </li>
-            <li><span></span>
-              <p>Advanced E-commerce integration</p>
-            </li>
-            <li><span></span>
-              <p>CMS integration (e.g., WordPress)</p>
-            </li>
-            <li><span></span>
-              <p>Premium brand logo design</p>
-            </li>
-            <li><span></span>
-              <p>Comprehensive Brand Guidelines</p>
-            </li>
-            <li><span></span>
-              <p>Initial strategy session (3 hours)</p>
-            </li>
-            <li><span></span>
-              <p>Detailed Market Analysis Report</p>
-            </li>
-            <li><span></span>
-              <p>Brand Positioning Consultation</p>
-            </li>
-            <li><span></span>
-              <p>Digital Marketing Strategy Session</p>
-            </li>
+
+
+            <button class="accordion1">Read More <span><i class="fa-solid fa-chevron-down"></i></span></button>
+            <div class="panel">
+              <ul class="mt-5">
+                <li><span></span>
+                  <p>Custom website setup (up to 15 pages)</p>
+                </li>
+                <li><span></span>
+                  <p>Mobile Responsiveness</p>
+                </li>
+                <li><span></span>
+                  <p>Advanced E-commerce integration</p>
+                </li>
+                <li><span></span>
+                  <p>CMS integration (e.g., WordPress)</p>
+                </li>
+                <li><span></span>
+                  <p>Premium brand logo design</p>
+                </li>
+                <li><span></span>
+                  <p>Comprehensive Brand Guidelines</p>
+                </li>
+                <li><span></span>
+                  <p>Initial strategy session (3 hours)</p>
+                </li>
+                <li><span></span>
+                  <p>Detailed Market Analysis Report</p>
+                </li>
+                <li><span></span>
+                  <p>Brand Positioning Consultation</p>
+                </li>
+                <li><span></span>
+                  <p>Digital Marketing Strategy Session</p>
+
+                </li>
+                <button class="common__btn" style="border-style: none;">
+                  <span>Get Started</span>
+                  <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+                </button>
+              </ul>
+            </div>
+            </button>
 
           </ul>
-          <button class="common__btn" style="border-style: none;">
-            <span>Get Started</span>
-            <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-          </button>
+
         </div>
       </div>
       <div class="col-xl-3 col-md-6 mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0" data-aos-duration="1000">
@@ -438,45 +458,45 @@
           <span class="border__full"></span>
           <ul>
             <li>
-              <i class="fa-solid fa-check"></i>
-
+              <!-- <i class="fa-solid fa-check"></i> -->
+              <span></span>
               <p>Premium SEO with advanced</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-check"></i> -->
               <p>analytics and reporting</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-check"></i> -->
               <p>Social Media Management (5 platforms)</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-check"></i> -->
               <p>Email Marketing (6 campaigns)</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-check"></i> -->
               <p>Advanced PPC setup with retargeting and A/B testing
-                16 blog posts/articles (500 words each)</p>
+                16 blog posts/articles </p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-check"></i> -->
               <p>16 social media posts
                 4 promotional videos (30 seconds each)</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-check"></i> -->
               <p>eBook creation</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-check"></i> -->
               <p>Elite Logo Design</p>
             </li>
             <!-- <li>
@@ -484,90 +504,101 @@
               <p></p>
             </li> -->
             <li>
-              <!-- <span></span> --><i class="fa-solid fa-check"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-check"></i> -->
               <p>12 social media graphics</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-check"></i> -->
               <p>4 brochure/flyer designs</p>
             </li>
             <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
+              <span></span>
+              <!-- <i class="fa-solid fa-check"></i> -->
               <p>2 infographics</p>
             </li>
-            <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
-              <p>Fully Custom website setup (up to 20 pages)</p>
-            </li>
-            <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
-              <p>Mobile Responsiveness</p>
-            </li>
-            <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
-              <p>Advanced E-commerce integration</p>
-            </li>
-            <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
-              <p>CMS integration (e.g., WordPress)</p>
-            </li>
-            <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
-              <p>Custom features/modules</p>
-            </li>
-            <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
-              <p>Elite brand logo design</p>
-            </li>
-            <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
-              <p>Comprehensive Brand Guidelines with brand voice and tone</p>
-            </li>
-            <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
-              <p>Brand Identity Consultation</p>
-            </li>
-            <li>
-              <!-- <span></span> --><i class="fa-solid fa-check"></i>
-              <p>
-                Initial strategy session (4 hours)
-              </p>
-            </li>
-            <li>
-              <i class="fa-solid fa-check"></i>
-              <!-- <span></span> -->
-              <p>
-                Comprehensive Market Analysis Report
-              </p>
-            </li>
-            <li><i class="fa-solid fa-check"></i>
-              <!-- <span></span> -->
-              <p>
-                Brand Positioning Consultation
-              </p>
-            </li>
-            <li>
-              <!-- <span></span> -->
-              <i class="fa-solid fa-check"></i>
-              <p>
-                Digital Marketing Strategy Session with Performance Analysis
-              </p>
-            </li>
+
+            <button class="accordion1">Read More <span><i class="fa-solid fa-chevron-down"></i></span></button>
+            <div class="panel">
+              <ul class="mt-5">
+                <li>
+                  <span></span>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <p>Fully Custom website setup (up to 20 pages)</p>
+                </li>
+                <li>
+                  <span></span>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <p>Mobile Responsiveness</p>
+                </li>
+                <li>
+                  <span></span>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <p>Advanced E-commerce integration</p>
+                </li>
+                <li>
+                  <span></span>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <p>CMS integration (e.g., WordPress)</p>
+                </li>
+                <li>
+                  <span></span>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <p>Custom features/modules</p>
+                </li>
+                <li>
+                  <span></span>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <p>Elite brand logo design</p>
+                </li>
+                <li>
+                  <span></span>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <p>Comprehensive Brand Guidelines with brand voice and tone</p>
+                </li>
+                <li>
+                  <span></span>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <p>Brand Identity Consultation</p>
+                </li>
+                <li>
+                  <span></span>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <p>
+                    Initial strategy session (4 hours)
+                  </p>
+                </li>
+                <li>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <span></span>
+                  <p>
+                    Comprehensive Market Analysis Report
+                  </p>
+                </li>
+                <li>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <span></span>
+                  <p>
+                    Brand Positioning Consultation
+                  </p>
+                </li>
+                <li>
+                  <span></span>
+                  <!-- <i class="fa-solid fa-check"></i> -->
+                  <p>
+                    Digital Marketing Strategy Session with Performance Analysis
+                  </p>
+                </li>
+                <button class="common__btn" style="border-style:none;">
+                  <span>Get Started</span>
+                  <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+                </button>
+              </ul>
+            </div>
+            </button>
           </ul>
-          <button class="common__btn" style="border-style:none;">
-            <span>Get Started</span>
-            <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-          </button>
+
         </div>
       </div>
     </div>
@@ -610,10 +641,29 @@
     </div> -->
   </div>
 </section>
+
+
+
 <!-- --------------- pricing end ----------- -->
 
 <!-- --------------- start Footer ----------- -->
 <?php include('footer.php') ?>
+<script>
+  var acc = document.getElementsByClassName("accordion1");
+  var i;
+
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var panel = this.nextElementSibling;
+      if (panel.style.display === "block") {
+        panel.style.display = "none";
+      } else {
+        panel.style.display = "block";
+      }
+    });
+  }
+</script>
 </body>
 
 </html>
