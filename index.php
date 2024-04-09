@@ -518,7 +518,7 @@
 
 
 <!-- --------------- Start Services ----------- -->
-<section class="services  " id="services" style="margin-top: -40px;">
+<section class="services mbser " id="services">
   <div class="container position-relative">
 
     <!-- <div class="row ser-row justify-content-between align-items-center about__wapper">

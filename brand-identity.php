@@ -10,9 +10,26 @@
     height: 450px;
     object-fit: cover;
     background-repeat: no-repeat;"> -->
-<img src="assets/img/services/brand1.jpg" alt="" class="top-img">
+<!-- <img src="assets/img/services/brand1.jpg" alt="" class="top-img"> -->
 <!-- --------------- Start page header ----------- -->
+<div class="container-fluid header-to">
+  <img src="assets/img/services/brand1.jpg" alt="" class="c-img  d-lg-block d-none">
+  <!-- <img src="assets/img/banner/hm.png " alt="" class="mb-show d-sm-block d-none" style="height: 400px;"> -->
+  <div class="row">
+    <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
 
+      <div class="banner__content_title-w d-sm-none d-block">
+        <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+          Brand-Identity </h1>
+        <div class="d-flex justify-content-center gap-2">
+          <a href="index.html">Home</a>
+          <span class="text-light">/</span> <a href="">Services</a><span class="text-light">/</span> <a href="">Brand-Identity</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
 <!-- <section class="page__header position-relative">
   <div class="container">
     <div class="row">
@@ -52,7 +69,7 @@
 <!-- --------------- End page header ----------- -->
 
 <!--  start service details -->
-<article class="service__details py__130">
+<article class="service__details ">
   <div class="container-fluid">
     <!-- <img src="assets/img/services/brand.jpg" alt="" class="w-100 " /> -->
     <div class="container ">

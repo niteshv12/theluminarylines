@@ -87,7 +87,7 @@
 
   <nav class="navbar navbar-expand-lg">
     <div class="container nav-con">
-      <a class="navbar-brand" href="#"><img src="assets/img/banner/New-Project2.png" alt="" /></a>
+      <a class="navbar-brand" href="index.php"><img src="assets/img/banner/New-Project2.png" alt="" /></a>
       <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
       <span class="navbar-toggler-icon bg-dark"></span>
@@ -96,7 +96,7 @@
         <span class="navbar-toggler-icon t"></span>
       </button>
       <div class="collapse navbar-collapse " id="navbarSupportedContent">
-        <ul class="navbar-nav justify-content-between align-items-center">
+        <ul class="navbar-nav justify-content-between align-items-center ms-5 ms-md-3">
           <li class="dropdown__container">
             <div class="d-flex justify-content-between align-items-center ga">
               <a href="index.php">Home </a>
