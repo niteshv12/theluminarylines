@@ -1141,6 +1141,15 @@
     background-repeat: no-repeat;
 }
 
+@media(max-width: 576px) {
+    .top-img {
+        width: 100%;
+        height: 550px;
+        object-fit: cover;
+        background-repeat: no-repeat;
+    }
+}
+
 .header-to>img {
     /* background-image: url(../img/banner/hm02.jpg); */
     /* height: 600px;

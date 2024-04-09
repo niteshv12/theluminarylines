@@ -2819,9 +2819,21 @@ p {
 }
 
 .service__details {
+    /* margin-top: 600px; */
     max-width: 1096px;
     margin: auto;
+    margin-top: 600px;
     /* margin-bottom: px */
+}
+
+@media (max-width: 575.98px) {
+    .service__details {
+        /* margin-top: 600px; */
+        max-width: 1096px;
+        margin: auto;
+        margin-top: 100px;
+        /* margin-bottom: px */
+    }
 }
 
 .service__details .thumb__img {
@@ -3573,7 +3585,8 @@ p {
 }
 
 .pricing__card:hover {
-    background-color: var(--main-clr)
+    background-color: var(--main-clr);
+    transition: 0.5s;
 }
 
 .pricing__card:hover .pricing__card_title h1 {
