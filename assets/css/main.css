@@ -390,7 +390,7 @@ p {
     align-items: center;
     justify-content: space-between;
     width: 1200px;
-    animation: scroll 20s linear infinite
+    animation: scroll 17s linear infinite
 }
 
 @keyframes scroll {
@@ -399,7 +399,7 @@ p {
     }
 
     100% {
-        transform: translateX(-500px)
+        transform: translateX(-50px)
     }
 }
 
@@ -677,8 +677,13 @@ p {
 .buttons {
     /* gap: 24px; */
     margin-top: 30px;
-    margin-left: 80px;
+
+    /* margin-left: 80px; */
     /* background-color: #40792c; */
+}
+
+.buttons>a {
+    padding: 15px 30px;
 }
 
 @media(max-width: 576px) {
