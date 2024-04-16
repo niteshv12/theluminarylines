@@ -54,7 +54,7 @@
               <img src="assets/icons/phone.png" alt="" />
               <div>
                 <b>Call US:</b>
-                <p>+91 9999729095, +91 9871845696</p>
+                <p>+91 7428599745 | 011 49048335</p>
               </div>
             </li>
             <li>
@@ -117,7 +117,8 @@
 
 <!-- --------------- Start Map ------------- -->
 <section class="map py__130">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3907.41189504866!2d76.30787097505515!3d11.665193688542812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba607f5c6db9aaf%3A0x5802698b8d011308!2sLuminary%20Lines!5e0!3m2!1sen!2sin!4v1710313092970!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3907.41189504866!2d76.30787097505515!3d11.665193688542812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba607f5c6db9aaf%3A0x5802698b8d011308!2sLuminary%20Lines!5e0!3m2!1sen!2sin!4v1710313092970!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.038812950297!2d77.28726897549735!3d28.538553075716152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd31ba76e59d%3A0x4ffdd89103bfab82!2sMESC!5e0!3m2!1sen!2sin!4v1712741294461!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 <!-- --------------- End Map --------------- -->
 

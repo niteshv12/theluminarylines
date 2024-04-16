@@ -22,8 +22,8 @@
         <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           Brand-Identity </h1>
         <div class="d-flex justify-content-center gap-2">
-          <a href="index.html">Home</a>
-          <span class="text-light">/</span> <a href="">Services</a><span class="text-light">/</span> <a href="">Brand-Identity</a>
+          <a href="index.php">Home</a>
+          <span class="text-light">/</span> <a href="services.php">Services</a><span class="text-light">/</span> <a href="brand-identity.php">Brand-Identity</a>
         </div>
       </div>
 
@@ -310,7 +310,7 @@
     </div>
   </div> -->
 <!-- why Choose end -->
-<div class="conatiner-fluid " style=" ">
+<div class="conatiner-fluid ">
   <div class="container">
     <div class="row text-center">
       <h1 style="font-size: 56px;">How We Work</h1>

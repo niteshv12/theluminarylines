@@ -17,8 +17,8 @@
         <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           Web-Development </h1>
         <div class="d-flex justify-content-center gap-2">
-          <a href="index.html">Home</a>
-          <span class="text-light">/</span> <a href="">Services</a><span class="text-light">/</span> <a href="">Web-Development</a>
+          <a href="index.php">Home</a>
+          <span class="text-light">/</span> <a href="services.php">Services</a><span class="text-light">/</span> <a href="web-development.php">Web-Development</a>
         </div>
       </div>
 

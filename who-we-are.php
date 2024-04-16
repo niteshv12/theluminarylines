@@ -8,7 +8,7 @@
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
 <div class="container-fluid header-to">
-  <img src="assets/img/banner/hm.png" alt="" class="c-img  d-lg-block d-none">
+  <img src="assets/img/banner/who we are.jpg" alt="" class="c-img  d-lg-block d-none">
   <!-- <img src="assets/img/banner/hm.png " alt="" class="mb-show d-sm-block d-none" style="height: 400px;"> -->
   <div class="row">
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
@@ -17,8 +17,8 @@
         <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           Who We Are? </h1>
         <div class="d-flex justify-content-center gap-2">
-          <a href="index.html">Home</a>
-          <span class="text-light">/</span> <a href="who_we_are.html">Who We Are?</a>
+          <a href="index.php">Home</a>
+          <span class="text-light">/</span> <a href="who-we-are.php">Who We Are?</a>
         </div>
       </div>
 

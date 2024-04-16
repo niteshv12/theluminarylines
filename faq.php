@@ -29,7 +29,7 @@
   </div>
 </div>
 <!-- --------------- FAQ’s start ----------- -->
-<section class="faq py__130">
+<!-- <section class="faq py__130">
   <div class="container">
     <h2 class="title text-center text-dark">
       Frequently Asked Questions
@@ -40,7 +40,7 @@
         <div class="accordion-item" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <h2 class="accordion-header" id="cmnid4">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsecmn4" aria-expanded="true" aria-controls="collapsecmn4">
-              <span class="ms-4"> What services do Luminary Lines offer? </span>
+              <span class=""> What services do Luminary Lines offer? </span>
             </button>
           </h2>
           <div id="collapsecmn4" class="accordion-collapse collapse" aria-labelledby="cmnid4" data-bs-parent="#accordionExample">
@@ -127,11 +127,86 @@
 
 
   </div>
+</section> -->
+
+
+
+
+
+
+
+<section class="faq py__130">
+  <div class="container">
+    <div class="row">
+      <div class="f-title text-center text-dark">
+        <h2> Frequently Asked Questions</h2>
+      </div>
+    </div>
+    <div class="row mt-5">
+      <button class="accordion2"><span>
+          <h2 class="ms-4">What services do Luminary Lines offer?</h2>
+        </span></button>
+      <div class="pane2">
+        <p class="ms-5 me-4 text-dark">Luminary Lines offers a comprehensive range of services including marketing strategy development, digital advertising, content creation, graphic design, web development, brand identity, and consulting.</p>
+      </div>
+
+      <button class="accordion2"><span>
+          <h2 class="ms-4"> What sets Luminary Lines apart from other marketing agencies? </h2>
+        </span></button>
+      <div class="pane2">
+        <p class="ms-5 me-4 text-dark"> Luminary Lines stands out for its innovative approach, strategic thinking, and client-centric focus. We prioritize understanding our client's unique needs and delivering tailored solutions that drive results. Our dedication to excellence and commitment to client success are what set us apart from the competition.</p>
+      </div>
+
+      <button class="accordion2"><span>
+          <h2 class="ms-4"> How does Luminary Lines approach client projects?</h2>
+        </span></button>
+      <div class="pane2">
+        <p class="ms-5 me-4 text-dark">Luminary Lines stands out for its innovative approach, strategic thinking, and client-centric focus. We prioritize understanding our client's unique needs and delivering tailored solutions that drive results. Our dedication to excellence and commitment to client success are what set us apart from the competition.</p>
+      </div>
+      <button class="accordion2"><span>
+          <h2 class="ms-4"> How does Luminary Lines measure the success of marketing campaigns?</h2>
+        </span></button>
+      <div class="pane2">
+        <p class="ms-5 me-4 text-dark">We utilize a combination of key performance indicators (KPIs), analytics tools, and client feedback to measure the success of marketing campaigns. These metrics may include website traffic, conversion rates, engagement metrics, and return on investment (ROI).</p>
+      </div>
+      <button class="accordion2"><span>
+          <h2 class="ms-4">Does Luminary Lines offer social media management services? </h2>
+        </span></button>
+      <div class="pane2">
+        <p>Yes, Luminary Lines provides social media management services including content creation, scheduling, community management, and social media advertising across various platforms such as Facebook, Instagram, Twitter, LinkedIn, and more.</p>
+      </div>
+      <button class="accordion2"><span>
+          <h2 class="ms-4">How does Luminary Lines stay updated with the latest marketing trends and technologies?</h2>
+        </span></button>
+      <div class="pane2">
+        <p> Our team of marketing professionals is dedicated to continuous learning and staying updated with the latest trends, technologies, and best practices in the industry. We regularly attend conferences, workshops, and training sessions to ensure that our clients benefit from the latest innovations in marketing.</p>
+      </div>
+    </div>
+  </div>
 </section>
+
 <!-- --------------- FAQ’s end ----------- -->
 
 <!-- --------------- start Footer ----------- -->
 <?php include('footer.php'); ?>
+
+<script>
+  var acc2 = document.getElementsByClassName("accordion2");
+  var i;
+
+  for (i = 0; i < acc2.length; i++) {
+    acc2[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var pane2 = this.nextElementSibling;
+      if (pane2.style.display === "block") {
+        pane2.style.display = "none";
+      } else {
+        pane2.style.display = "block";
+      }
+    });
+  }
+</script>
+
 </body>
 
 </html>
