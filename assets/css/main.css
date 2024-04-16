@@ -2121,6 +2121,14 @@ p {
     filter: grayscale(2);
 }
 
+.slide>img:hover {
+    width: 100%;
+    height: 80px;
+    object-fit: cover;
+    /* filter: saturate(100%); */
+    filter: grayscale(0);
+}
+
 .slide2>img:hover {
     width: 100%;
     height: 100px;

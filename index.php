@@ -51,13 +51,16 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <video autoplay loop muted>
+      <video autoplay loop muted class="d-lg-block d-none">
         <source src="assets/img/clients/Render_4K.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
       </video>
+      <video autoplay loop muted class="d-lg-none d-block">
+        <source src="assets/img/clients/Render_4K phone.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
+      </video>
     </div>
-    <div class="carousel-item">
-      <img src="assets/img/banner/banner home.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
+    <div class="carousel-item" style="background-color: #14b1bb;">
+      <img src="assets/img/banner/banner home.jpg" class="d-block w-100 d-lg-block d-none" alt="...">
+      <div class="carousel-caption ">
         <h1 class="text-dark">
           Design.Consult.<br>
           Advertise. </h1>
@@ -1261,7 +1264,7 @@
             <input type="text" class="form-control" id="validationCustom03" required>
 
           </div>
-          <div class="col-md-3">
+          <div class="col-md-6">
             <label for="validationCustom04" class="form-label">Project Type</label>
             <select class="form-select" id="validationCustom04" required>
               <option selected disabled value="">Select The Option</option>
@@ -1272,6 +1275,11 @@
               <option>Brand-Identity</option>
               <option>Consulting</option>
             </select>
+
+          </div>
+          <div class="col-md-12 height=200px">
+            <label for="validationCustom03" class="form-label">Additional Comments</label>
+            <input type="text" class="form-control" id="validationCustom03" required>
 
           </div>
           <!-- <div class="col-md-3">
@@ -1291,7 +1299,7 @@
             </div>
           </div>
           <div class="col-12">
-            <button class="btn btn-primary" type="submit">Submit form</button>
+            <button class="btn f-btn" type="submit">Submit form</button>
           </div>
         </form>
       </div>
