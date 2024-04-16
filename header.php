@@ -13,7 +13,10 @@
   <script src="https://kit.fontawesome.com/1cbbb02fe6.js" crossorigin="anonymous"></script>
   <!-- --------- font awsome Icons  -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
+  <!-- google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=Livvic:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap" rel="stylesheet">
   <!-- --------- Link aos animation  -->
   <link rel="stylesheet" href="assets/css/aos.css" />
   <!-- --------- Link magnific popup  -->
@@ -27,7 +30,7 @@
   <link rel="stylesheet" href="assets/css/main.css" />
   <!-- style  me  -->
   <link rel="stylesheet" href="assets/css/style.css" />
-  <link rel="stylesheet" href="assets/css/style.css" />
+  <!-- <link rel="stylesheet" href="assets/css/style.css" /> -->
 </head>
 
 <body>
@@ -135,11 +138,11 @@
               <a href="blog.php">Blogs </a>
             </div>
           </li>
-          <li class="dropdown__container ms-4">
+          <!-- <li class="dropdown__container ms-4">
             <div class="d-flex justify-content-between align-items-center ga">
               <a href="pricing.php">Pricing </a>
             </div>
-          </li>
+          </li> -->
           <li class="dropdown__container ms-4">
             <div class="d-flex justify-content-between align-items-center ga">
               <a href="contact.php">Contact Us </a>
@@ -209,11 +212,11 @@
             <a href="blog.php">Blogs </a>
           </div>
         </li>
-        <li class="dropdown__container mt-5 ">
+        <!-- <li class="dropdown__container mt-5 ">
           <div class="d-flex justify-content-between align-items-center off">
             <a href="pricing.php">Pricing </a>
           </div>
-        </li>
+        </li> -->
         <li class="dropdown__container mt-5 ">
           <div class="d-flex justify-content-between align-items-center off">
             <a href="contact.php">Contact Us </a>

@@ -19,7 +19,8 @@
 }
 
 body {
-    font-family: "Poppins", sans-serif;
+    font-family: 'Livvic', sans-serif;
+
     /* background-color: var(--grayWhite-clr); */
     background-color: #FbF3F2;
     scroll-behavior: smooth
@@ -35,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Kanit", sans-serif;
+    font-family: 'Livvic', sans-serif;
     margin-bottom: 0
 }
 
@@ -64,7 +65,7 @@ p {
 }
 
 .footer__info_address>h3 {
-    color: #FA991C;
+    color: #ffffff;
 }
 
 .t__54 {
@@ -121,7 +122,7 @@ p {
 .t__22 {
     color: var(--secondary-clr);
     font-size: 22px;
-    font-family: Kanit;
+    font-family: 'Livvic', sans-serif;
     font-weight: 500;
     line-height: 38px;
     display: inline-block
@@ -196,9 +197,7 @@ p {
     word-wrap: break-word
 }
 
-.title-testimonials {
-    color: #fff;
-}
+
 
 .title-blogs {
     color: #000;
@@ -358,7 +357,7 @@ p {
 }
 
 .partner {
-    background-color: #293634;
+    background-color: #032539;
     border-radius: 10px;
     padding: 90px;
     margin-top: 106px;
@@ -390,8 +389,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 2200px;
-    animation: scroll 40s linear infinite
+    width: 1200px;
+    animation: scroll 20s linear infinite
 }
 
 @keyframes scroll {
@@ -400,7 +399,7 @@ p {
     }
 
     100% {
-        transform: translateX(-1100px)
+        transform: translateX(-500px)
     }
 }
 
@@ -409,11 +408,11 @@ p {
     .banner2 .container,
     .header .container,
     .page__header .container {
-        max-width: 1420px
+        max-width: 720px
     }
 
     .header__1 .container {
-        max-width: 1320px
+        max-width: 670px
     }
 }
 
@@ -1681,7 +1680,7 @@ p {
 }
 
 .projects__wapper_card .prj__title {
-    font-family: Kanit;
+    font-family: 'Livvic', sans-serif;
     color: var(--grayWhite-clr);
     margin-top: 40px
 }
@@ -1941,7 +1940,7 @@ p {
     background-color: var(--main-clr)
 } */
 .testimonial {
-    background-color: #032539;
+    background-color: #FBF3F2;
 }
 
 @media(max-width: 1200px) {
@@ -1992,9 +1991,10 @@ p {
 }
 
 .testimonial__wapper .slide {
-    background-color: #588983;
+    background-color: #14B1BB;
     border-radius: 10px;
-    padding: 40px
+    padding: 40px;
+    height: 350px;
 }
 
 @media(max-width: 768px) {
@@ -2046,7 +2046,7 @@ p {
     font-weight: 500px;
     /* color: var(--grayWhite-clr); */
     color: #fff;
-    font-family: Kanit
+    font-family: 'Livvic', sans-serif;
 }
 
 .testimonial__wapper .reviewer__info small {
@@ -2100,7 +2100,29 @@ p {
     cursor: pointer
 }
 
-.slide>img {}
+.slide>img {
+    width: 100%;
+    height: 80px;
+    object-fit: cover;
+    /* filter: saturate(100%); */
+    filter: grayscale(2);
+}
+
+.slide2>img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    /* filter: saturate(100%); */
+    filter: grayscale(2);
+}
+
+.slide2>img:hover {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    /* filter: saturate(100%); */
+    filter: grayscale(0);
+}
 
 .testimonial .slide__nav:hover {
     background-color: var(--btn-clr);
@@ -2264,7 +2286,7 @@ p {
 }
 
 .blogs__wapper_card .card__title {
-    font-family: Kanit;
+    font-family: 'Livvic', sans-serif;
     color: var(--grayWhite-clr);
     margin-bottom: 29px;
     transition: all .5s;
@@ -2463,7 +2485,7 @@ p {
 
 .sidebar .latest__post ul li a {
     color: var(--secondary-clr);
-    font-family: Kanit;
+    font-family: 'Livvic', sans-serif;
     font-weight: 600;
     line-height: 28px;
     display: inline-block
@@ -2661,6 +2683,18 @@ p {
     height: 42px;
     border-radius: 50%;
     border: 1px solid #fff;
+    display: flex;
+    color: #fff;
+    align-items: center;
+    justify-content: center
+}
+
+.footer__socal a:hover {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    border: 1px solid #fa991c;
+    color: #fa991c;
     display: flex;
     align-items: center;
     justify-content: center
@@ -3041,7 +3075,7 @@ p {
 }
 
 .blog__details blockquote b {
-    font-family: Kanit;
+    font-family: 'Livvic', sans-serif;
     font-weight: 600;
     line-height: 28px
 }
@@ -3052,7 +3086,7 @@ p {
     gap: 7px;
     color: var(--main-clr);
     font-weight: 600;
-    font-family: Kanit;
+    font-family: 'Livvic', sans-serif;
     margin-top: 24px
 }
 
@@ -3462,8 +3496,8 @@ p {
 
 .faq .title {
     color: var(--secondary-clr);
-    max-width: 873px;
-    margin: auto
+
+
 }
 
 .faq .faq__wapper {
@@ -3484,7 +3518,7 @@ p {
     color: #FFF;
     border: unset;
     font-size: 28px;
-    font-family: Kanit;
+    font-family: 'Livvic', sans-serif;
     font-weight: 500;
     line-height: 38px;
     padding: 0;
