@@ -38,12 +38,58 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div> -->
-<div class="container-fluid header-to">
+<!-- <div class="container-fluid header-to">
   <video autoplay loop muted>
     <source src="assets/img/clients/Render_4K.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
   </video>
-</div>
+</div> -->
+<div id="carouselExampleCaptions" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
 
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <video autoplay loop muted>
+        <source src="assets/img/clients/Render_4K.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
+      </video>
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/banner/banner home.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h1 class="text-dark">
+          Design.Consult.<br>
+          Advertise. </h1>
+        <p>
+          High-quality, relevant content is essential for engaging <br>
+          & retaining online audiences.
+        </p>
+
+        <div class="buttons d-sm-flex align-items-center" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+          <!-- <button class="common__btn buttons_file" href="contact.php" style="background-color: #000; border-style: none;"> -->
+          <a href="contact.php" class="common__btn buttons_file" style="background-color: #000; border-style: none;"><span> Get A Quote</span>
+            <img src="assets/icons/arrow-up-right.svg" alt="" />
+          </a>
+          </button>
+          <!-- <button class="common__btn buttons_outline mt-4 mt-sm-0">
+            <span>More About Us</span>
+            <img src="assets/icons/arrow-up-right-yellow.svg" alt="" />
+          </button> -->
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
 <!-- --------------- Start Banner ----------- -->
 <!-- <div class="container-fluid top-banner" style="background-image: url(assets/img/banner/hm02.png);  width:100%; object-fit:cover; height: 600px;"> -->
 <!-- <div class="container-fluid "> -->
@@ -1189,7 +1235,7 @@
   <div class="row">
     <div class="col-lg-4 text-center col-12">
       <div class="cont-title">
-        <h1>Contact Us</h1>
+        <h1>Get In Touch <br>With Us!</h1>
       </div>
     </div>
     <!-- <div class="col-md-2 d-lg-block d-none" style="background-color: #333; width:30px;"></div> -->
@@ -1197,41 +1243,42 @@
       <div class="contac-form ">
         <form class="row g-3 needs-validation" novalidate>
           <div class="col-md-6">
-            <label for="validationCustom01" class="form-label">First name</label>
+            <label for="validationCustom01" class="form-label">Name</label>
             <input type="text" class="form-control" id="validationCustom01" value="" required>
 
           </div>
           <div class="col-md-6">
-            <label for="validationCustom02" class="form-label">Last name</label>
-            <input type="text" class="form-control" id="validationCustom02" value="" required>
-
-          </div>
-          <div class="col-md-6">
-            <label for="validationCustomUsername" class="form-label">Username</label>
+            <label for="validationCustomUsername" class="form-label">Email</label>
             <div class="input-group has-validation">
-              <span class="input-group-text" id="inputGroupPrepend">@</span>
+              <!-- <span class="input-group-text" id="inputGroupPrepend">@</span> -->
               <input type="text" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" required>
 
             </div>
           </div>
+
           <div class="col-md-6">
-            <label for="validationCustom03" class="form-label">City</label>
+            <label for="validationCustom03" class="form-label">Company Name </label>
             <input type="text" class="form-control" id="validationCustom03" required>
 
           </div>
           <div class="col-md-3">
-            <label for="validationCustom04" class="form-label">State</label>
+            <label for="validationCustom04" class="form-label">Project Type</label>
             <select class="form-select" id="validationCustom04" required>
-              <option selected disabled value="">Choose...</option>
-              <option>...</option>
+              <option selected disabled value="">Select The Option</option>
+              <option>Digital Marketing</option>
+              <option>Content-Creation</option>
+              <option>Website Development</option>
+              <option>Graphic Design</option>
+              <option>Brand-Identity</option>
+              <option>Consulting</option>
             </select>
 
           </div>
-          <div class="col-md-3">
+          <!-- <div class="col-md-3">
             <label for="validationCustom05" class="form-label">Zip</label>
             <input type="text" class="form-control" id="validationCustom05" required>
 
-          </div>
+          </div> -->
           <div class="col-12">
             <div class="form-check">
               <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
