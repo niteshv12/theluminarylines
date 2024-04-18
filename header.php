@@ -151,7 +151,7 @@
         </ul>
         <div class="d-xl-block d-none ms-auto">
           <a href="contact.php" class="common__btn_h">
-            <span> Get A Quote</span>
+            <span> Book a meeting</span>
             <img src="assets/icons/arrow-up-right.svg" alt="" />
           </a>
         </div>

@@ -43,7 +43,7 @@
                 <img src="assets/img/blogs/bl1.jpg" alt="" class="card__thumb" />
               </a>
               <div>
-                <a href="how-to-increase-website-traffic.php" class="card__title t__28 text-dak"> How to Increase Website Traffic</a>
+                <a href="From-Vision.php" class="card__title t__28 text-dak"> From Vision to Reality: Luminary Lines' Role in Branding and Marketing</a>
                 <div class="d-flex card__author">
                   <!-- <p>
                       <img src="assets/icons/user-black.svg" alt="" />
@@ -63,7 +63,8 @@
                 <img src="assets/img/blogs/bl2.jpg" alt="" class="card__thumb" />
               </a>
               <div>
-                <a href="crafting-compelling-content.php" class="card__title t__28">Crafting Compelling Content: Writing Stuff People Want to Read</a>
+                <a href="Boost-Your-Website's.php" class="card__title t__28">Boost Your Website's Traffic With A Few Tricks
+                </a>
                 <div class="d-flex card__author">
                   <!-- <p>
                       <img src="assets/icons/user-black.svg" alt="" />

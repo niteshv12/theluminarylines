@@ -95,7 +95,7 @@
             </a> -->
         </div>
         <div class="row">
-          <ul class="col-lg-6 about__wapper_right mt-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+          <ul class="col-lg-12 about__wapper_right mt-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
             <li>
               <img src="assets/icons/checkmark.svg" alt="" />
               <span>We Grow Businesses</span>
@@ -113,13 +113,13 @@
               <span>Quality marketing</span>
             </li>
           </ul>
-          <div class="col-lg-6 mt-5 ms-auto" style="position: absolute; left: 30%; z-index: 25px;">
-            <!-- <a href="about.html" class="circle">
+          <!-- <div class="col-lg-6 mt-5 ms-auto" style="position: absolute; left: 30%; z-index: 25px;"> -->
+          <!-- <a href="about.html" class="circle">
                 <img src="assets/icons/arrow-up-right-yellow.svg" alt="" class="yellow" />
                 <img src="assets/icons/arrow-up-rignt-black.svg" alt="" class="black" />
                 <span>Get A Quote</span>
               </a> -->
-          </div>
+          <!-- </div> -->
         </div>
       </div>
       <div class="col-xl-6 col-lg-6 abe" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">

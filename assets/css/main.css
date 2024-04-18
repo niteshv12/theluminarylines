@@ -674,30 +674,9 @@ p {
     }
 }
 
-.buttons {
-    /* gap: 24px; */
-    margin-top: 30px;
 
-    /* margin-left: 80px; */
-    /* background-color: #40792c; */
-}
 
-.buttons>a {
-    padding: 15px 30px;
-}
 
-@media(max-width: 576px) {
-    .buttons {
-        margin-top: 30px;
-        margin-left: 45px;
-    }
-}
-
-@media(max-width: 991px) {
-    .banner__content .buttons {
-        /* margin-top: 40px */
-    }
-}
 
 .banner__content .buttons_file {
     background-color: var(--main-clr);

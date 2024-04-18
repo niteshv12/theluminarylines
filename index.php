@@ -59,7 +59,7 @@
       </video>
     </div>
     <div class="carousel-item" style="background-color: #14b1bb;">
-      <img src="assets/img/banner/banner home.jpg" class="d-block w-100 d-lg-block d-none" alt="...">
+      <img src="assets/img/banner/banner home.jpg" class="d-block w-100 d-lg-block d-none c-img" alt="...">
       <div class="carousel-caption ">
         <h1 class="text-dark">
           Design.Consult.<br>
@@ -184,7 +184,7 @@
     </div>
   </section> -->
 <!-- --------------- End Banner ----------- -->
-<div class="container-fluid about ">
+<!-- <div class="container-fluid about ">
   <div class="row">
     <div class="col-lg-4 ab-col1 g-0 bg-light">
       <h1 class="fw-bold text-dark">About<br> Us</h1>
@@ -198,24 +198,32 @@
         and boost their success through innovative solutions.
       </p>
 
-      <!-- <p class="me-3" style=" font-size: 18px;
-    color: #525252;
-    padding-left: 20px;
-    position: absolute;
-    top: 20%;
-    left: 5%;
-    margin-top: 50px;
-    margin-bottom: 50px;"> Your all-in-one destination for advertising, consulting, and designing excellence.
-        We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting
-        insights, and delivering stunning designs that elevate your brand.</p> -->
+     
       <a href="who-we-are.php" class="ab-btn"><span class="mt-5">Read more</span></a>
     </div>
     <div class="col-lg-4 g-0 ab-col3">
       <img src="assets/img/about/abim.jpg" alt="" class="projects__usecase_img" />
     </div>
   </div>
+</div> -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-6 ab-h">
+      <h3><span>Ready to shine?</span><br> Choose Luminary Lines and let your brand luminate the world</h3>
+    </div>
+    <div class="col-lg-6 ab-p">
+      <p>
+        Luminary Lines is an initiative backed by the renowned Media and Entertainment Skills Council.
+      </p>
+      <p>
+        We serve as your growth partners in addition to being a design, consulting, and advertising agency.
+      </p>
+      <p>Our goal is to achieve unmatched success and take brands to new heights with our creative solutions.
+      </p>
+      <h4>info@theluminarylines.com</h4>
+    </div>
+  </div>
 </div>
-
 <!-- --------------- Start About ----------- -->
 <!-- <section class="about py__40 " id="about">
   <div class="container">
@@ -431,15 +439,18 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mt-5 get-head">
-        <h2 class="mt-4 text-light">
-          Tell us about your goals.<br>
-          <span> Request a quote today!</span>
+        <h2 class=" mt-4 text-light">
+          To set yourself <br>
+          <span>
+            up for success, get in contact.
+
+          </span>
           <!-- Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, neque. A natus iusto odit excepturi! </h2> -->
       </div>
       <div class="col-lg-4 get-btn mt-5">
         <button class="mt-5" style=""><a href=".php">
-            <span>Get A Quote</span>
-            <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+            <span>Book a meeting</span>
+            <!-- <img src="assets/icons/arrow-up-rignt-black.svg" alt="" /> -->
           </a>
         </button>
       </div>
@@ -462,7 +473,7 @@
     </div>
     <div class="container ">
       <div class="row  my-3 g-4  ms-none ms-sm-block">
-        <div class="col-12 col-lg-4 col-md-4 col-sm-2 card-box ">
+        <div class="col-12 col-lg-4 col-md-6 col-sm-2 card-box ">
           <div class="card ">
             <div class="card-bodys">
               <img src="assets/img/icon/dm01.png" alt="" />
@@ -482,7 +493,7 @@
             </div>
           </div>
         </div>
-        <div class="col  col-lg-4 col-md-4 col-sm-2 card-box ">
+        <div class="col  col-lg-4 col-md-6 col-sm-2 card-box ">
           <div class="card g-0">
             <div class="card-bodys">
               <img src="assets/img/icon/cc.png" alt="" />
@@ -503,7 +514,7 @@
             </div>
           </div>
         </div>
-        <div class="col col-lg-4 col-md-4 col-sm-2 card-box">
+        <div class="col col-lg-4 col-md-6 col-sm-2 card-box">
           <div class=" card g-0">
             <div class="col-12 card-bodys">
               <img src="assets/img/icon/gp.png" alt="" />
@@ -524,7 +535,7 @@
           </div>
         </div>
 
-        <div class="col col-lg-4 col-md-4 col-sm-2 card-box">
+        <div class="col col-lg-4 col-md-6 col-sm-2 card-box">
           <div class="card g-0">
             <div class="card-bodys">
               <img src="assets/img/icon/web.png" alt="" />
@@ -544,7 +555,7 @@
             </div>
           </div>
         </div>
-        <div class="col col-lg-4 col-md-4 col-sm-2 card-box ">
+        <div class="col col-lg-4 col-md-6 col-sm-2 card-box ">
           <div class="card g-0">
             <div class="card-bodys">
               <img src="assets/img/icon/brand.png" alt="" />
@@ -568,7 +579,7 @@
             </div>
           </div>
         </div>
-        <div class="col col-lg-4 col-md-4 col-sm-2 card-box ">
+        <div class="col col-lg-4 col-md-6 col-sm-2 card-box ">
           <div class="card g-none">
             <div class="card-bodys">
               <img src="assets/img/icon/comm.png" alt="" />
@@ -1394,24 +1405,26 @@
     <div class="col-lg-4 blog-col2 g-0">
       <h5><span>News </span> / 10 Febuary 2024</h5>
       <!-- <img src="assets/img/blogs/b001.jpg" alt=""> -->
-      <h4>How to Increase Website Traffic: 7 Simple Strategies</h4>
+      <h4>From Vision to Reality: Luminary Lines' Role in Branding and Marketing
+      </h4>
+      <hr style="height:5px;  background:#000; width:50%; border-radius:10px; padding-left: 20px;" class="ms-3">
+      <p class="me-3">
+        In the vast and ever-evolving landscape of branding and marketing, standing out amidst the competition...
+      </p>
+
+      <a href="From-Vision.php" class="ab-btn"><span class="mb-5">Read more</span></a>
+    </div>
+    <div class="col-lg-4 blog-col2b g-0">
+      <!-- <img src="assets/img/blogs/b002.jpg" alt=""> -->
+      <h5><span>News </span> / 24 March 2024</h5>
+      <h4>Boost Your Website's Traffic With A Few Tricks
+      </h4>
       <hr style="height:5px;  background:#000; width:50%; border-radius:10px; padding-left: 20px;" class="ms-3">
       <p class="me-3">
         Welcome to Luminary Lines' blog, where we provide actionable insights to help you succeed ...
       </p>
 
-      <a href="who-we-are.php" class="ab-btn"><span class="mb-5">Read more</span></a>
-    </div>
-    <div class="col-lg-4 blog-col2b g-0">
-      <!-- <img src="assets/img/blogs/b002.jpg" alt=""> -->
-      <h5><span>News </span> / 24 March 2024</h5>
-      <h4>Crafting Compelling Content: Writing Stuff People Want to Read</h4>
-      <hr style="height:5px;  background:#000; width:50%; border-radius:10px; padding-left: 20px;" class="ms-3">
-      <p class="me-3">
-        Welcome to Luminary Lines' blog, where we share practical tips and insights to help you ...
-      </p>
-
-      <a href="who-we-are.php" class="ab-btn "><span class="mb-5">Read more</span></a>
+      <a href="Boost-Your-Website's.php" class="ab-btn "><span class="mb-5">Read more</span></a>
     </div>
   </div>
 </div>
@@ -1420,7 +1433,7 @@
     <div class="row">
       <div class="col-lg-12 blog-mbt">
         <button class="mt-5 mb-5"><a href="blog.php">
-            <span>Get A Quote</span>
+            <span>Read More</span>
             <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
           </a>
         </button>
