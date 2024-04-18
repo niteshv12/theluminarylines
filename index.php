@@ -209,7 +209,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-lg-6 ab-h">
-      <h3><span>Ready to shine?</span><br> Choose Luminary Lines and let your brand luminate the world</h3>
+      <h3><span class="fw-bold">Ready to shine?</span><br> Choose Luminary Lines and let your brand luminate the world</h3>
     </div>
     <div class="col-lg-6 ab-p">
       <p>
@@ -448,7 +448,7 @@
           <!-- Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, neque. A natus iusto odit excepturi! </h2> -->
       </div>
       <div class="col-lg-4 get-btn mt-5">
-        <button class="mt-5" style=""><a href=".php">
+        <button class="mt-5" style=""><a href="#getintouch">
             <span>Book a meeting</span>
             <!-- <img src="assets/icons/arrow-up-rignt-black.svg" alt="" /> -->
           </a>
@@ -1245,7 +1245,7 @@
 </section> -->
 
 
-<div class="container-fluid" style="background-color: #F8F9FA; margin-top:400px;">
+<div class="container-fluid" style="background-color: #F8F9FA; margin-top:400px;" id="getintouch">
   <div class="row">
     <div class="col-lg-4 text-center col-12">
       <div class="cont-title">

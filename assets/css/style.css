@@ -1645,6 +1645,7 @@
     }
 }
 
+
 @media (max-width:576px) {
 
     .ab-col2 {
@@ -2361,9 +2362,10 @@
 }
 
 .cont-title>h1 {
-    position: absolute;
+    /* position: absolute;
     top: 40%;
-    left: 22%;
+    left: 22%; */
+    padding: 180px 20px;
     color: #fff;
 }
 

@@ -150,7 +150,7 @@
           </li>
         </ul>
         <div class="d-xl-block d-none ms-auto">
-          <a href="contact.php" class="common__btn_h">
+          <a href="#getintouch" class="common__btn_h">
             <span> Book a meeting</span>
             <img src="assets/icons/arrow-up-right.svg" alt="" />
           </a>
