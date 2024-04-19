@@ -84,7 +84,8 @@
                 <img src="assets/img/blogs/bl3.jpg" alt="" class="card__thumb" />
               </a>
               <div class="text-dark">
-                <a href="designing-your-brand.php" class="card__title t__28 ">Designing Your Brand: Making a Cool Logo for Your Business</a>
+                <a href="Learn-how-to-make-your-Brand.php" class="card__title t__28 ">Learn how to make your Brand Successful with Luminary Line's Mission and Vision
+                </a>
                 <div class="d-flex card__author">
                   <!-- <p>
                       <img src="assets/icons/user-black.svg" alt="" />

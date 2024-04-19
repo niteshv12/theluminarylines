@@ -1,4 +1,4 @@
-@import"https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap";
+/* @import"https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"; */
 
 :root {
     --body-clr: #142220;
@@ -400,6 +400,30 @@ p {
 
     100% {
         transform: translateX(-50px)
+    }
+}
+
+@media(max-width: 576px) {
+
+
+
+    .partner__content {
+        overflow-x: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 1200px;
+        animation: scroll 40s linear infinite
+    }
+
+    @keyframes scroll {
+        0% {
+            transform: translateX(0px)
+        }
+
+        100% {
+            transform: translateX(-1100px)
+        }
     }
 }
 
@@ -2133,6 +2157,38 @@ p {
 
 
 @media (max-width: 575.98px) {
+    .slide>img {
+        width: 100%;
+        height: 80px;
+        object-fit: cover;
+        /* filter: saturate(100%); */
+        filter: grayscale(2);
+    }
+
+    .slide2>img {
+        width: 100%;
+        height: 100px;
+        object-fit: cover;
+        /* filter: saturate(100%); */
+        filter: grayscale(2);
+    }
+
+    .slide>img:hover {
+        width: 100%;
+        height: 80px;
+        object-fit: cover;
+        /* filter: saturate(100%); */
+        filter: grayscale(0);
+    }
+
+    .slide2>img:hover {
+        width: 100%;
+        height: 100px;
+        object-fit: cover;
+        /* filter: saturate(100%); */
+        filter: grayscale(0);
+    }
+
     .testimonial .next-arrow {
         left: 30%;
         color: #FA991C;

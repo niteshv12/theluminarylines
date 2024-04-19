@@ -8,20 +8,18 @@
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
 <div class="container-fluid header-to">
-  <img src="assets/img/banner/who we are.jpg" alt="" class="c-img  d-lg-block d-none">
+  <img src="assets/img/banner/bnnww.jpg" alt="" class="c-img  d-lg-block d-none">
   <!-- <img src="assets/img/banner/hm.png " alt="" class="mb-show d-sm-block d-none" style="height: 400px;"> -->
   <div class="row">
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
 
       <div class="banner__content_title-w">
-        <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          Who We Are? </h1>
-        <div class="d-flex justify-content-center gap-2">
-          <a href="index.php">Home</a>
-          <span class="text-light">/</span> <a href="who-we-are.php">Who We Are?</a>
-        </div>
-      </div>
+        <h1 data-aos="fade-up text-dark " data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+          Turning Brands into icons<br> with expert marketing
+        </h1>
+        <p class="text-light" style="font-size: 36px ; color:black;"> Enabling you to become a market competitor.</p>
 
+      </div>
     </div>
   </div>
 </div>
@@ -46,24 +44,12 @@
 </section> -->
 <!-- --------------- End page header ----------- -->
 <!-- --------------- Start About ----------- -->
-<section class="who-about py__40" id="about">
+<!-- <section class="who-about py__40" id="about">
   <div class="container">
     <div class="row justify-content-between about__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
       <div class="col-lg-10">
         <div class="intro">
-          <!-- <h1 class="title">
-              Welcome to<br>
-              <span class="mt-5">Luminary Lines!</span>
-            </h1> -->
-          <!-- <p class="mt-5">
-              Your all-in-one destination for advertising, consulting, and designing excellence.
-              We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting
-              insights, and delivering stunning designs that elevate your brand.
-            </p>
-            <p class="mt-5">
-              At Luminary Lines, we merge creativity with strategy to illuminate your brand's journey, ensuring it
-              stands out in the ever-evolving landscape.
-            </p> -->
+        
         </div>
       </div>
       <div class="col-lg-2">
@@ -79,20 +65,7 @@
           <h1 class="text-dark" style="font-size: 80px;"> Luminary Lines</h1>
           <h5 class="text-dark">"Where Experts Make Online Marketing Easy and Future-Ready"</h5>
           <p class="text-dark mt-3">Your all-in-one destination for advertising, consulting, and designing excellence. We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting insights, and delivering stunning designs that elevate your brand</p>
-          <!-- <h1 class="title">
-              Welcome to<br>
-              <span class="mt-5">Luminary Lines!</span>
-            </h1>
-            <p class="mt-4">
-              Your all-in-one destination for advertising, consulting, and designing excellence.
-              We are a dynamic agency dedicated to crafting impactful campaigns, providing strategic consulting
-              insights, and delivering stunning designs that elevate your brand.
-            </p> -->
-          <!-- <a href="about.html" class="circle">
-              <img src="assets/icons/arrow-up-right-yellow.svg" alt="" class="yellow" />
-              <img src="assets/icons/arrow-up-rignt-black.svg" alt="" class="black" />
-              <span>Get A Quote</span>
-            </a> -->
+         
         </div>
         <div class="row">
           <ul class="col-lg-12 about__wapper_right mt-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
@@ -113,13 +86,7 @@
               <span>Quality marketing</span>
             </li>
           </ul>
-          <!-- <div class="col-lg-6 mt-5 ms-auto" style="position: absolute; left: 30%; z-index: 25px;"> -->
-          <!-- <a href="about.html" class="circle">
-                <img src="assets/icons/arrow-up-right-yellow.svg" alt="" class="yellow" />
-                <img src="assets/icons/arrow-up-rignt-black.svg" alt="" class="black" />
-                <span>Get A Quote</span>
-              </a> -->
-          <!-- </div> -->
+          
         </div>
       </div>
       <div class="col-xl-6 col-lg-6 abe" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
@@ -127,34 +94,33 @@
           <img src="assets/img/about/abimg.jpg" alt="" />
         </div>
       </div>
-      <!-- <div class="col-xl-3 col-lg-6 mt-5 mt-xl-0">
-          <ul class="about__wapper_right" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0"
-            data-aos-duration="1000">
-            <li>
-              <img src="assets/icons/checkmark.svg" alt="" />
-              <span>We Grow Businesses</span>
-            </li>
-            <li>
-              <img src="assets/icons/checkmark.svg" alt="" />
-              <span>We’re skilled developers</span>
-            </li>
-            <li>
-              <img src="assets/icons/checkmark.svg" alt="" />
-              <span>Perfect & modern solution</span>
-            </li>
-            <li>
-              <img src="assets/icons/checkmark.svg" alt="" />
-              <span>Quality marketing</span>
-            </li>
-          </ul>
-        </div> -->
+      
     </div>
   </div>
 
-</section>
+</section> -->
 <!-- --------------- End About ----------- -->
 <!-- vision and mission -->
-<div class="container mt-5">
+<div class="container-fluid bg-light" style="margin-top: 150px;">
+  <div class="row">
+    <div class="col-lg-6 vm">
+      <img src="assets/img/banner/mandv.gif" alt="">
+    </div>
+    <div class="col-lg-6 vm2" style="background-color: #D8D9D9;">
+      <h2>Our Vision /
+      </h2>
+      <p class="mt-3">Our vision is to provide services that help brands become more successful online.
+      </p>
+      <h2 class="mt-5">
+        Our Mission /
+      </h2>
+      <p class="mt-3">Our mission is to fulfill the goals of every brand by providing helpful solutions.
+      </p>
+    </div>
+
+  </div>
+</div>
+<!-- <div class="container mt-5">
   <div class="row vsm">
     <h1 class=" text-center">Vision & Mission</h1>
   </div>
@@ -172,7 +138,7 @@
       </p>
     </div>
   </div>
-</div>
+</div> -->
 <!-- --------------- Start Testimonial ----------- -->
 <!-- <section class="testimonial testimonial__2 testimonial__3 mt-5">
     <div class="container">
@@ -340,7 +306,7 @@
 <!-- --------------- Start Blog ----------- -->
 <section class="blogs blogs__2 " style="margin-top: -100px;">
   <div class=" container">
-    <!-- title Start -->
+
     <div class="blogs__title">
       <h1 class="title title__black text-center text-dark">
         Why Choose Luminary Lines?
@@ -356,66 +322,45 @@
       exceeding your brand goals.
 
     </p>
-    <!-- title End -->
+
     <div class="blogs__wapper">
       <div class="row">
         <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
-            <!-- <a href="" class=""> -->
+
             <img src="assets/img/about/ac1.jpg" alt="" class="card__thumb" />
-            <!-- </a> -->
+
             <div>
               <h2 class="card__title t__28 text-dark">Industry-leading expertise ensures proficient project handling.</h2>
               <div class="d-flex card__author">
-                <!-- <p>4444444444444444444444444444444444444444444444
-                    <img src="assets/icons/user-black.svg" alt="" />
-                    <span>Danuel Stone</span>
-                  </p>
-                  <p>
-                    <img src="assets/icons/comments-black.svg" alt="" />
-                    <span>34 Comments</span>
-                  </p> -->
+
               </div>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
-            <!-- <a href="" class=""> -->
+
             <img src="assets/img/about/ac2.jpg" alt="" class="card__thumb" />
-            <!-- </a> -->
+
             <div>
               <h2 class="card__title t__28 text-dark">Creative brilliance that sets your brand apart.</h2>
               <div class="d-flex card__author">
-                <!-- <p>
-                    <img src="assets/icons/user-black.svg" alt="" />
-                    <span>William Dalton</span>
-                  </p>
-                  <p>
-                    <img src="assets/icons/comments-black.svg" alt="" />
-                    <span>34 Comments</span>
-                  </p> -->
+
               </div>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
-            <!-- <a href="" class=""> -->
+
             <img src="assets/img/about/ac3.jpg" alt="" class="card__thumb" />
-            <!-- </a> -->
+
             <div>
-              <!-- <a href="" class="card__title t__28 text-dark"> -->
+
               <h2 class="card__title t__28 text-dark">Dedicated commitment to exceeding your expectations.</h2>
               <div class="d-flex card__author">
-                <!-- <p>
-                    <img src="assets/icons/user-black.svg" alt="" />
-                    <span>Sojol Saiful</span>
-                  </p>
-                  <p>
-                    <img src="assets/icons/comments-black.svg" alt="" />
-                    <span>03 Comments</span>
-                  </p> -->
+
               </div>
             </div>
           </div>

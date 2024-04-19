@@ -387,6 +387,66 @@
     </div>
   </div>
 </div>
+
+
+
+
+
+
+
+
+<!-- index -->
+<div id="carouselExampleCaptions" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <video autoplay loop muted class="d-lg-block d-none">
+        <source src="assets/img/clients/Render_4K.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
+      </video>
+      <video autoplay loop muted class="d-lg-none d-block">
+        <source src="assets/img/clients/Render_4K phone.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
+      </video>
+    </div>
+    <div class="carousel-item" style="background-color: #14b1bb;">
+      <img src="assets/img/banner/banner home.jpg" class="d-block w-100 d-lg-block d-none c-img" alt="...">
+      <div class="carousel-caption ">
+        <h1 class="text-dark">
+          Design.Consult.<br>
+          Advertise. </h1>
+        <p>
+          High-quality, relevant content is essential for engaging <br>
+          & retaining online audiences.
+        </p>
+
+        <div class="buttons d-sm-flex align-items-center" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
+          <!-- <button class="common__btn buttons_file" href="contact.php" style="background-color: #000; border-style: none;"> -->
+          <a href="contact.php" class="common__btn buttons_file" style="background-color: #000; border-style: none;"><span> Get A Quote</span>
+            <img src="assets/icons/arrow-up-right.svg" alt="" />
+          </a>
+          </button>
+          <!-- <button class="common__btn buttons_outline mt-4 mt-sm-0">
+            <span>More About Us</span>
+            <img src="assets/icons/arrow-up-right-yellow.svg" alt="" />
+          </button> -->
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
 <!-- --------------- start Footer ----------- -->
 <?php include('footer.php'); ?>
 </body>

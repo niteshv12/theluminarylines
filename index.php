@@ -43,56 +43,13 @@
     <source src="assets/img/clients/Render_4K.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
   </video>
 </div> -->
-<div id="carouselExampleCaptions" class="carousel slide">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+<video autoplay loop muted class="d-lg-block d-none head-video">
+  <source src="assets/img/clients/Render_4K.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
+</video>
+<video autoplay loop muted class="d-lg-none d-block head-video-mobile">
+  <source src="assets/img/clients/Render_4K phone.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
+</video>
 
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <video autoplay loop muted class="d-lg-block d-none">
-        <source src="assets/img/clients/Render_4K.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
-      </video>
-      <video autoplay loop muted class="d-lg-none d-block">
-        <source src="assets/img/clients/Render_4K phone.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
-      </video>
-    </div>
-    <div class="carousel-item" style="background-color: #14b1bb;">
-      <img src="assets/img/banner/banner home.jpg" class="d-block w-100 d-lg-block d-none c-img" alt="...">
-      <div class="carousel-caption ">
-        <h1 class="text-dark">
-          Design.Consult.<br>
-          Advertise. </h1>
-        <p>
-          High-quality, relevant content is essential for engaging <br>
-          & retaining online audiences.
-        </p>
-
-        <div class="buttons d-sm-flex align-items-center" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <button class="common__btn buttons_file" href="contact.php" style="background-color: #000; border-style: none;"> -->
-          <a href="contact.php" class="common__btn buttons_file" style="background-color: #000; border-style: none;"><span> Get A Quote</span>
-            <img src="assets/icons/arrow-up-right.svg" alt="" />
-          </a>
-          </button>
-          <!-- <button class="common__btn buttons_outline mt-4 mt-sm-0">
-            <span>More About Us</span>
-            <img src="assets/icons/arrow-up-right-yellow.svg" alt="" />
-          </button> -->
-        </div>
-      </div>
-    </div>
-
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
 <!-- --------------- Start Banner ----------- -->
 <!-- <div class="container-fluid top-banner" style="background-image: url(assets/img/banner/hm02.png);  width:100%; object-fit:cover; height: 600px;"> -->
 <!-- <div class="container-fluid "> -->
@@ -438,7 +395,7 @@
 <div class="container-fluid get">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mt-5 get-head">
+      <div class="col-lg-8 col-md-6 mt-5 get-head">
         <h2 class=" mt-4 text-light">
           To set yourself <br>
           <span>
@@ -447,7 +404,7 @@
           </span>
           <!-- Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, neque. A natus iusto odit excepturi! </h2> -->
       </div>
-      <div class="col-lg-4 get-btn mt-5">
+      <div class="col-lg-4 col-md-6 get-btn mt-5">
         <button class="mt-5" style=""><a href="#getintouch">
             <span>Book a meeting</span>
             <!-- <img src="assets/icons/arrow-up-rignt-black.svg" alt="" /> -->
@@ -471,137 +428,140 @@
         </p> -->
       </div>
     </div>
-    <div class="container ">
-      <div class="row  my-3 g-4  ms-none ms-sm-block">
-        <div class="col-12 col-lg-4 col-md-6 col-sm-2 card-box ">
-          <div class="card ">
-            <div class="card-bodys">
-              <img src="assets/img/icon/dm01.png" alt="" />
-              <h2>Digital Marketing</h2>
-              <ul class="mb-5">
-                <li><span></span>Search Engine Optimization (SEO)</li>
-                <li><span></span>
-                  Search Engine Marketing (SEM)
-                </li>
-                <li><span></span>
-                  Social Media Marketing (SMM)
-                </li>
-                <li><span></span> Email Marketing</li>
-                <li><span></span>Pay-Per-Click (PPC) Advertising</li>
-              </ul>
-              <a href="digital-marketing.php" class="mt-5"> Read More</a>
-            </div>
+  </div>
+  <div class="container ">
+    <div class="row  my-3 g-4 ">
+      <div class="col-12 col-lg-4 col-md-6 col-sm-2  ">
+        <div class="card ">
+          <div class="card-bodys">
+            <img src="assets/img/icon/dm01.png" alt="" />
+            <h2>Digital Marketing</h2>
+            <ul class="mb-5">
+              <li><span></span>Search Engine Optimization (SEO)</li>
+              <li><span></span>
+                Search Engine Marketing (SEM)
+              </li>
+              <li><span></span>
+                Social Media Marketing (SMM)
+              </li>
+              <li><span></span> Email Marketing</li>
+              <li><span></span>Pay-Per-Click (PPC) Advertising</li>
+            </ul>
+            <a href="digital-marketing.php" class="mt-5"> Read More</a>
           </div>
         </div>
-        <div class="col  col-lg-4 col-md-6 col-sm-2 card-box ">
-          <div class="card g-0">
-            <div class="card-bodys">
-              <img src="assets/img/icon/cc.png" alt="" />
-              <h2>Content Creation</h2>
-              <ul class="mb-5">
-                <li><span></span>Engaging Copywriting</li>
-                <li><span></span>
-                  Compelling Video Production
-                </li>
-                <li><span></span>
-                  Stunning Photography
-                </li>
-                <li><span></span>Blog and Article Writing</li>
-                <li><span></span>Social Media Content Creation</li>
-              </ul>
-              <a href="content-creation.php" class=" mt-3
+      </div>
+      <div class="col  col-lg-4 col-md-6 col-sm-2  ">
+        <div class="card g-0">
+          <div class="card-bodys">
+            <img src="assets/img/icon/cc.png" alt="" />
+            <h2>Content Creation</h2>
+            <ul class="mb-5">
+              <li><span></span>Engaging Copywriting</li>
+              <li><span></span>
+                Compelling Video Production
+              </li>
+              <li><span></span>
+                Stunning Photography
+              </li>
+              <li><span></span>Blog and Article Writing</li>
+              <li><span></span>Social Media Content Creation</li>
+            </ul>
+            <a href="content-creation.php" class=" mt-3
               "> Read More</a>
-            </div>
           </div>
         </div>
-        <div class="col col-lg-4 col-md-6 col-sm-2 card-box">
-          <div class=" card g-0">
-            <div class="col-12 card-bodys">
-              <img src="assets/img/icon/gp.png" alt="" />
-              <h2>Graphic Designing</h2>
-              <ul class="mb-5">
-                <li><span></span>Logo Design and Branding</li>
-                <li><span></span>
-                  Brochure and Flyer Design
-                </li>
-                <li><span></span>
-                  Poster and Banner Design
-                </li>
-                <li><span></span>Infographics</li>
-                <li><span></span>Packaging Design</li>
-              </ul>
-              <a href="graphic-design.php" class="mt-3 "> Read More</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col col-lg-4 col-md-6 col-sm-2 card-box">
-          <div class="card g-0">
-            <div class="card-bodys">
-              <img src="assets/img/icon/web.png" alt="" />
-              <h2>Web Development</h2>
-              <ul class="mb-5">
-                <li><span></span>Custom Website Design and Development</li>
-                <li><span></span>
-                  E-commerce Solutions
-                </li>
-                <li><span></span>
-                  Mobile-Friendly Responsive Design
-                </li>
-                <li><span></span>Website Maintenance and Support</li>
-
-              </ul>
-              <a href="web-development.php" class=" mt-3"> Read More</a>
-            </div>
-          </div>
-        </div>
-        <div class="col col-lg-4 col-md-6 col-sm-2 card-box ">
-          <div class="card g-0">
-            <div class="card-bodys">
-              <img src="assets/img/icon/brand.png" alt="" />
-              <h2>Brand Identity</h2>
-              <ul class="mb-5">
-                <li>
-                  <span></span>Brand Guidelines Development
-                </li>
-                <li>
-                  <span></span>Brand Positioning and Messaging
-                </li>
-                <li><span></span>
-                  Brand Identity Consultation
-                </li><span></span>
-                <li><span></span>Brand Collateral Design</li>
-                <li><span></span>Brand Recognition</li>
-
-              </ul>
-              <a href="brand-identity.php" class="mt-3
-              "> Read More</a>
-            </div>
-          </div>
-        </div>
-        <div class="col col-lg-4 col-md-6 col-sm-2 card-box ">
-          <div class="card g-none">
-            <div class="card-bodys">
-              <img src="assets/img/icon/comm.png" alt="" />
-              <h2>Consulting</h2>
-              <ul class="mb-5">
-                <li> <span></span>Strategic Planning</li>
-                <li>
-                  <span></span> Market Analysis and Research
-                </li>
-                <li>
-                  <span></span> Brand Strategy Development
-                </li>
-                <li><span></span>Digital Marketing Strategy</li>
-                <li><span></span>Campaign Optimization</li>
-              </ul>
-              <a href="consulting.php" class=" mt-3"> Read More</a>
-            </div>
+      </div>
+      <div class="col col-lg-4 col-md-6 col-sm-2 ">
+        <div class=" card g-0">
+          <div class="col-12 card-bodys">
+            <img src="assets/img/icon/gp.png" alt="" />
+            <h2>Graphic Designing</h2>
+            <ul class="mb-5">
+              <li><span></span>Logo Design and Branding</li>
+              <li><span></span>
+                Brochure and Flyer Design
+              </li>
+              <li><span></span>
+                Poster and Banner Design
+              </li>
+              <li><span></span>Infographics</li>
+              <li><span></span>Packaging Design</li>
+            </ul>
+            <a href="graphic-design.php" class="mt-3 "> Read More</a>
           </div>
         </div>
       </div>
     </div>
+    <div class="row">
+      <div class="col col-lg-4 col-md-6 col-sm-2 ">
+        <div class="card g-0">
+          <div class="card-bodys">
+            <img src="assets/img/icon/web.png" alt="" />
+            <h2>Web Development</h2>
+            <ul class="mb-5">
+              <li><span></span>Custom Website Design and Development</li>
+              <li><span></span>
+                E-commerce Solutions
+              </li>
+              <li><span></span>
+                Mobile-Friendly Responsive Design
+              </li>
+              <li><span></span>Website Maintenance and Support</li>
+
+            </ul>
+            <a href="web-development.php" class=" mt-3"> Read More</a>
+          </div>
+        </div>
+      </div>
+      <div class="col col-lg-4 col-md-6 col-sm-2  ">
+        <div class="card g-0">
+          <div class="card-bodys">
+            <img src="assets/img/icon/brand.png" alt="" />
+            <h2>Brand Identity</h2>
+            <ul class="mb-5">
+              <li>
+                <span></span>Brand Guidelines Development
+              </li>
+              <li>
+                <span></span>Brand Positioning and Messaging
+              </li>
+              <li><span></span>
+                Brand Identity Consultation
+              </li><span></span>
+              <li><span></span>Brand Collateral Design</li>
+              <li><span></span>Brand Recognition</li>
+
+            </ul>
+            <a href="brand-identity.php" class="mt-3
+              "> Read More</a>
+          </div>
+        </div>
+      </div>
+      <div class="col col-lg-4 col-md-6 col-sm-2  ">
+        <div class="card g-none">
+          <div class="card-bodys">
+            <img src="assets/img/icon/comm.png" alt="" />
+            <h2>Consulting</h2>
+            <ul class="mb-5">
+              <li> <span></span>Strategic Planning</li>
+              <li>
+                <span></span> Market Analysis and Research
+              </li>
+              <li>
+                <span></span> Brand Strategy Development
+              </li>
+              <li><span></span>Digital Marketing Strategy</li>
+              <li><span></span>Campaign Optimization</li>
+            </ul>
+            <a href="consulting.php" class=" mt-3"> Read More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
+
 </div>
 <!--  container3 -->
 
@@ -1245,7 +1205,7 @@
 </section> -->
 
 
-<div class="container-fluid" style="background-color: #F8F9FA; margin-top:400px;" id="getintouch">
+<div class="container-fluid intouch" id="getintouch">
   <div class="row">
     <div class="col-lg-4 text-center col-12">
       <div class="cont-title">

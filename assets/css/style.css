@@ -306,7 +306,23 @@
         /* background-color: rgb(85, 85, 11); */
         font-size: 20px;
         background-color: var(--btn-clr);
-        padding: 24px 0;
+        padding: 14px 0;
+        /* position: relative; */
+        z-index: 1000;
+        height: 100px;
+
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1199.98px) {
+    .navbar {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        /* background-color: rgb(85, 85, 11); */
+        font-size: 20px;
+        background-color: var(--btn-clr);
+        padding: 0px 0;
         /* position: relative; */
         z-index: 1000;
         height: 100px;
@@ -856,11 +872,19 @@
 }
 
 .banner__content_title-w {
-    margin-top: 220px;
+    margin-top: 150px;
     margin-left: 100px;
     /* position: absolute; */
     /* top: 40%; */
 
+}
+
+.banner__content_title-w>p {
+    color: #030303;
+    font-size: 40px;
+    line-height: 100px;
+    font-weight: 600;
+    position: relative;
 }
 
 .banner__content_title-w>h1 {
@@ -868,6 +892,7 @@
     font-size: 80px;
     line-height: 100px;
     font-weight: 600;
+    position: relative;
 }
 
 @media(max-width: 1200px) {
@@ -1759,22 +1784,37 @@
 .blog-col1>h2 {
     font-size: 76px;
     /* margin-left: 40px; */
-    position: relative;
+    /* position: relative;
     top: 30%;
-    left: 15%;
+    left: 15%; */
+
 }
 
 .blog-col1 {
     background-color: #d8d9d9;
+
 }
 
 .blog-col1>h1 {
     font-size: 86px;
     /* margin-left: 40px; */
-    position: relative;
+    /* position: relative;
     top: 23%;
-    left: 20%;
+    left: 20%; */
+    padding: 100px 80px;
 
+}
+
+@media (max-width: 575.98px) {
+    .blog-col1>h1 {
+        font-size: 56px;
+        /* margin-left: 40px; */
+        /* position: relative;
+        top: 23%;
+        left: 20%; */
+        padding: 60px 80px;
+
+    }
 }
 
 .blog-col2 {
@@ -2100,7 +2140,7 @@
 
 @media (max-width: 575.98px) {
     .card-bodys {
-        height: 500px;
+        height: auto;
         z-index: 1;
         padding: 42px 30px 50px;
         box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 10%);
@@ -2275,6 +2315,13 @@
     height: 200px;
 }
 
+@media (max-width: 575.98px) {
+    .blog-more {
+        background-color: #14b1bb;
+        height: 250px;
+    }
+}
+
 .blog-mbt {
     display: flex;
     justify-content: center;
@@ -2367,6 +2414,38 @@
     left: 22%; */
     padding: 180px 20px;
     color: #fff;
+}
+
+@media (max-width: 575.98px) {
+    .cont-title {
+        height: 340px;
+        margin: 30px;
+        border-radius: 10px;
+        background-color: #14b1bb;
+        /* background: rgba(255, 255, 255, 0.25); */
+        backdrop-filter: blur(15px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+    }
+
+    .cont-title>h1 {
+        /* position: absolute;
+    top: 40%;
+    left: 22%; */
+        padding: 140px 20px;
+        color: #fff;
+    }
+
+    .contac-form {
+        /* width: 100%; */
+        margin: 30px;
+        background-color: #fff;
+        padding: 30px;
+        border-radius: 10px;
+        background: rgba(255, 255, 255, 0.25);
+        backdrop-filter: blur(15px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+    }
+
 }
 
 .divid {
@@ -2537,4 +2616,84 @@
     margin-top: 40px;
     font-size: 30px;
 
+}
+
+@media(max-width: 576px) {
+
+    .ab-h {
+        padding: 60px;
+    }
+
+    .ab-h>h3 {
+        font-size: 24px;
+    }
+
+    .ab-h>h3>span {
+        font-size: 35px;
+    }
+
+    .ab-p {
+        background-color: #d8d9d9;
+        padding: 60px;
+    }
+
+    .ab-p>p {
+        font-size: 20px;
+        margin-top: 20px;
+
+    }
+
+    .ab-p>h4 {
+        float: right;
+        margin-top: 40px;
+        font-size: 24px;
+
+    }
+}
+
+.vm>img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.vm2 {
+    background-color: #D8D9D9;
+    padding: 100px 60px;
+}
+
+.vm2>h2 {
+    font-size: 28px;
+    font-weight: bold;
+
+}
+
+.vm2>p {
+    font-size: 30px;
+    line-height: 36px;
+
+}
+
+.head-video {
+    width: 100%;
+    height: 650px;
+    object-fit: cover;
+}
+
+.head-video-mobile {
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+
+}
+
+.intouch {
+    background-color: #F8F9FA;
+    margin-top: 400px;
+}
+
+@media (max-width: 575.98px) {
+    .intouch {
+        background-color: #F8F9FA;
+        margin-top: 100px;
+    }
 }
