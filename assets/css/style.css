@@ -2603,6 +2603,7 @@
 .vm>img {
     width: 100%;
     object-fit: cover;
+    /* background-color: #D8D9D9; */
 }
 
 .vm2 {
@@ -2693,7 +2694,7 @@ h2 {
 }
 
 .blogsec:hover .blogsec1>h2 {
-    color: #fff;
+    color: #FA991C;
 }
 
 
@@ -2792,3 +2793,30 @@ i {
         --headingSize: 35px;
     }
 } */
+
+.vm2 {
+    /* background-color: #D8D9D9; */
+}
+
+.vandm {
+    background-color: #D8D9D9;
+    margin-top: 120px;
+
+}
+
+.vandm :hover {
+    background-color: #032539;
+    transition: 0.8;
+}
+
+.vandm :hover .vm2>h2 {
+    color: #FA991C;
+}
+
+.vm:hover {
+    background-color: #D8D9D9;
+}
+
+.vandm :hover .vm2>p {
+    color: #fff;
+}

@@ -114,12 +114,12 @@
 </section> -->
 <!-- --------------- End About ----------- -->
 <!-- vision and mission -->
-<div class="container-fluid bg-light" style="margin-top: 120px;">
+<div class="container-fluid vandm">
   <div class="row">
     <div class="col-lg-6 vm">
       <img src="assets/img/banner/mandv.gif" alt="">
     </div>
-    <div class="col-lg-6 vm2" style="background-color: #D8D9D9;">
+    <div class="col-lg-6 vm2">
       <h2>Our Vision /
       </h2>
       <p class="mt-3">Our vision is to provide services that help brands become more successful online.
@@ -420,8 +420,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 blog-mbt">
-        <button class="mt-5 mb-5"><a href="blog.php">
-            <span>Read More</span>
+        <button class="mt-5 mb-5"><a href="contact.php">
+            <span> Book a meeting</span>
             <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
           </a>
         </button>
