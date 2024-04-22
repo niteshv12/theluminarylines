@@ -7,6 +7,7 @@
 <!-- --------------- Start Header ------------ -->
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
+
 <div class="container-fluid header-to">
   <img src="assets/img/banner/bnnww.jpg" alt="" class="c-img  d-lg-block d-none">
   <!-- <img src="assets/img/banner/hm.png " alt="" class="mb-show d-sm-block d-none" style="height: 400px;"> -->
@@ -21,8 +22,20 @@
 
       </div>
     </div>
+      
   </div>
 </div>
+
+
+
+
+
+
+
+<!-- <section class="container animation " style="margin-bottom: 00px; margin-top: 250px;">
+  <h1 class="swift-up-text text-dark">It's more fun to be a pirate than to join the Navy.</h1>
+</section> -->
+
 <!-- --------------- Start page header ----------- -->
 <!-- <section class="page__header position-relative who-banner">
   <div class="container">
@@ -101,7 +114,7 @@
 </section> -->
 <!-- --------------- End About ----------- -->
 <!-- vision and mission -->
-<div class="container-fluid bg-light" style="margin-top: 150px;">
+<div class="container-fluid bg-light" style="margin-top: 120px;">
   <div class="row">
     <div class="col-lg-6 vm">
       <img src="assets/img/banner/mandv.gif" alt="">
@@ -249,8 +262,8 @@
   </section> -->
 <!-- --------------- End Testimonial ----------- -->
 <!-- --------------- project  start ----------- -->
-<section class="all__project " style="padding-top: 80px;">
-  <!-- <div class="container">
+<!-- <section class="all__project " style="padding-top: 80px;"> -->
+<!-- <div class="container">
       <div data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000" class=" text-center mb-4">
         <h1 class="title text-center">Why Luminary Lines ?</h1>
         <p class="text-center text-dark mt-5">Discover Luminary Lines, your gateway to unparalleled expertise,
@@ -301,10 +314,10 @@
       </div>
 
     </div> -->
-</section>
+<!-- </section> -->
 <!-- --------------- project  end ----------- -->
 <!-- --------------- Start Blog ----------- -->
-<section class="blogs blogs__2 " style="margin-top: -100px;">
+<!-- <section class="blogs blogs__2 ">
   <div class=" container">
 
     <div class="blogs__title">
@@ -313,16 +326,9 @@
       </h1>
 
     </div>
-    <p class="text-dark mt-5 text-center">With expertise in advertising, consulting, and designing, we offer more than
-      just
-      creative
-      solutions. Our
-      focus is on driving real, tangible success for your brand. Join us for a straightforward, client-centered
-      approach, innovative solutions, and a proven track record. Luminary Lines is your ally in achieving and
-      exceeding your brand goals.
-
-    </p>
-
+    <p class="text-dark mt-5 text-center">At Luminary Lines, we will help provide marketing and branding services, design, continuously improve, and innovate solutions through proper research and analysis. We will also prove to be a trusted partner that will help your brand in the long run.</p>
+  </div>
+  <div class="container-fluid">
     <div class="blogs__wapper">
       <div class="row">
         <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
@@ -367,20 +373,13 @@
         </div>
         <div class="col-lg-3 col-md-4 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
           <div class="blogs__wapper_card blogs__2_card">
-            <!-- <a href="" class=""> -->
+           
             <img src="assets/img/about/ac4.jpg" alt="" class="card__thumb" />
-            <!-- </a> -->
+            
             <div>
               <h2 class="card__title t__28 text-dark">Trusted partnership backed by client satisfaction.</h2>
               <div class="d-flex card__author">
-                <!-- <p>
-                    <img src="assets/icons/user-black.svg" alt="" />
-                    <span>Sojol Saiful</span>
-                  </p>
-                  <p>
-                    <img src="assets/icons/comments-black.svg" alt="" />
-                    <span>03 Comments</span>
-                  </p> -->
+               
               </div>
             </div>
           </div>
@@ -388,12 +387,75 @@
       </div>
     </div>
   </div>
-</section>
-<!-- --------------- End Blog ----------- -->
+</section> -->
 
+
+<div class="container-fluid blogsec">
+  <div class="row">
+    <div class="col-lg-6 blogsec1">
+      <h2> Why Choose Luminary Lines?</h2>
+      <p> At Luminary Lines, we will help provide marketing and branding services, design, continuously improve, and innovate solutions through proper research and analysis. We will also prove to be a trusted partner that will help your brand in the long run.</p>
+    </div>
+    <div class="col-lg-6 blogsec2" style="">
+      <img src="assets/img/banner/blog2.jpg" alt="" class="c-img">
+    </div>
+  </div>
+</div>
+
+<!-- <div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-6">
+      <h1> Why Choose Luminary Lines?</h1>
+      <p> At Luminary Lines, we will help provide marketing and branding services, design, continuously improve, and innovate solutions through proper research and analysis. We will also prove to be a trusted partner that will help your brand in the long run.</p>
+    </div>
+  </div>
+  <div class="col-lg-6">
+    <h1> Why Choose Luminary Lines?</h1>
+    <p> At Luminary Lines, we will help provide marketing and branding services, design, continuously improve, and innovate solutions through proper research and analysis. We will also prove to be a trusted partner that will help your brand in the long run.</p>
+  </div>
+</div> -->
+
+<!-- --------------- End Blog ----------- -->
+<div class="container-fluid blog-more">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 blog-mbt">
+        <button class="mt-5 mb-5"><a href="blog.php">
+            <span>Read More</span>
+            <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+          </a>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- --------------- start Footer ----------- -->
 <?php include('footer.php'); ?>
 <!-- --------------- start Footer ----------- -->
+
+
+
+<!-- <script>
+  const swiftUpElements = document.querySelectorAll('.swift-up-text');
+
+  swiftUpElements.forEach(elem => {
+
+    const words = elem.textContent.split(' ');
+    elem.innerHTML = '';
+
+    words.forEach((el, index) => {
+      words[index] = `<span><i>${words[index]}</i></span>`;
+    });
+
+    elem.innerHTML = words.join(' ');
+
+    const children = document.querySelectorAll('span > i');
+    children.forEach((node, index) => {
+      node.style.animationDelay = `${index * .2}s`;
+    });
+
+  });
+</script> -->
 
 </body>
 

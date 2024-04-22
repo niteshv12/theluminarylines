@@ -8,6 +8,70 @@
 <!-- --------------- Start Header ------------ -->
 
 <?php include('header.php'); ?>
+
+
+
+
+
+<style>
+  .banner__content_title-w {
+    /* margin-top: 150px;
+    margin-left: 100px; */
+    background-color: #161616;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    /* height: 200vh; */
+    position: absolute;
+    top: 40%;
+
+  }
+
+  .banner__content_title-w>p {
+    color: #030303;
+    font-size: 40px;
+    line-height: 50px;
+    padding-top: 20px;
+    /* font-weight: 600; */
+    position: relative;
+  }
+
+  .banner__content_title-w>h1 {
+    color: #ffffff;
+    font-size: 80px;
+    line-height: 100px;
+    font-weight: 600;
+    position: relative;
+  }
+
+  @media(max-width: 1200px) {
+    .banner__content_title-w h1 {
+      font-size: 80px;
+      line-height: 80px
+    }
+  }
+
+  @media(max-width: 991px) {
+    .banner__content_title-w h1 {
+      font-size: 60px;
+      line-height: 60px
+    }
+  }
+
+  @media(max-width: 576px) {
+
+    .banner__content_title-w {
+      margin-top: 180px;
+      margin-left: 20px;
+    }
+
+    .banner__content_title-w h1 {
+      font-size: 36px;
+      line-height: 53px;
+
+    }
+  }
+</style>
 <!-- --------------- Start Testimonial ----------- -->
 <section class="testimonial py__60 ">
   <div class="container position-relative">
@@ -445,6 +509,40 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
+</div>
+
+
+
+
+
+
+<!-- who -->
+
+
+
+<div class="container-fluid header-to">
+  <img src="assets/img/banner/bnnww.jpg" alt="" class="c-img  d-lg-block d-none">
+  <!-- <img src="assets/img/banner/hm.png " alt="" class="mb-show d-sm-block d-none" style="height: 400px;"> -->
+  <!-- <div class="container who-banner">
+    <div class="animation">
+      <h1 class="swift-up-text">Turning Brands into icons with expert marketing
+      </h1>
+    </div>
+  </div> -->
+  <div class="row">
+    <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
+
+      <div class="banner__content_title-s">
+        <h1 data-aos="fade-up text-dark mt-5 ms-5 mt-sm-5 ms-sm-2" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">Turning Brands into icons with expert marketing
+        </h1>
+        <div class="d-flex justify-content-center gap-2 banner__content_title-t ">
+          <a href="index.php">Home</a>
+          <span>/</span> <a href="services.php">Services</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
 </div>
 
 <!-- --------------- start Footer ----------- -->
