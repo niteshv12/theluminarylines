@@ -397,9 +397,9 @@
     <div class="row">
       <div class="col-lg-8 col-md-6 mt-5 get-head">
         <h2 class=" mt-4 text-light">
-          To set yourself <br>
+          To set yourself up for success, <br>
           <span>
-            up for success, get in contact.
+            Get in contact.
 
           </span>
           <!-- Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, neque. A natus iusto odit excepturi! </h2> -->
@@ -433,24 +433,20 @@
     <div class="row  my-3 g-4 ">
       <div class="col-12 col-lg-4 col-md-6 col-sm-2  ">
         <div class="card ">
-          <div class="card-bodys" style="height:560px;">
+          <div class="card-bodys">
             <img src="assets/img/icon/dm01.png" alt="" />
-            <h2>Digital Marketing</h2>
+            <h2>Digital-Marketing</h2>
             <ul class="mb-5">
-              <li><span></span>Reaching Customers Online
+
+              <li><span></span>Search Engine Optimization (SEO)</li>
+              <li><span></span>
+                Search Engine Marketing (SEM)
               </li>
               <li><span></span>
-                Simple Secrets of Search Engine Optimization (SEO)
-
+                Social Media Marketing (SMM)
               </li>
-              <li><span></span>
-                The Basics of Search Engine Marketing (SEM)
-
-              </li>
-              <li><span></span> Social Media Marketing (SMM) for Success
-              </li>
-              <li><span></span>Mastering Email Marketing
-              </li>
+              <li><span></span>Email Marketing</li>
+              <li> <span></span>Pay-Per-Click (PPC) Advertising</li>
             </ul>
             <a href="digital-marketing.php" class="mt-5"> Read More</a>
           </div>
@@ -458,25 +454,21 @@
       </div>
       <div class="col  col-lg-4 col-md-6 col-sm-2  ">
         <div class="card g-0">
-          <div class="card-bodys" style="height:560px;">
+          <div class="card-bodys">
             <img src="assets/img/icon/cc.png" alt="" />
-            <h2>Crafting Your Story</h2>
+            <h2>Content Creation</h2>
             <ul class="mb-5">
-
+              <li><span></span>Engaging Copywriting</li>
               <li><span></span>
-                Selling Words that Captivate
-
+                Compelling Video Production
               </li>
               <li><span></span>
-                Creating Attractive Videos
+                Stunning Photography
+              </li>
+              <li><span></span>
+                Blog and Article Writing</li>
+              <li><span></span>Social Media Content Creation</li>
 
-              </li>
-              <li><span></span>Capturing Moments That Last Through the Lens
-              </li>
-              <li><span></span>How to Write Blogs and Articles That Resonates
-              </li>
-              <li><span></span>Mastering Social Media Engagement
-              </li>
             </ul>
             <a href="content-creation.php" class=" mt-3
               "> Read More</a>
@@ -485,23 +477,24 @@
       </div>
       <div class="col col-lg-4 col-md-6 col-sm-2 ">
         <div class=" card g-0">
-          <div class="col-12 card-bodys " style="height:560px;">
+          <div class="col-12 card-bodys ">
             <img src="assets/img/icon/gp.png" alt="" />
-            <h2>Designing with Graphics
+            <h2>Graphic Designing
             </h2>
             <ul class="mb-5">
-              <li><span></span> Creating Logos that Last
+              <li><span></span>Logo Design and Branding</li>
+              <li><span></span>
+                Brochure and Flyer Design
               </li>
               <li><span></span>
-                Brochures & Flyers That Speak To The Heart
-
+                Poster and Banner Design
               </li>
-              <li><span></span>
-                Posters and Banners That Are Larger Than Life
-
+              <li>
+                <span></span>Infographics
               </li>
-              <li><span></span>ommunicating Information With the Help of Visuals</li>
-              <li><span></span>Packaging Design That Leave a Lasting Impression</li>
+              <li>
+                <span></span>Packaging Design
+              </li>
             </ul>
             <a href="graphic-design.php" class="mt-3 "> Read More</a>
           </div>

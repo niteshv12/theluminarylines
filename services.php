@@ -30,7 +30,7 @@
   </section> -->
 <!-- --------------- End page header ----------- -->
 <div class="container-fluid header-to">
-  <img src="assets/img/banner/service banner.jpg" alt="" class="c-img d-lg-block d-none">
+  <img src="assets/img/banner/ser.jpg" alt="" class="c-img d-lg-block d-none">
   <div class="row">
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
 
@@ -58,7 +58,8 @@
             <img src="assets/img/icon/dm01.png" alt="" /></a>
           <!-- <i class="fa-solid fa-chart-simple"></i> -->
           <a href="digital-marketing.php">
-            <h3 class="t_28">Digital Marketing</h3>
+            <h3 class="t_28">Digital-Marketing
+            </h3>
           </a>
           <ul class="mt-5 mb-5">
             <li>Search Engine Optimization (SEO)</li>
