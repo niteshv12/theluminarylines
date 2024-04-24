@@ -2865,3 +2865,10 @@ i {
 .vandm :hover .vm2>p {
     color: #fff;
 }
+
+.partner4 {}
+
+.partner4>li>img {
+    height: 100px;
+    object-fit: cover;
+}

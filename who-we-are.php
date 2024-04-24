@@ -9,7 +9,7 @@
 <!-- --------------- End Header ------------ -->
 
 <div class="container-fluid header-to">
-  <img src="assets/img/banner/bnnww.jpg" alt="" class="c-img  d-lg-block d-none">
+  <img src="assets/img/banner/wwa.jpg" alt="" class="c-img  d-lg-block d-none">
   <!-- <img src="assets/img/banner/hm.png " alt="" class="mb-show d-sm-block d-none" style="height: 400px;"> -->
   <div class="row">
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">

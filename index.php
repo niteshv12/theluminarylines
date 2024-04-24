@@ -44,7 +44,7 @@
   </video>
 </div> -->
 <video autoplay loop muted class="d-lg-block d-none head-video">
-  <source src="assets/img/banner/Luminary-LInes-video.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
+  <source src="assets/img/banner/llv.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
 </video>
 <video autoplay loop muted class="d-lg-none d-block head-video-mobile">
   <source src="assets/img/clients/Render_4K phone.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
@@ -572,7 +572,18 @@
 
 </div>
 <!--  container3 -->
-
+<!-- <div class="container">
+  <div class="row">
+    <ul class="partner4">
+      <li><img src="assets/img/clients/mesc logo.png" alt="" class="partner__logo" /></li>
+      <li> <img src="assets/img/clients/mediatalkback.png" alt="" class="partner__logo" /></li>
+      <li><img src="assets/img/clients/NSDC.png" alt="" class="partner__logo2" /></li>
+      <li><img src="assets/img/clients/indiaskillshigh.png" alt="" class="partner__logo2" /></li>
+      <li><img src="assets/img/clients/vidyadaan.png" alt="" class="partner__logo2" /></li>
+      <li><img src="assets/img/clients/MECAT-Logo .png" alt="" class="partner__logo" /></li>
+    </ul>
+  </div>
+</div> -->
 
 <!-- clients -->
 <div class="container ">
