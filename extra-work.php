@@ -71,6 +71,41 @@
 
     }
   }
+
+  .navbar {
+    height: 100px;
+    border-bottom: #fff solid 2px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    /* background-color: rgb(85, 85, 11); */
+    padding: 0px;
+    font-size: 20px;
+    backdrop-filter: blur(10px);
+    padding: 24px 0;
+    /* position: relative; */
+    z-index: 1000;
+
+  }
+
+
+  .navbar {
+    height: 100px;
+    border-bottom: #fff solid 2px;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+    /* background-color: rgb(85, 85, 11); */
+
+    font-size: 20px;
+    backdrop-filter: blur(10px);
+    padding: 24px 0;
+    /* position: relative; */
+    transition: 0.5s;
+    z-index: 1000;
+  }
 </style>
 <!-- --------------- Start Testimonial ----------- -->
 <section class="testimonial py__60 ">

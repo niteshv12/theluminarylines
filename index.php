@@ -44,7 +44,7 @@
   </video>
 </div> -->
 <video autoplay loop muted class="d-lg-block d-none head-video">
-  <source src="assets/img/clients/Render_4K.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
+  <source src="assets/img/banner/Luminary-LInes-video.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
 </video>
 <video autoplay loop muted class="d-lg-none d-block head-video-mobile">
   <source src="assets/img/clients/Render_4K phone.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
@@ -433,19 +433,24 @@
     <div class="row  my-3 g-4 ">
       <div class="col-12 col-lg-4 col-md-6 col-sm-2  ">
         <div class="card ">
-          <div class="card-bodys">
+          <div class="card-bodys" style="height:560px;">
             <img src="assets/img/icon/dm01.png" alt="" />
             <h2>Digital Marketing</h2>
             <ul class="mb-5">
-              <li><span></span>Search Engine Optimization (SEO)</li>
-              <li><span></span>
-                Search Engine Marketing (SEM)
+              <li><span></span>Reaching Customers Online
               </li>
               <li><span></span>
-                Social Media Marketing (SMM)
+                Simple Secrets of Search Engine Optimization (SEO)
+
               </li>
-              <li><span></span> Email Marketing</li>
-              <li><span></span>Pay-Per-Click (PPC) Advertising</li>
+              <li><span></span>
+                The Basics of Search Engine Marketing (SEM)
+
+              </li>
+              <li><span></span> Social Media Marketing (SMM) for Success
+              </li>
+              <li><span></span>Mastering Email Marketing
+              </li>
             </ul>
             <a href="digital-marketing.php" class="mt-5"> Read More</a>
           </div>
@@ -453,19 +458,25 @@
       </div>
       <div class="col  col-lg-4 col-md-6 col-sm-2  ">
         <div class="card g-0">
-          <div class="card-bodys">
+          <div class="card-bodys" style="height:560px;">
             <img src="assets/img/icon/cc.png" alt="" />
-            <h2>Content Creation</h2>
+            <h2>Crafting Your Story</h2>
             <ul class="mb-5">
-              <li><span></span>Engaging Copywriting</li>
+
               <li><span></span>
-                Compelling Video Production
+                Selling Words that Captivate
+
               </li>
               <li><span></span>
-                Stunning Photography
+                Creating Attractive Videos
+
               </li>
-              <li><span></span>Blog and Article Writing</li>
-              <li><span></span>Social Media Content Creation</li>
+              <li><span></span>Capturing Moments That Last Through the Lens
+              </li>
+              <li><span></span>How to Write Blogs and Articles That Resonates
+              </li>
+              <li><span></span>Mastering Social Media Engagement
+              </li>
             </ul>
             <a href="content-creation.php" class=" mt-3
               "> Read More</a>
@@ -474,19 +485,23 @@
       </div>
       <div class="col col-lg-4 col-md-6 col-sm-2 ">
         <div class=" card g-0">
-          <div class="col-12 card-bodys">
+          <div class="col-12 card-bodys " style="height:560px;">
             <img src="assets/img/icon/gp.png" alt="" />
-            <h2>Graphic Designing</h2>
+            <h2>Designing with Graphics
+            </h2>
             <ul class="mb-5">
-              <li><span></span>Logo Design and Branding</li>
-              <li><span></span>
-                Brochure and Flyer Design
+              <li><span></span> Creating Logos that Last
               </li>
               <li><span></span>
-                Poster and Banner Design
+                Brochures & Flyers That Speak To The Heart
+
               </li>
-              <li><span></span>Infographics</li>
-              <li><span></span>Packaging Design</li>
+              <li><span></span>
+                Posters and Banners That Are Larger Than Life
+
+              </li>
+              <li><span></span>ommunicating Information With the Help of Visuals</li>
+              <li><span></span>Packaging Design That Leave a Lasting Impression</li>
             </ul>
             <a href="graphic-design.php" class="mt-3 "> Read More</a>
           </div>
