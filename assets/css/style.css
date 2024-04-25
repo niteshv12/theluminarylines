@@ -966,8 +966,8 @@
 }
 
 .git {
-    /* background-color: #14b1bb; */
-    background-image: linear-gradient(to bottom right, #ffffff, #14b1bb);
+    background-color: #14b1bb;
+    /* background-image: linear-gradient(to bottom right, #ffffff, #14b1bb); */
 }
 
 .git-title {
@@ -981,7 +981,7 @@
 }
 
 .git-title>p {
-    color: #000;
+    color: #ffffff;
     font-size: 24px;
     line-height: 24px;
     padding-top: 20px;
@@ -2908,4 +2908,34 @@ i {
 .partner4>li>img {
     height: 100px;
     object-fit: cover;
+}
+
+.seo {
+    background-color: #032539;
+}
+
+.dm-ser {
+    padding: 40px 80px;
+}
+
+.dm-ser>img {
+
+    border-radius: 40px;
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(15px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+
+}
+
+.dm-title {
+    padding: 70px 100px;
+}
+
+.dm-title {
+    padding: 70px 100px;
+}
+
+.dm-title>h4 {
+    font-size: 28px;
+    font-weight: 600;
 }

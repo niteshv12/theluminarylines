@@ -10,13 +10,13 @@
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
       <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
       <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
-      <!-- <div class="contact-title col-lg-8 col-md-6" style="position: absolute; top:35%;">
+      <div class="contact-title col-lg-8 col-md-6" style="position: absolute; top:35%;">
         <h1 class="text-light"> Get in touch</h1>
         <p class="text-light">We would like to hear from you to share with us any difficulties you may be experiencing, as we are committed to being of assistance to you. If you need a reputable Delhi-based marketing studio that can provide you with impactful campaigns, strategic consulting, and visually appealing designs, we stand ready to help you every step of the way. You can trust us to work closely with you to ensure that your objectives are met.</p>
-      </div> -->
+      </div>
 
 
-      <div class="banner__content_title-contact">
+      <!-- <div class="banner__content_title-contact">
         <h1 data-aos="fade-up text-dark" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           Get In Touch
         </h1>
@@ -24,12 +24,12 @@
           <a href="index.html">Home</a>
           <span class="text-light">/</span> <a href="who_we_are.html">Contact</a>
         </div>
-      </div>
+      </div> -->
       <!-- <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" /> -->
     </div>
   </div>
 </div>
-<div class="container-fluid git">
+<!-- <div class="container-fluid git" style="margin-top: -170px;">
   <div class="container">
     <div class="row">
       <div class="col-12 git-title" style="padding: 50px 120px;">
@@ -40,7 +40,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <!-- --------------- Start page header ----------- -->
 <!-- <section class="page__header position-relative banner-contect ">
   <div class="container">
@@ -51,7 +51,7 @@
 
 <!-- --------------- Start Contact From ----------- -->
 <section class="contact">
-  <div class="container">
+  <div class="container" style="margin-top:700px;">
     <div class="row justify-content-between align-items-center">
       <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <div class="location">
