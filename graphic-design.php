@@ -69,7 +69,8 @@
     <!-- <img src="assets/img/services/graph.jpg" alt="" class="w-100 thumb__img" /> -->
     <div class="first__para pt__60">
       <h2 class="t__54 text-dark" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        Graphic Designing
+        Designing with Graphics
+
       </h2>
       <p>
         Graphic Designing involves the creation of visual elements and materials that effectively communicate your brand's message to your target audience. This includes.
@@ -101,7 +102,7 @@
               </ul>
             </div> -->
           <h4 class="t__28 mb-5 text-dark">
-            Logo Design and Branding
+            Creating Logos that Last
           </h4>
           <p class="text-dark">
             Crafting a distinctive and memorable logo that serves as the cornerstone of your brand identity. Logo design and branding ensure that your brand is instantly recognizable and leaves a lasting impression on your audience.
@@ -125,7 +126,7 @@
               </ul>
             </div> -->
           <h4 class="t__28 mb-5 text-dark">
-            Brochure and Flyer Design
+            Brochures & Flyers That Speak To The Heart
           </h4>
           <p class="text-dark">
             Developing marketing materials such as brochures and flyers that effectively communicate your brand message and offerings. These materials serve as valuable tools for showcasing your products or services and capturing the attention of potential customers.
@@ -171,7 +172,7 @@
             </ul>
           </div> -->
           <h4 class="t__28 mb-5 text-dark">
-            Poster and Banner Design
+            Posters and Banners That Are Larger Than Life
           </h4>
           <p class="text-dark">
             Producing eye-catching graphics for promotional materials and advertising campaigns, including posters and banners. Poster and banner design help enhance brand visibility and attract attention to special promotions, events, or products.
@@ -205,7 +206,7 @@
             </ul>
           </div> -->
           <h4 class="t__28 mb-5 text-dark">
-            Infographics
+            Communicating Information With the Help of Visuals
           </h4>
           <p class="text-dark">
             Creating visually appealing and easy-to-understand graphics that present complex information in a clear and engaging format. Infographics are effective tools for conveying data, statistics, or processes in a visually compelling manner, making information more digestible for your audience.
@@ -242,7 +243,7 @@
             </ul>
           </div> -->
           <h4 class="t__28 mb-5 text-dark">
-            Packaging Design
+            Packaging Design That Leave a Lasting Impression
           </h4>
           <p class="text-dark">
             Designing packaging that not only protects your products but also enhances their visual appeal and reflects your brand identity. Packaging design plays a crucial role in influencing purchasing decisions and reinforcing brand perception, making it an essential aspect of product marketing and branding efforts.
@@ -301,10 +302,11 @@
     </div>
   </div> -->
 <!-- why Choose end -->
-<div class="conatiner-fluid ">
+<div class="conatiner-fluid mt-5">
   <div class="container">
     <div class="row text-center">
-      <h1 style="font-size: 56px;">How We Work</h1>
+      <h1 style="font-size: 56px;">A Look Inside Our Work Process
+      </h1>
       <p class="text-dark mt-4 mb-4">
         We believe in collaboration, creativity, and results. We start by understanding your brand's needs, then unleash our creativity to deliver tailored solutions. With open communication and continuous optimization, we ensure your success every step of the way.
       </p>
@@ -316,13 +318,14 @@
         <img src="assets/img/services/wework.jpg" alt="">
       </div>
       <div class="col-md-6">
-        <h5 class="mb-2 mt-4 fw-bold">Strategic Planning:</h5>
+        <h5 class="mb-2 mt-4 fw-bold"> Outlining Success with Strategic Planning</h5>
         <p class="text-dark">Our team conducts thorough research and analysis to develop a strategic plan customized to your brand's objectives. This plan serves as the roadmap for our collaboration.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Creative Ideation:</h5>
+        <h5 class="mb-2 mt-4 fw-bold">Creative Brainstorms That Work</h5>
         <p class="text-dark">We unleash our creativity to develop innovative ideas and concepts that resonate with your target audience. Our goal is to create compelling content and designs that capture attention and drive engagement.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Continuous Optimization:</h5>
+        <h5 class="mb-2 mt-4 fw-bold">The Path to Endless Improvement
+        </h5>
         <p class="text-dark">We continuously monitor and optimize our strategies and campaigns to maximize results. Whether it's adjusting advertising tactics or refining branding elements, we're committed to delivering ongoing success for your brand.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Transparent Reporting:</h5>
+        <h5 class="mb-2 mt-4 fw-bold"> Clear and Honest Reporting</h5>
         <p class="text-dark">We provide transparent and comprehensive reporting on the performance of our campaigns and initiatives. This allows you to track progress, measure success, and make informed decisions for your brand.</p>
       </div>
     </div>

@@ -69,7 +69,7 @@
     <!-- <img src="assets/img/services/cc.jpg" alt="" class="w-100 thumb__img" /> -->
     <div class="first__para pt__60">
       <h2 class="t__54 text-dark" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        Content Creation
+        Crafting Your Story
       </h2>
       <p>
         Content Creation involves developing engaging and relevant content across various formats, including text, video, and images, to attract, inform, and engage your target audience effectively.
@@ -101,7 +101,7 @@
               </ul>
             </div> -->
           <h4 class="t__28 mb-5 text-dark">
-            Engaging Copywriting
+            Selling Words that Captivate
           </h4>
           <p class="text-dark">
             Craft compelling and persuasive written content that captivates your audience and prompts them to take action. Whether it's crafting compelling product descriptions, captivating website copy, or engaging social media posts, effective copywriting helps convey your brand message and drive conversions.
@@ -125,7 +125,7 @@
               </ul>
             </div> -->
           <h4 class="t__28 mb-5 text-dark">
-            Compelling Video Production
+            Creating Attractive Videos
           </h4>
           <p class="text-dark">
             Produce high-quality videos that effectively communicate your brand message and resonate with your audience. From promotional videos and product demonstrations to storytelling narratives and tutorials, compelling video production captures attention, evokes emotion, and enhances brand engagement.
@@ -171,7 +171,7 @@
             </ul>
           </div> -->
           <h4 class="t__28 mb-5 text-dark">
-            Stunning Photography
+            Capturing Moments That Last Through the Lens
           </h4>
           <p class="text-dark">
             Capture visually appealing images that showcase your products, services, and brand identity in the best possible light. Professional photography helps to create a positive first impression, highlight key features, and convey the value of your offerings to your target audience.
@@ -205,7 +205,7 @@
             </ul>
           </div> -->
           <h4 class="t__28 mb-5 text-dark">
-            Blog and Article Writing
+            How to Write Blogs and Articles That Resonates
           </h4>
           <p class="text-dark">
             Generate informative and engaging blog posts and articles that establish your brand as an authority in your industry. By providing valuable insights, tips, and resources, blog and article writing not only educates your audience but also builds trust, credibility, and brand loyalty over time.
@@ -242,7 +242,7 @@
             </ul>
           </div> -->
           <h4 class="t__28 mb-5 text-dark">
-            Social Media Content Creation
+            Mastering Social Media Engagement
           </h4>
           <p class="text-dark">
             Develop engaging content tailored for social media platforms to attract followers, increase brand awareness, and foster community engagement. From eye-catching graphics and memes to interactive polls and live videos, social media content creation helps humanize your brand, spark conversations, and drive meaningful interactions with your audience.
@@ -301,10 +301,11 @@
     </div>
   </div> -->
 <!-- why Choose end -->
-<div class="conatiner-fluid " style=" ">
+<div class="conatiner-fluid mt-5">
   <div class="container">
     <div class="row text-center">
-      <h1 style="font-size: 56px;">How We Work</h1>
+      <h1 style="font-size: 56px;">A Look Inside Our Work Process
+      </h1>
       <p class="text-dark mt-4 mb-4">
         We believe in collaboration, creativity, and results. We start by understanding your brand's needs, then unleash our creativity to deliver tailored solutions. With open communication and continuous optimization, we ensure your success every step of the way.
       </p>
@@ -316,13 +317,16 @@
         <img src="assets/img/services/wework.jpg" alt="">
       </div>
       <div class="col-md-6">
-        <h5 class="mb-2 mt-4 fw-bold">Strategic Planning:</h5>
+        <h5 class="mb-2 mt-4 fw-bold">Outlining Success with Strategic Planning
+        </h5>
         <p class="text-dark">Our team conducts thorough research and analysis to develop a strategic plan customized to your brand's objectives. This plan serves as the roadmap for our collaboration.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Creative Ideation:</h5>
+        <h5 class="mb-2 mt-4 fw-bold">Creative Brainstorms That Work
+        </h5>
         <p class="text-dark">We unleash our creativity to develop innovative ideas and concepts that resonate with your target audience. Our goal is to create compelling content and designs that capture attention and drive engagement.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Continuous Optimization:</h5>
+        <h5 class="mb-2 mt-4 fw-bold"> The Path to Endless Improvement
+        </h5>
         <p class="text-dark">We continuously monitor and optimize our strategies and campaigns to maximize results. Whether it's adjusting advertising tactics or refining branding elements, we're committed to delivering ongoing success for your brand.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Transparent Reporting:</h5>
+        <h5 class="mb-2 mt-4 fw-bold">Clear and Honest Reporting</h5>
         <p class="text-dark">We provide transparent and comprehensive reporting on the performance of our campaigns and initiatives. This allows you to track progress, measure success, and make informed decisions for your brand.</p>
       </div>
     </div>

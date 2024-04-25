@@ -965,6 +965,43 @@
     object-fit: cover;
 }
 
+.git {
+    /* background-color: #14b1bb; */
+    background-image: linear-gradient(to bottom right, #ffffff, #14b1bb);
+}
+
+.git-title {
+    padding: 50px 120px;
+}
+
+.git-title>h2 {
+    color: #000;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.git-title>p {
+    color: #000;
+    font-size: 24px;
+    line-height: 24px;
+    padding-top: 20px;
+    /* font-weight: 600; */
+}
+
+.contact-title>h1 {
+    color: #fff;
+    font-size: 80px;
+    font-weight: 600;
+    padding-left: 150px;
+}
+
+.contact-title>p {
+    font-size: 24px;
+    padding: 50px 160px;
+    line-height: 30px;
+
+}
+
 .banner__content_title-contact {
     margin-top: 220px;
     margin-left: 40px;

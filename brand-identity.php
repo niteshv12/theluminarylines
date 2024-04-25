@@ -310,10 +310,11 @@
     </div>
   </div> -->
 <!-- why Choose end -->
-<div class="conatiner-fluid ">
+<div class="conatiner-fluid mt-5">
   <div class="container">
     <div class="row text-center">
-      <h1 style="font-size: 56px;">How We Work</h1>
+      <h1 style="font-size: 56px;">A Look Inside Our Work Process
+      </h1>
       <p class="text-dark mt-4 mb-4">
         We believe in collaboration, creativity, and results. We start by understanding your brand's needs, then unleash our creativity to deliver tailored solutions. With open communication and continuous optimization, we ensure your success every step of the way.
       </p>
@@ -325,13 +326,14 @@
         <img src="assets/img/services/wework.jpg" alt="">
       </div>
       <div class="col-md-6">
-        <h5 class="mb-2 mt-4 fw-bold">Strategic Planning:</h5>
+        <h5 class="mb-2 mt-4 fw-bold"> Outlining Success with Strategic Planning</h5>
         <p class="text-dark">Our team conducts thorough research and analysis to develop a strategic plan customized to your brand's objectives. This plan serves as the roadmap for our collaboration.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Creative Ideation:</h5>
+        <h5 class="mb-2 mt-4 fw-bold">Creative Brainstorms That Work</h5>
         <p class="text-dark">We unleash our creativity to develop innovative ideas and concepts that resonate with your target audience. Our goal is to create compelling content and designs that capture attention and drive engagement.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Continuous Optimization:</h5>
+        <h5 class="mb-2 mt-4 fw-bold">The Path to Endless Improvement
+        </h5>
         <p class="text-dark">We continuously monitor and optimize our strategies and campaigns to maximize results. Whether it's adjusting advertising tactics or refining branding elements, we're committed to delivering ongoing success for your brand.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Transparent Reporting:</h5>
+        <h5 class="mb-2 mt-4 fw-bold"> Clear and Honest Reporting</h5>
         <p class="text-dark">We provide transparent and comprehensive reporting on the performance of our campaigns and initiatives. This allows you to track progress, measure success, and make informed decisions for your brand.</p>
       </div>
     </div>

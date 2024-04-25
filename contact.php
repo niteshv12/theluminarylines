@@ -4,15 +4,22 @@
 <!-- --------------- Start Header ------------ -->
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
-<div class="container-fluid header-to">
-  <img src="assets/img/banner/contact01.jpg" alt="" class="c-img d-lg-block d-none">
+<div class="container-fluid header-to" style="margin-bottom: 440px;">
+  <img src="assets/img/banner/contact-us.jpg" alt="" class="c-img d-lg-block d-none">
   <div class="row">
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
       <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
       <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
+      <!-- <div class="contact-title col-lg-8 col-md-6" style="position: absolute; top:35%;">
+        <h1 class="text-light"> Get in touch</h1>
+        <p class="text-light">We would like to hear from you to share with us any difficulties you may be experiencing, as we are committed to being of assistance to you. If you need a reputable Delhi-based marketing studio that can provide you with impactful campaigns, strategic consulting, and visually appealing designs, we stand ready to help you every step of the way. You can trust us to work closely with you to ensure that your objectives are met.</p>
+      </div> -->
+
+
       <div class="banner__content_title-contact">
         <h1 data-aos="fade-up text-dark" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          Contact </h1>
+          Get In Touch
+        </h1>
         <div class="d-flex justify-content-center gap-2 title-contact">
           <a href="index.html">Home</a>
           <span class="text-light">/</span> <a href="who_we_are.html">Contact</a>
@@ -22,7 +29,18 @@
     </div>
   </div>
 </div>
-
+<div class="container-fluid git">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 git-title" style="padding: 50px 120px;">
+        <h2>
+          Get in touch
+        </h2>
+        <p>We would like to hear from you to share with us any difficulties you may be experiencing, as we are committed to being of assistance to you. If you need a reputable Delhi-based marketing studio that can provide you with impactful campaigns, strategic consulting, and visually appealing designs, we stand ready to help you every step of the way. You can trust us to work closely with you to ensure that your objectives are met.</p>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- --------------- Start page header ----------- -->
 <!-- <section class="page__header position-relative banner-contect ">
   <div class="container">
@@ -39,7 +57,7 @@
         <div class="location">
           <h3 class="t__54">Contact Us</h3>
           <p class="location__disc">
-            Get in touch to discuss your employee well-being needs today.
+            <!-- Get in touch to discuss your employee well-being needs today. -->
           </p>
           <ul>
             <li>
@@ -53,14 +71,14 @@
             <li>
               <img src="assets/icons/phone.png" alt="" />
               <div>
-                <b>Call US:</b>
+                <b>Call Us:</b>
                 <p>+91 7428599745 | 011 49048335</p>
               </div>
             </li>
             <li>
               <img src="assets/icons/email 1.svg" alt="" />
               <div>
-                <b>Send Message:</b>
+                <b> Message Us:</b>
                 <p> info@theluminarylines.com</p>
               </div>
             </li>
@@ -69,7 +87,7 @@
       </div>
       <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
         <div class="contact__form">
-          <h5 class="t__28">Get In Touch Here</h5>
+          <!-- <h5 class="t__28">Get In Touch Here</h5> -->
           <form action="">
             <div class="row">
               <div class="col-md-6">
