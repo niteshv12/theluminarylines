@@ -999,6 +999,8 @@
     font-size: 24px;
     padding: 50px 160px;
     line-height: 30px;
+    text-align: justify;
+    /* text-justify: inter-word; */
 
 }
 
@@ -2387,6 +2389,16 @@
     width: 100%;
     height: 650px;
     object-fit: cover;
+}
+
+.con-fr {
+    margin-top: 700px;
+}
+
+@media (max-width: 576px) {
+    .con-fr {
+        margin-top: 100px;
+    }
 }
 
 /* .carousel-item>img {

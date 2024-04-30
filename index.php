@@ -46,7 +46,7 @@
 <video autoplay="autoplay" loop muted playsinline class=" d-lg-block d-none head-video">
   <source src="assets/img/banner/Luminary-LInes-vid.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
 </video>
-<video autoplay loop muted class="d-lg-none d-block head-video-mobile">
+<video autoplay="autoplay" loop muted playsinline class="d-lg-none d-block head-video-mobile">
   <source src="assets/img/clients/Render_4K phone.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
 </video>
 

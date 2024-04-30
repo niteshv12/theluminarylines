@@ -4,7 +4,7 @@
 <!-- --------------- Start Header ------------ -->
 <?php include('header.php'); ?>
 <!-- --------------- End Header ------------ -->
-<div class="container-fluid header-to" style="margin-bottom: 440px;">
+<div class="container-fluid header-to">
   <img src="assets/img/banner/contact-us.jpg" alt="" class="c-img d-lg-block d-none">
   <div class="row">
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
@@ -12,7 +12,7 @@
       <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
       <div class="contact-title col-lg-8 col-md-6" style="position: absolute; top:35%;">
         <h1 class="text-light"> Get in touch</h1>
-        <p class="text-light">We would like to hear from you to share with us any difficulties you may be experiencing, as we are committed to being of assistance to you. If you need a reputable Delhi-based marketing studio that can provide you with impactful campaigns, strategic consulting, and visually appealing designs, we stand ready to help you every step of the way. You can trust us to work closely with you to ensure that your objectives are met.</p>
+        <p class="text-light d-lg-block d-none">We would like to hear from you to share with us any difficulties you may be experiencing, as we are committed to being of assistance to you. If you need a reputable Delhi-based marketing studio that can provide you with impactful campaigns, strategic consulting, and visually appealing designs, we stand ready to help you every step of the way. You can trust us to work closely with you to ensure that your objectives are met.</p>
       </div>
 
 
@@ -51,7 +51,7 @@
 
 <!-- --------------- Start Contact From ----------- -->
 <section class="contact">
-  <div class="container" style="margin-top:700px;">
+  <div class="container con-fr">
     <div class="row justify-content-between align-items-center">
       <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <div class="location">
