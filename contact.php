@@ -10,7 +10,7 @@
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
       <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
       <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
-      <div class="contact-title col-lg-8 col-md-6" style="position: absolute; top:35%;">
+      <div class="contact-title  col-lg-8 col-md-6">
         <h1 class="text-light"> Get in touch</h1>
         <p class="text-light d-lg-block d-none">We would like to hear from you to share with us any difficulties you may be experiencing, as we are committed to being of assistance to you. If you need a reputable Delhi-based marketing studio that can provide you with impactful campaigns, strategic consulting, and visually appealing designs, we stand ready to help you every step of the way. You can trust us to work closely with you to ensure that your objectives are met.</p>
       </div>

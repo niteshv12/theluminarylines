@@ -15,7 +15,7 @@
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
 
       <div class="banner__content_title-w">
-        <h1 data-aos="fade-up text-dark " data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <h1 data-aos="fade-up  " data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           Turning Brands into icons<br> with expert marketing
         </h1>
         <p class="text-light" style="font-size: 36px ; color:black;"> Enabling you to become a market competitor.</p>
