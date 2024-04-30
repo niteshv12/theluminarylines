@@ -284,7 +284,7 @@
         </p>
       </div>
       <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <img src="assets/img/services/sem.jpg" alt="" class="w-100" />
+        <img src="assets/img/serbanner/what-is-sem.gif" alt="" class="w-100" />
       </div>
     </div>
   </div>
@@ -293,7 +293,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <img src="assets/img/services/smm.jpg" alt="" class="w-100" />
+        <img src="assets/img/serbanner/smm.gif" alt="" class="w-100" />
       </div>
       <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
 
@@ -326,7 +326,7 @@
         </p>
       </div>
       <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <img src="assets/img/services/email.jpg" alt="" class="w-100" />
+        <img src="assets/img/serbanner/email.gif" alt="" class="w-100" />
       </div>
     </div>
   </div>
@@ -335,7 +335,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <img src="assets/img/services/pay.jpg" alt="" class="w-100" />
+        <img src="assets/img/serbanner/ppc.gif" alt="" class="w-100" />
       </div>
       <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
 

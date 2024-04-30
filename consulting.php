@@ -83,23 +83,13 @@
           aims to increase organic traffic to your website and enhance its authority in search engine algorithms.
         </p> -->
     </div>
-    <div class="second__para pt__60">
+    <!-- <div class="second__para pt__60">
       <div class="row justify-content-between align-items-center">
         <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <img src="assets/img/services/cs1.jpg" alt="" class="w-100" />
         </div>
         <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
-              <h4 class="t__28">
-                Our premium detail package makes your vehicle look & smell
-                like new again,
-              </h4>
-              <ul>
-                <li>Online Booking System now</li>
-                <li>Special Offers and Discounts for you!</li>
-                <li>Sustainability Initiatives</li>
-              </ul>
-            </div> -->
+
           <h4 class="t__28 mb-5 text-dark">
             Strategic Planning
           </h4>
@@ -113,17 +103,7 @@
       <div class="row justify-content-between align-items-center">
 
         <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
-              <h4 class="t__28">
-                Our premium detail package makes your vehicle look & smell
-                like new again,
-              </h4>
-              <ul>
-                <li>Online Booking System now</li>
-                <li>Special Offers and Discounts for you!</li>
-                <li>Sustainability Initiatives</li>
-              </ul>
-            </div> -->
+
           <h4 class="t__28 mb-5 text-dark">
             Market Analysis and Research
           </h4>
@@ -136,20 +116,7 @@
         </div>
       </div>
     </div>
-    <!-- <div class="thred__para pt__50">
-        <h5 class="t__28">Search Engine Marketing (SEM)</h5>
-        <p>
-          SEM involves paid advertising on search engines like Google or Bing to increase your website's visibility in
-          search engine results. With SEM, you can target specific keywords and demographics, allowing you to reach
-          potential customers actively searching for products or services similar to yours.
-        </p> -->
-    <!-- <ul class="d-flex justify-content-between align-items-center flex-wrap gap-3" data-aos="fade-up"
-            data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <li>Low Cost Our Fee</li>
-            <li>Available 24 hours</li>
-            <li>Skilled Mechanic</li>
-            <li>Warranty & Maintenance</li>
-          </ul> -->
+
 
     <div class="second__para pt__60">
       <div class="row justify-content-between align-items-center">
@@ -157,17 +124,7 @@
           <img src="assets/img/services/cs3.jpg" alt="" class="w-100" />
         </div>
         <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
-            <h4 class="t__28">
-              Our premium detail package makes your vehicle look & smell
-              like new again,
-            </h4>
-            <ul>
-              <li>Online Booking System now</li>
-              <li>Special Offers and Discounts for you!</li>
-              <li>Sustainability Initiatives</li>
-            </ul>
-          </div> -->
+
           <h4 class="t__28 mb-5 text-dark">
             Brand Strategy Development
           </h4>
@@ -178,30 +135,12 @@
 
       </div>
     </div>
-    <!-- <div class="fourt__para">
-      <h5 class="t__28">Social Media Marketing (SMM): </h5>
-      <p>
-        SMM involves promoting your brand and engaging with your audience on various social media platforms such as
-        Facebook, Instagram, Twitter, LinkedIn, and others. Through strategic content creation, community
-        engagement, and targeted advertising, SMM helps build brand awareness, drive website traffic, and foster
-        customer loyalty.
-      </p>
-    </div> -->
+
     <div class="second__para pt__60">
       <div class="row justify-content-between align-items-center">
 
         <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
-            <h4 class="t__28">
-              Our premium detail package makes your vehicle look & smell
-              like new again,
-            </h4>
-            <ul>
-              <li>Online Booking System now</li>
-              <li>Special Offers and Discounts for you!</li>
-              <li>Sustainability Initiatives</li>
-            </ul>
-          </div> -->
+
           <h4 class="t__28 mb-5 text-dark">
             Digital Marketing Strategy
           </h4>
@@ -214,31 +153,14 @@
         </div>
       </div>
     </div>
-    <!-- <div class="fourt__para">
-      <h5 class="t__28">Email Marketing </h5>
-      <p>
-        Email marketing is a direct communication channel used to reach out to your target audience through
-        personalized email campaigns. By delivering valuable content, promotions, and updates directly to
-        subscribers' inboxes, email marketing helps nurture leads, retain customers, and drive conversions.
-      </p>
-    </div> -->
+
     <div class="second__para pt__60">
       <div class="row justify-content-between align-items-center">
         <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <img src="assets/img/services/cs5.jpg" alt="" class="w-100" />
         </div>
         <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
-            <h4 class="t__28">
-              Our premium detail package makes your vehicle look & smell
-              like new again,
-            </h4>
-            <ul>
-              <li>Online Booking System now</li>
-              <li>Special Offers and Discounts for you!</li>
-              <li>Sustainability Initiatives</li>
-            </ul>
-          </div> -->
+
           <h4 class="t__28 mb-5 text-dark">
             Campaign Optimization
           </h4>
@@ -248,24 +170,108 @@
           <p class="text-dark">Through consulting services, businesses can leverage expert insights and guidance to overcome challenges, capitalize on opportunities, and achieve their strategic objectives effectively in today's competitive marketplace.</p>
         </div>
       </div>
-    </div>
-    <!-- <div class="fourt__para">
-      <h5 class="t__28">Pay-Per-Click (PPC) Advertising</h5>
-      <p>
-        PPC advertising involves bidding on keywords and paying a fee each time your ad is clicked. This allows you
-        to display your ads prominently on search engine results pages and other digital platforms, ensuring
-        targeted traffic to your website and maximizing your return on investment (ROI).
-      </p>
-      <p>
-        In today's digital landscape, businesses can boost their online visibility, more effectively reach their
-        target audience, and ultimately drive growth and success by employing these digital marketing services.
-      </p>
     </div> -->
+
 
   </div>
 </article>
 
 <!-- why Choose start -->
+<div class="container-fluid seo mt-5" style="background-color:#FA991C;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/serbanner/plan.gif" alt="" class="w-100 " />
+      </div>
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-5 text-dark">
+          Strategic Planning
+        </h4>
+        <p class="text-dark">
+          Formulating comprehensive strategies that align with your business goals and objectives. Strategic planning involves identifying opportunities, setting priorities, and developing action plans to drive growth and success.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid sem" style="background-color:#D8D9D9;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-5 text-dark">
+          Market Analysis and Research
+        </h4>
+        <p class="text-dark">
+          Conducting in-depth research to gain insights into market trends, customer preferences, and the competitive landscape. Market analysis and research help businesses make informed decisions and develop effective strategies to capitalize on market opportunities.
+        </p>
+      </div>
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/serbanner/market.gif" alt="" class="w-100" />
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid smm" style="background-color:#14b1bb;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/serbanner/bg.webp" alt="" class="w-100" />
+      </div>
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-5 text-dark">
+          Brand Strategy Development
+        </h4>
+        <p class="text-dark">
+          Defining your brand's unique value proposition and positioning in the market. Brand strategy development involves establishing a clear identity, voice, and messaging that resonates with your target audience and sets you apart from competitors.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid email" style="background-color:#FA991C;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-5 text-dark">
+          Digital Marketing Strategy
+        </h4>
+        <p class="text-dark">
+          Creating strategies to effectively market your brand online and reach your target audience. Digital marketing strategy encompasses various channels and tactics, including SEO, SEM, SMM, email marketing, and content marketing, tailored to achieve your business objectives.
+        </p>
+      </div>
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/serbanner/digital-strategy.gif" alt="" class="w-100" />
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid pcc" style="background-color:#032539;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/serbanner/giphy.gif" alt="" class="w-100" />
+      </div>
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-5 text-light">
+          Campaign Optimization
+        </h4>
+        <p class="text-light">
+          Fine-tuning and optimizing your marketing campaigns to improve performance and maximize return on investment (ROI). Campaign optimization involves analyzing data, identifying areas for improvement, and implementing changes to enhance campaign effectiveness and efficiency.
+        </p>
+        <p class="text-light">Through consulting services, businesses can leverage expert insights and guidance to overcome challenges, capitalize on opportunities, and achieve their strategic objectives effectively in today's competitive marketplace.</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
 <!-- <div class="container-fluid mt-5 mb-5">
     <div class="container">
       <div class="row text-center ">

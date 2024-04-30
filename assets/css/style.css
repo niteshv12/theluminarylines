@@ -2936,6 +2936,13 @@ i {
 }
 
 .dm-title>h4 {
-    font-size: 28px;
+    font-size: 36px;
+    line-height: 40px;
     font-weight: 600;
+}
+
+.dm-title>p {
+    font-size: 20px;
+    line-height: 30px;
+    /* font-weight: 600; */
 }

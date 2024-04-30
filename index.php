@@ -43,7 +43,7 @@
     <source src="assets/img/clients/Render_4K.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
   </video>
 </div> -->
-<video autoplay loop muted class="d-lg-block d-none head-video">
+<video autoplay="autoplay" loop muted playsinline class=" d-lg-block d-none head-video">
   <source src="assets/img/banner/Luminary-LInes-vid.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
 </video>
 <video autoplay loop muted class="d-lg-none d-block head-video-mobile">
@@ -431,7 +431,7 @@
   </div>
   <div class="container ">
     <div class="row  my-3 g-4 ">
-      <div class="col-12 col-lg-4 col-md-6 col-sm-2  ">
+      <div class="col-12 col-lg-4 col-md-6  ">
         <div class="card ">
           <div class="card-bodys">
             <img src="assets/img/icon/dm01.png" alt="" />
@@ -452,7 +452,7 @@
           </div>
         </div>
       </div>
-      <div class="col  col-lg-4 col-md-6 col-sm-2  ">
+      <div class="col  col-lg-4 col-md-6   ">
         <div class="card g-0">
           <div class="card-bodys">
             <img src="assets/img/icon/cc.png" alt="" />
@@ -475,7 +475,7 @@
           </div>
         </div>
       </div>
-      <div class="col col-lg-4 col-md-6 col-sm-2 ">
+      <div class="col col-lg-4 col-md-6 ">
         <div class=" card g-0">
           <div class="col-12 card-bodys ">
             <img src="assets/img/icon/gp.png" alt="" />
@@ -502,7 +502,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col col-lg-4 col-md-6 col-sm-2 ">
+      <div class="col col-lg-4 col-md-6  ">
         <div class="card g-0">
           <div class="card-bodys">
             <img src="assets/img/icon/web.png" alt="" />
@@ -522,7 +522,7 @@
           </div>
         </div>
       </div>
-      <div class="col col-lg-4 col-md-6 col-sm-2  ">
+      <div class="col col-lg-4 col-md-6   ">
         <div class="card g-0">
           <div class="card-bodys">
             <img src="assets/img/icon/brand.png" alt="" />
@@ -546,7 +546,7 @@
           </div>
         </div>
       </div>
-      <div class="col col-lg-4 col-md-6 col-sm-2  ">
+      <div class="col col-lg-4 col-md-6   ">
         <div class="card g-none">
           <div class="card-bodys">
             <img src="assets/img/icon/comm.png" alt="" />

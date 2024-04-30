@@ -76,37 +76,20 @@
 
       <div class="first__para pt__60">
         <h2 class="t__54 text-dark" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          Brand Identity
+          Make Your Image Known
         </h2>
         <p>
           Brand Identity services involve developing and maintaining a consistent and recognizable visual and verbal identity for your brand. This encompasses elements such as logos, brand guidelines, positioning, messaging, and collateral design. Here's a breakdown:
         </p>
-        <!-- <h4 class="t__28 mt-5">Content
-          Search Engine Optimization (SEO)
-        </h4>
-        <p>
-          This involves optimizing your website to improve its visibility and ranking on search engine results pages
-          (SERPs). Through strategic techniques such as keyword research, on-page optimization, and link building, SEO
-          aims to increase organic traffic to your website and enhance its authority in search engine algorithms.
-        </p> -->
+
       </div>
-      <div class="second__para pt__60">
+      <!-- <div class="second__para pt__60">
         <div class="row justify-content-between align-items-center">
           <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             <img src="assets/img/services/lb.jpg" alt="" class="w-100" />
           </div>
           <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <!-- <div>
-              <h4 class="t__28">
-                Our premium detail package makes your vehicle look & smell
-                like new again,
-              </h4>
-              <ul>
-                <li>Online Booking System now</li>
-                <li>Special Offers and Discounts for you!</li>
-                <li>Sustainability Initiatives</li>
-              </ul>
-            </div> -->
+           
             <h4 class="t__28 mb-3 text-dark">
               Logo Design and Branding
             </h4>
@@ -120,17 +103,7 @@
         <div class="row justify-content-between align-items-center">
 
           <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <!-- <div>
-              <h4 class="t__28">
-                Our premium detail package makes your vehicle look & smell
-                like new again,
-              </h4>
-              <ul>
-                <li>Online Booking System now</li>
-                <li>Special Offers and Discounts for you!</li>
-                <li>Sustainability Initiatives</li>
-              </ul>
-            </div> -->
+            
             <h4 class="t__28 mb-3 text-dark">
               Brand Guidelines Development
             </h4>
@@ -144,20 +117,7 @@
           </div>
         </div>
       </div>
-      <!-- <div class="thred__para pt__50">
-        <h5 class="t__28">Search Engine Marketing (SEM)</h5>
-        <p>
-          SEM involves paid advertising on search engines like Google or Bing to increase your website's visibility in
-          search engine results. With SEM, you can target specific keywords and demographics, allowing you to reach
-          potential customers actively searching for products or services similar to yours.
-        </p> -->
-      <!-- <ul class="d-flex justify-content-between align-items-center flex-wrap gap-3" data-aos="fade-up"
-            data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <li>Low Cost Our Fee</li>
-            <li>Available 24 hours</li>
-            <li>Skilled Mechanic</li>
-            <li>Warranty & Maintenance</li>
-          </ul> -->
+    
 
       <div class="second__para pt__60">
         <div class="row justify-content-between align-items-center">
@@ -165,17 +125,8 @@
             <img src="assets/img/services/lb3.jpg" alt="" class="w-100" />
           </div>
           <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <!-- <div>
-            <h4 class="t__28">
-              Our premium detail package makes your vehicle look & smell
-              like new again,
-            </h4>
-            <ul>
-              <li>Online Booking System now</li>
-              <li>Special Offers and Discounts for you!</li>
-              <li>Sustainability Initiatives</li>
-            </ul>
-          </div> -->
+            
+         
             <h4 class="t__28 mb-3 text-dark">
               Brand Positioning and Messaging
             </h4>
@@ -186,30 +137,12 @@
 
         </div>
       </div>
-      <!-- <div class="fourt__para">
-      <h5 class="t__28">Social Media Marketing (SMM): </h5>
-      <p>
-        SMM involves promoting your brand and engaging with your audience on various social media platforms such as
-        Facebook, Instagram, Twitter, LinkedIn, and others. Through strategic content creation, community
-        engagement, and targeted advertising, SMM helps build brand awareness, drive website traffic, and foster
-        customer loyalty.
-      </p>
-    </div> -->
+      
       <div class="second__para pt__60">
         <div class="row justify-content-between align-items-center">
 
           <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <!-- <div>
-            <h4 class="t__28">
-              Our premium detail package makes your vehicle look & smell
-              like new again,
-            </h4>
-            <ul>
-              <li>Online Booking System now</li>
-              <li>Special Offers and Discounts for you!</li>
-              <li>Sustainability Initiatives</li>
-            </ul>
-          </div> -->
+           
             <h4 class="t__28 mb-3 text-dark">
               Brand Identity Consultation
             </h4>
@@ -222,31 +155,15 @@
           </div>
         </div>
       </div>
-      <!-- <div class="fourt__para">
-      <h5 class="t__28">Email Marketing </h5>
-      <p>
-        Email marketing is a direct communication channel used to reach out to your target audience through
-        personalized email campaigns. By delivering valuable content, promotions, and updates directly to
-        subscribers' inboxes, email marketing helps nurture leads, retain customers, and drive conversions.
-      </p>
-    </div> -->
+     
       <div class="second__para pt__60">
         <div class="row justify-content-between align-items-center">
           <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             <img src="assets/img/services/lb5.jpg" alt="" class="w-100" />
           </div>
           <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <!-- <div>
-            <h4 class="t__28">
-              Our premium detail package makes your vehicle look & smell
-              like new again,
-            </h4>
-            <ul>
-              <li>Online Booking System now</li>
-              <li>Special Offers and Discounts for you!</li>
-              <li>Sustainability Initiatives</li>
-            </ul>
-          </div> -->
+            
+           
             <h4 class="t__28 mb-3 text-dark">
               Brand Collateral Design
             </h4>
@@ -258,25 +175,114 @@
             </p>
           </div>
         </div>
-      </div>
-      <!-- <div class="fourt__para">
-      <h5 class="t__28">Pay-Per-Click (PPC) Advertising</h5>
-      <p>
-        PPC advertising involves bidding on keywords and paying a fee each time your ad is clicked. This allows you
-        to display your ads prominently on search engine results pages and other digital platforms, ensuring
-        targeted traffic to your website and maximizing your return on investment (ROI).
-      </p>
-      <p>
-        In today's digital landscape, businesses can boost their online visibility, more effectively reach their
-        target audience, and ultimately drive growth and success by employing these digital marketing services.
-      </p>
-    </div> -->
+      </div> -->
+
 
     </div>
   </div>
 </article>
 
 <!-- why Choose start -->
+
+
+<div class="container-fluid seo mt-5" style="background-color:#FA991C;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/serbanner/seo.gif" alt="" class="w-100 " />
+      </div>
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-3 text-dark">
+          Design Logos and Brands That Impacts Us
+
+        </h4>
+
+        <p class="text-dark">
+          Crafting a visual identity that encapsulates your brand's personality and values. Logo design and branding are essential for creating a memorable and recognizable brand image that resonates with your target audience.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid sem" style="background-color:#D8D9D9;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-3 text-dark">
+          Setting The Standards For Your Brand
+        </h4>
+        <p class="text-dark">
+          Establishing guidelines for the consistent use of your brand elements across all channels. Brand guidelines ensure uniformity in brand representation and help maintain brand integrity and coherence across various touchpoints.
+        </p>
+      </div>
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/serbanner/standb.gif" alt="" class="w-100" />
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid smm" style="background-color:#14b1bb;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/services/lb2.jpg" alt="" class="w-100" />
+      </div>
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-3 text-dark">
+          Stating Your Brand's Opinion
+
+        </h4>
+        <p class="text-dark">
+          Defining your brand's positioning and messaging to effectively communicate with your target audience. Brand positioning determines how your brand is perceived relative to competitors, while messaging conveys your brand's value proposition and resonates with your audience's needs and aspirations.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid email" style="background-color:#FA991C;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-3 text-dark">
+          Discussing Your Brand's Identity
+        </h4>
+        <p class="text-dark">
+          Providing expert guidance and recommendations to help you define and refine your brand identity. Brand identity consultation involves understanding your brand's essence, audience, and objectives to develop strategies for building a strong and cohesive brand image.
+        </p>
+      </div>
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/services/lb3.jpg" alt="" class="w-100" />
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid pcc" style="background-color:#032539;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/services/lb4.jpg" alt="" class="w-100" />
+      </div>
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-3 text-light">
+          Designing Collateral to Fit Your Brand's Image
+        </h4>
+        <p class="text-light">
+          Designing collateral materials such as business cards, letterheads, and presentations that reflect your brand identity. Brand collateral design ensures that all printed and digital materials align with your brand's visual identity and messaging, reinforcing brand recognition and consistency.
+        </p>
+        <p class="text-light">
+          By investing in Brand Identity services, businesses can establish a strong and cohesive brand presence that resonates with their target audience, fosters brand loyalty, and drives long-term success in the marketplace.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <!-- <div class="container-fluid mt-5 mb-5">
     <div class="container">
       <div class="row text-center ">
