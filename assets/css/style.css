@@ -1000,6 +1000,7 @@
     padding: 50px 160px;
     line-height: 30px;
     text-align: justify;
+    font-style: italic;
     /* text-justify: inter-word; */
 
 }
