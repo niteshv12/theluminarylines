@@ -2803,6 +2803,12 @@
     padding: 120px;
 }
 
+@media(max-width: 576px) {
+    .blogsec1 {
+        padding: 60px;
+    }
+}
+
 .blogsec1>h2 {
     font-size: 60px;
     color: #000;
@@ -3005,3 +3011,104 @@ i {
     line-height: 30px;
     /* font-weight: 600; */
 }
+
+.clients-row {
+    background-color: #D8D9D9;
+    border-radius: 20px;
+}
+
+.clients {
+    padding: 10px 40px;
+    margin: 50px 10px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 20px;
+    /* display: flex;
+    justify-content: space-between; */
+}
+
+
+
+.clients>li {}
+
+.clients>li>img {
+    filter: grayscale(2);
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+
+    object-fit: cover;
+
+}
+
+.clients>li>img:hover {
+    filter: grayscale(0);
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+
+    object-fit: cover;
+
+}
+
+@media (max-width:576px) {
+    .clients {
+        margin: 50px 0px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        /* display: flex;
+        justify-content: space-between; */
+    }
+
+    .clients>li>img {
+        /* width: 100%; */
+        display: flex;
+        justify-content: space-between;
+        height: 80px;
+
+        object-fit: cover;
+    }
+
+    .clients>li>img:hover {
+        filter: grayscale(0);
+        /* width: 100%; */
+        display: flex;
+        justify-content: space-between;
+        height: 80px;
+
+        object-fit: cover;
+
+    }
+}
+
+.part {
+    border: 1px solid#000;
+    height: 200px;
+    /* width: 200px; */
+    background-color: #d8d9d9;
+    display: flex;
+    justify-content: center;
+}
+
+.part>img {
+    height: 100px;
+    object-fit: cover;
+}
+
+.parts {
+    height: 200px;
+    /* width: 200px; */
+    background-color: #d8d9d9;
+    display: flex;
+    justify-content: center;
+}
+
+.parts>img {
+    height: 60px;
+    object-fit: cover;
+}
+
+@media (max-width:576px) {}

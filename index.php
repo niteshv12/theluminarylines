@@ -47,7 +47,7 @@
   <source src="assets/img/banner/Luminary-LInes-vid.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
 </video>
 <video autoplay="autoplay" loop muted playsinline class="d-lg-none d-block head-video-mobile">
-  <source src="assets/img/banner/lumianry low.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
+  <source src="assets/img/banner/phone  luminary.mp4" class="object-fit-cover" type=video/mp4 autoplay mute loop>
 </video>
 
 <!-- --------------- Start Banner ----------- -->
@@ -628,8 +628,45 @@
 </div>
 
 <!-- ends clients -->
+<!-- <div class="conatiner-fluid">
+  <div class="container">
+    <div class="row ">
+      <div class="col-lg-2 col-sm-6  part"><img src="assets/img/clients/mesc logo.png" alt="" class="partner__logo" /></div>
+      <div class="col-lg-2 col-sm-6  part "> <img src="assets/img/clients/mediatalkback.png" alt="" class="partner__logo" /></div>
+      <div class="col-lg-2 col-sm-6  part"> <img src="assets/img/clients/vidyadaan.png" alt="" class="partner__logo" /></div>
+      <div class="col-lg-2 col-sm-6  part"> <img src="assets/img/clients/indiaskillshigh.png" alt="" class="partner__logo" /></div>
+      <div class="col-lg-2 col-sm-6  part"><img src="assets/img/clients/NSDC.png" alt="" class="partner__logo" /></div>
+      <div class="col-lg-2 col-sm-6  parts"> <img src="assets/img/clients/MECAT Logo.png" alt="" class="partner__logo" /></div>
+    </div>
+  </div>
+</div> -->
+<!-- <div class="conatiner-fluid mt-5">
+  <div class="container">
+    <div class="row clients-row">
+      <ul class="clients">
+        <li>
+          <img src="assets/img/clients/mesc logo.png" alt="" class="partner__logo" />
+        </li>
+        <li>
+          <img src="assets/img/clients/mediatalkback.png" alt="" class="partner__logo" />
+        </li>
+        <li>
+          <img src="assets/img/clients/vidyadaan.png" alt="" class="partner__logo" />
 
-
+        </li>
+        <li>
+          <img src="assets/img/clients/indiaskillshigh.png" alt="" class="partner__logo" />
+        </li>
+        <li>
+          <img src="assets/img/clients/NSDC.png" alt="" class="partner__logo" />
+        </li>
+        <li>
+          <img src="assets/img/clients/MECAT Logo.png" alt="" class="partner__logo" />
+        </li>
+      </ul>
+    </div>
+  </div>
+</div> -->
 
 
 

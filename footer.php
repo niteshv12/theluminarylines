@@ -41,7 +41,7 @@
           </li>
 
           <li>
-            <a href="https://www.instagram.com/_luminarylines/">
+            <a href="https://www.instagram.com/luminarylines_official/?igsh=MWNlMjF0N2F1YXVuMA%3D%3D">
               <i class="fa-brands fa-instagram"></i>
             </a>
           </li>
