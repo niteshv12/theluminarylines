@@ -630,6 +630,7 @@ p {
 }
 
 .banner__content_title h1 {
+    margin-left: 150px;
     /* color: #000; */
     color: #ffffff;
     font-size: 80px;
@@ -660,12 +661,16 @@ p {
 
 @media(max-width: 576px) {
     .banner__content_title {
+        /* background-color: #333; */
+        float: left;
         margin-top: 160px;
-        margin-right: 40px;
+        display: flex;
+        justify-content: center;
+        margin-right: 0px;
     }
 
     .banner__content_title h1 {
-        font-size: 46px;
+        font-size: 66px;
         line-height: 53px;
 
     }
@@ -677,7 +682,8 @@ p {
     /* line-height: 22px; */
     /* color: rgba(0, 0, 0, 0.67); */
     color: #ffffff;
-    margin-top: 20px
+    margin-top: 20px;
+    margin-left: 10px;
 }
 
 @media(max-width: 1200px) {
@@ -2115,6 +2121,7 @@ p {
     object-fit: cover;
     /* filter: saturate(100%); */
     filter: grayscale(2);
+
 }
 
 .slide2>img {

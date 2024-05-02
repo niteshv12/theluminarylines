@@ -12,17 +12,18 @@
 <!-- --------------- End page header ----------- -->
 <div class="container-fluid header-to">
   <img src="assets/img/banner/faq1.jpg" alt="" class="c-img d-lg-block d-none">
+  <!-- <img src="assets/img/banner/bb3.jpg" alt="" class="d-block d-lg-none c-mob-img"> -->
   <div class="row">
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
       <!-- <img src="assets/img/pageHeader/Group_78_3.svg" alt="" class="img-fluid left__pei" /> -->
       <!-- <img src="assets/img/pageHeader/Group 727.svg" alt="" class="left__arrow img-fluid" /> -->
       <div class="banner__content_titl-faq">
-        <h1 data-aos="fade-up text-dark mt-5 ms-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           FAQ's </h1>
-        <div class="d-flex justify-content-center gap-2 titl-faq ">
+        <!-- <div class="d-flex justify-content-center gap-2 titl-faq ">
           <a href="index.php">Home</a>
           <span>/</span> <a href="faq.php">FAQ's</a>
-        </div>
+        </div> -->
       </div>
       <!-- <img src="assets/img/pageHeader/Group 726.png" alt="" class="img-fluid right__arrow" /> -->
     </div>

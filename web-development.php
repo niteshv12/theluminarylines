@@ -74,32 +74,14 @@
       <p>
         Web Development encompasses the design, construction, and upkeep of websites to ensure they are functional, user-friendly, and visually appealing. This includes.
       </p>
-      <!-- <h4 class="t__28 mt-5">
-          Search Engine Optimization (SEO)
-        </h4>
-        <p>
-          This involves optimizing your website to improve its visibility and ranking on search engine results pages
-          (SERPs). Through strategic techniques such as keyword research, on-page optimization, and link building, SEO
-          aims to increase organic traffic to your website and enhance its authority in search engine algorithms.
-        </p> -->
     </div>
-    <div class="second__para pt__60">
+    <!-- <div class="second__para pt__60">
       <div class="row justify-content-between align-items-center">
         <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <img src="assets/img/services/web1.jpg" alt="" class="w-100" />
         </div>
         <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
-              <h4 class="t__28">
-                Our premium detail package makes your vehicle look & smell
-                like new again,
-              </h4>
-              <ul>
-                <li>Online Booking System now</li>
-                <li>Special Offers and Discounts for you!</li>
-                <li>Sustainability Initiatives</li>
-              </ul>
-            </div> -->
+
           <h4 class="t__28 mb-5 text-dark">
             Custom Website Design and Development
           </h4>
@@ -113,17 +95,7 @@
       <div class="row justify-content-between align-items-center">
 
         <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
-              <h4 class="t__28">
-                Our premium detail package makes your vehicle look & smell
-                like new again,
-              </h4>
-              <ul>
-                <li>Online Booking System now</li>
-                <li>Special Offers and Discounts for you!</li>
-                <li>Sustainability Initiatives</li>
-              </ul>
-            </div> -->
+
           <h4 class="t__28 mb-5 text-dark">
             E-commerce Solutions
           </h4>
@@ -137,20 +109,7 @@
         </div>
       </div>
     </div>
-    <!-- <div class="thred__para pt__50">
-        <h5 class="t__28">Search Engine Marketing (SEM)</h5>
-        <p>
-          SEM involves paid advertising on search engines like Google or Bing to increase your website's visibility in
-          search engine results. With SEM, you can target specific keywords and demographics, allowing you to reach
-          potential customers actively searching for products or services similar to yours.
-        </p> -->
-    <!-- <ul class="d-flex justify-content-between align-items-center flex-wrap gap-3" data-aos="fade-up"
-            data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-            <li>Low Cost Our Fee</li>
-            <li>Available 24 hours</li>
-            <li>Skilled Mechanic</li>
-            <li>Warranty & Maintenance</li>
-          </ul> -->
+
 
     <div class="second__para pt__60">
       <div class="row justify-content-between align-items-center">
@@ -158,17 +117,7 @@
           <img src="assets/img/services/web3.jpg" alt="" class="w-100" />
         </div>
         <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
-            <h4 class="t__28">
-              Our premium detail package makes your vehicle look & smell
-              like new again,
-            </h4>
-            <ul>
-              <li>Online Booking System now</li>
-              <li>Special Offers and Discounts for you!</li>
-              <li>Sustainability Initiatives</li>
-            </ul>
-          </div> -->
+
           <h4 class="t__28 mb-5 text-dark">
             Mobile-Friendly Responsive Design
           </h4>
@@ -179,30 +128,12 @@
 
       </div>
     </div>
-    <!-- <div class="fourt__para">
-      <h5 class="t__28">Social Media Marketing (SMM): </h5>
-      <p>
-        SMM involves promoting your brand and engaging with your audience on various social media platforms such as
-        Facebook, Instagram, Twitter, LinkedIn, and others. Through strategic content creation, community
-        engagement, and targeted advertising, SMM helps build brand awareness, drive website traffic, and foster
-        customer loyalty.
-      </p>
-    </div> -->
+
     <div class="second__para pt__60">
       <div class="row justify-content-between align-items-center">
 
         <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
-            <h4 class="t__28">
-              Our premium detail package makes your vehicle look & smell
-              like new again,
-            </h4>
-            <ul>
-              <li>Online Booking System now</li>
-              <li>Special Offers and Discounts for you!</li>
-              <li>Sustainability Initiatives</li>
-            </ul>
-          </div> -->
+
           <h4 class="t__28 mb-5 text-dark">
             Website Maintenance and Support
           </h4>
@@ -216,31 +147,14 @@
         </div>
       </div>
     </div>
-    <!-- <div class="fourt__para">
-      <h5 class="t__28">Email Marketing </h5>
-      <p>
-        Email marketing is a direct communication channel used to reach out to your target audience through
-        personalized email campaigns. By delivering valuable content, promotions, and updates directly to
-        subscribers' inboxes, email marketing helps nurture leads, retain customers, and drive conversions.
-      </p>
-    </div> -->
+
     <div class="second__para pt__60">
       <div class="row justify-content-between align-items-center">
         <div class="col-md-6 dmcard" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           <img src="assets/img/services/web5.jpg" alt="" class="w-100" />
         </div>
         <div class="col-md-5 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          <!-- <div>
-            <h4 class="t__28">
-              Our premium detail package makes your vehicle look & smell
-              like new again,
-            </h4>
-            <ul>
-              <li>Online Booking System now</li>
-              <li>Special Offers and Discounts for you!</li>
-              <li>Sustainability Initiatives</li>
-            </ul>
-          </div> -->
+
           <h4 class="t__28 mb-5 text-dark">
             Social Media Content Creation
           </h4>
@@ -250,22 +164,114 @@
           <p class="text-dark">Businesses can effectively express their brand message, establish relationships with their audience, and drive engagement and conversions in today's digital market by concentrating on content development across these different mediums.</p>
         </div>
       </div>
-    </div>
-    <!-- <div class="fourt__para">
-      <h5 class="t__28">Pay-Per-Click (PPC) Advertising</h5>
-      <p>
-        PPC advertising involves bidding on keywords and paying a fee each time your ad is clicked. This allows you
-        to display your ads prominently on search engine results pages and other digital platforms, ensuring
-        targeted traffic to your website and maximizing your return on investment (ROI).
-      </p>
-      <p>
-        In today's digital landscape, businesses can boost their online visibility, more effectively reach their
-        target audience, and ultimately drive growth and success by employing these digital marketing services.
-      </p>
     </div> -->
+
 
   </div>
 </article>
+
+
+
+
+
+
+
+
+<div class="container-fluid seo mt-5" style="background-color:#FA991C;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/services/web1.jpg" alt="" class="w-100" />
+      </div>
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-5 text-dark">
+          Custom Website Design and Development
+        </h4>
+        <p class="text-dark">
+          Tailoring a unique and visually captivating website to align with your brand's identity and meet your specific business objectives. By incorporating customized features and design elements, custom website development ensures a memorable online presence that stands out from the competition.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid sem" style="background-color:#D8D9D9;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-5 text-dark">
+          E-commerce Solutions
+        </h4>
+        <p class="text-dark">
+          Building an online store that enables you to showcase and sell your products or services directly to customers. With e-commerce solutions, businesses can create seamless shopping experiences, manage inventory, process transactions securely, and drive sales growth in the digital marketplace.
+
+        </p>
+      </div>
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/services/web2.jpg" alt="" class="w-100" />
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid smm" style="background-color:#14b1bb;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/services/web3.jpg" alt="" class="w-100" />
+      </div>
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-5 text-light
+        ">
+          Mobile-Friendly Responsive Design
+        </h4>
+        <p class="text-light">
+          Optimizing your website to deliver a seamless user experience across various devices, including desktops, tablets, and smartphones. Mobile-friendly responsive design ensures that your website adapts and functions flawlessly on different screen sizes, enhancing accessibility and engagement for mobile users.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid email" style="background-color:#FA991C;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-5 text-dark">
+          Website Maintenance and Support
+        </h4>
+        <p class="text-dark">
+          Providing ongoing maintenance and technical support to keep your website up-to-date, secure, and running smoothly. This includes regular updates, security patches, bug fixes, and troubleshooting to address any issues and ensure optimal performance over time.
+        </p>
+      </div>
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/services/web4.jpg" alt="" class="w-100" />
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid pcc" style="background-color:#032539;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <img src="assets/img/services/web5.jpg" alt="" class="w-100" />
+      </div>
+      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+        <h4 class="t__28 mb-5 text-light">
+          Social Media Content Creation
+        </h4>
+        <p class="text-light">
+          Develop engaging content tailored for social media platforms to attract followers, increase brand awareness, and foster community engagement. From eye-catching graphics and memes to interactive polls and live videos, social media content creation helps humanize your brand, spark conversations, and drive meaningful interactions with your audience.
+        </p>
+        <p class="text-light">Businesses can effectively express their brand message, establish relationships with their audience, and drive engagement and conversions in today's digital market by concentrating on content development across these different mediums.</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
 
 <!-- why Choose start -->
 <!-- <div class="container-fluid mt-5 mb-5">

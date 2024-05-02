@@ -18,7 +18,7 @@
         <h1 data-aos="fade-up  " data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           Turning Brands into icons<br> with expert marketing
         </h1>
-        <p class="text-light" style="font-size: 36px ; color:black;"> Enabling you to become a market competitor.</p>
+        <p class="text-light" style="font-size: 36px ;"> Enabling you to become a market competitor.</p>
 
       </div>
     </div>
@@ -116,7 +116,7 @@
 <!-- vision and mission -->
 <div class="container-fluid vandm">
   <div class="row">
-    <div class="col-lg-6 vm">
+    <div class="col-lg-6 vm bg-light">
       <img src="assets/img/banner/mandv.gif" alt="">
     </div>
     <div class="col-lg-6 vm2">
@@ -397,7 +397,7 @@
       <p> At Luminary Lines, we will help provide marketing and branding services, design, continuously improve, and innovate solutions through proper research and analysis. We will also prove to be a trusted partner that will help your brand in the long run.</p>
     </div>
     <div class="col-lg-6 blogsec2" style="">
-      <img src="assets/img/banner/blog2.jpg" alt="" class="c-img">
+      <img src="assets/img/banner/blog2.jpg" alt="">
     </div>
   </div>
 </div>
