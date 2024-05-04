@@ -39,11 +39,11 @@
         <div class="row">
           <div class="col-md-6" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
             <div class="blogs__wapper_card blogs__2_card">
-              <a href="how-to-increase-website-traffic.php" class="">
+              <a href="from-vision.php" class="">
                 <img src="assets/img/blogs/bl1.jpg" alt="" class="card__thumb" />
               </a>
               <div>
-                <a href="From-Vision.php" class="card__title t__28 text-dak"> From Vision to Reality: Luminary Lines' Role in Branding and Marketing</a>
+                <a href="from-vision.php" class="card__title t__28 text-dak"> From Vision to Reality: Luminary Lines' Role in Branding and Marketing</a>
                 <div class="d-flex card__author">
                   <!-- <p>
                       <img src="assets/icons/user-black.svg" alt="" />
@@ -59,11 +59,11 @@
           </div>
           <div class="col-md-6" data-aos="fade-down" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
             <div class="blogs__wapper_card blogs__2_card">
-              <a href="crafting-compelling-content.php" class="">
+              <a href="boost-your-website.php" class="">
                 <img src="assets/img/blogs/bl2.jpg" alt="" class="card__thumb" />
               </a>
               <div>
-                <a href="Boost-Your-Website's.php" class="card__title t__28">Boost Your Website's Traffic With A Few Tricks
+                <a href="boost-your-website.php" class="card__title t__28">Boost Your Website's Traffic With A Few Tricks
                 </a>
                 <div class="d-flex card__author">
                   <!-- <p>
@@ -80,11 +80,11 @@
           </div>
           <div class="col-md-6" data-aos="fade-down" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
             <div class="blogs__wapper_card blogs__2_card">
-              <a href="designing-your-brand.php" class="">
+              <a href="learn-how-to-make-your-brand.php" class="">
                 <img src="assets/img/blogs/bl3.jpg" alt="" class="card__thumb" />
               </a>
               <div class="text-dark">
-                <a href="Learn-how-to-make-your-Brand.php" class="card__title t__28 ">Learn how to make your Brand Successful with Luminary Line's Mission and Vision
+                <a href="learn-how-to-make-your-brand.php" class="card__title t__28 ">Learn how to make your Brand Successful with Luminary Line's Mission and Vision
                 </a>
                 <div class="d-flex card__author">
                   <!-- <p>
