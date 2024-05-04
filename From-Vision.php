@@ -34,7 +34,7 @@
     <div class="row">
       <div class="col-lg-8">
         <article>
-          <img src="assets/img/blogs/bl2.jpg" alt="" class="w-100 thumb__img" />
+          <img src="assets/img/blogs/bl1.jpg" alt="" class="w-100 thumb__img" />
           <div class="first__para">
             <!-- <ul class="d-flex flex-wrap gap-4">
                 <li>
