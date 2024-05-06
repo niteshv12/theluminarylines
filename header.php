@@ -30,6 +30,74 @@
   <!-- style  me  -->
   <link rel="stylesheet" href="assets/css/style.css" />
   <!-- <link rel="stylesheet" href="assets/css/style.css" /> -->
+  <!-- <style>
+    button.primary {
+      display: inline-block;
+      font-size: 0.8rem;
+      color: #fff !important;
+      background: #333;
+      padding: 13px 25px;
+      border-radius: 17px;
+      transition: background-color 0.1s ease;
+      box-sizing: border-box;
+      transition: all 0.25s ease;
+      border: 0;
+      cursor: pointer;
+      box-shadow: 0 10px 20px -10px #333 50%;
+
+
+    }
+
+    button.primary:hover {
+      box-shadow: 0 20px 20px -10px #333 50%;
+      transform: translateY(-5px);
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
+    }
+
+    dialog {
+      padding: 1rem 3rem;
+      background: white;
+      max-width: 900px;
+      padding-top: 2rem;
+      border-radius: 20px;
+      border: 0;
+      box-shadow: 0 5px 30px 0 rgb(0 0 0 / 10%);
+      animation: fadeIn 1s ease both;
+    }
+
+    dialog::backdrop {
+      animation: fadeIn 0.5 ease both;
+      background: rgb(255 255 255 / 40%);
+      z-index: 2;
+      backdrop-filter: blur(20px);
+    }
+
+    .x {
+      filter: grayscale(1);
+      border: none;
+      background: none;
+      position: absolute;
+      top: 15px;
+      right: 10px;
+      transition: ease filter, transform 0.3s;
+      cursor: pointer;
+      transform-origin: center;
+    }
+
+    .x:hover {
+      filter: grayscale(0);
+      transform: scale(1.1);
+    }
+  </style> -->
 </head>
 
 
@@ -158,16 +226,144 @@
           </li>
         </ul>
         <div class="d-xl-block d-none ms-auto">
-          <a href="#getintouch" class="common__btn_h">
+          <!-- <a href="contact.php" class="common__btn_h">
             <span> Book a meeting</span>
             <img src="assets/icons/arrow-up-right.svg" alt="" />
-          </a>
+          </a> -->
+          <button class="btn common__btn_h" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Book a meeting</button>
         </div>
 
       </div>
     </div>
   </nav>
+  <!-- <button class="primary" onclick="window.dialog.showModal();">Open Dialog</button>
 
+
+
+
+  <dialog id="dialog">
+    <h2>Hello.</h2>
+    <p>A CSS-only modal based on the <a href="https://developer.mozilla.org/es/docs/Web/CSS/::backdrop" target="_blank">::backdrop</a> pseudo-class. Hope you find it helpful.</p>
+    <p>You can also change the styles of the <code>::backdrop</code> from the CSS.</p>
+    <button onclick="window.dialog.close();" aria-label="close" class="x">❌</button>
+  </dialog> -->
+  <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class=" modal-dialog modal-dialog-centered modal-lg" style="border-radius:15px;   background-color:#fff">
+      <div class="modal-content bookmeet ">
+        <div class="modal-header text-center">
+          <h1 class="text-center" style="display: flex; justify-content:center; padding-left:250px;" id="exampleModalToggleLabel">Book A Meeting</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+
+            <div class="col-lg-12 col-12">
+              <div class="contac-form ">
+                <form class="row g-3 needs-validation" novalidate>
+                  <div class="col-md-6">
+                    <label for="validationCustom01" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="validationCustom01" value="" required>
+
+                  </div>
+                  <div class="col-md-6">
+                    <label for="validationCustomUsername" class="form-label">Email</label>
+                    <div class="input-group has-validation">
+                      <!-- <span class="input-group-text" id="inputGroupPrepend">@</span> -->
+                      <input type="text" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" required>
+
+                    </div>
+                  </div>
+
+                  <div class="col-md-6">
+                    <label for="validationCustom03" class="form-label">Company Name </label>
+                    <input type="text" class="form-control" id="validationCustom03" required>
+
+                  </div>
+                  <div class="col-md-6">
+                    <label for="validationCustom04" class="form-label">Project Type</label>
+                    <select class="form-select" id="validationCustom04" required>
+                      <option selected disabled value="">Select The Option</option>
+                      <option>Digital Marketing</option>
+                      <option>Content-Creation</option>
+                      <option>Website Development</option>
+                      <option>Graphic Design</option>
+                      <option>Brand-Identity</option>
+                      <option>Consulting</option>
+                    </select>
+
+                  </div>
+                  <div class="col-md-12 height=200px">
+                    <label for="validationCustom03" class="form-label">Additional Comments</label>
+                    <input type="text" class="form-control" id="validationCustom03" required>
+
+                  </div>
+
+                  <div class="col-12">
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
+                      <label class="form-check-label" for="invalidCheck">
+                        Agree to terms and conditions
+                      </label>
+                      <div class="invalid-feedback">
+                        You must agree before submitting.
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <button class="btn f-btn" type="submit">Submit form</button>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12">
+              <ul class="d-flex justify-content-center gap-3 footer__socals">
+                <li>
+                  <a href="https://www.facebook.com/theluminarylines">
+                    <i class="fa-brands fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/_luminarylines">
+                    <i class="fa-brands fa-x-twitter"></i>
+                  </a>
+                </li>
+
+                <li>
+                  <a href="https://www.instagram.com/luminarylines_official/?igsh=MWNlMjF0N2F1YXVuMA%3D%3D">
+                    <i class="fa-brands fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.linkedin.com/company/luminarylines/">
+                    <i class="fa-brands fa-linkedin-in"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <!-- <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          Hide this modal and show the first with the button below.
+        </div>
+        <div class="modal-footer">
+          <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to first</button>
+        </div>
+      </div>
+    </div>
+  </div> -->
 
 
   <div class="offcanvas offcanvas-start mt-2" data-bs-backdrop="static" tabindex="-1" id="staticBackdrop" aria-labelledby="staticBackdropLabel">

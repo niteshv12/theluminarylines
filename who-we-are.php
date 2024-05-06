@@ -420,11 +420,11 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 blog-mbt">
-        <button class="mt-5 mb-5"><a href="contact.php">
-            <span> Book a meeting</span>
-            <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-          </a>
-        </button>
+        <a href="contact.php">
+          <span> Book a meeting</span>
+          <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+        </a>
+
       </div>
     </div>
   </div>

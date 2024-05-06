@@ -37,10 +37,10 @@
       <div class="banner__content_title-s">
         <h1 data-aos="fade-up text-dark mt-5 ms-5 mt-sm-5 ms-sm-2" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           Services </h1>
-        <div class="d-flex justify-content-center gap-2 banner__content_title-t ">
+        <!-- <div class="d-flex justify-content-center gap-2 banner__content_title-t ">
           <a href="index.php">Home</a>
           <span>/</span> <a href="services.php">Services</a>
-        </div>
+        </div> -->
       </div>
 
     </div>

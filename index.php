@@ -404,12 +404,12 @@
           </span>
           <!-- Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, neque. A natus iusto odit excepturi! </h2> -->
       </div>
-      <div class="col-lg-4 col-md-6 get-btn mt-5">
-        <button class="mt-5" style=""><a href="#getintouch">
-            <span>Book a meeting</span>
-            <!-- <img src="assets/icons/arrow-up-rignt-black.svg" alt="" /> -->
-          </a>
-        </button>
+      <div class="col-lg-4 col-md-6 get-btn ">
+        <a href="#getintouch">
+          <span>Book a meeting</span>
+          <!-- <img src="assets/icons/arrow-up-rignt-black.svg" alt="" /> -->
+        </a>
+
       </div>
     </div>
   </div>
@@ -452,7 +452,7 @@
           </div>
         </div>
       </div>
-      <div class="col  col-lg-4 col-md-6   ">
+      <div class="col-12  col-lg-4 col-md-6   ">
         <div class="card g-0">
           <div class="card-bodys">
             <img src="assets/img/icon/cc.png" alt="" />
@@ -475,7 +475,7 @@
           </div>
         </div>
       </div>
-      <div class="col col-lg-4 col-md-6 ">
+      <div class="col-12 col-lg-4 col-md-6 ">
         <div class=" card g-0">
           <div class="col-12 card-bodys ">
             <img src="assets/img/icon/gp.png" alt="" />
@@ -502,7 +502,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col col-lg-4 col-md-6  ">
+      <div class="col-12 col-lg-4 col-md-6  ">
         <div class="card g-0">
           <div class="card-bodys">
             <img src="assets/img/icon/web.png" alt="" />
@@ -522,7 +522,7 @@
           </div>
         </div>
       </div>
-      <div class="col col-lg-4 col-md-6   ">
+      <div class="col-12 col-lg-4 col-md-6   ">
         <div class="card g-0">
           <div class="card-bodys">
             <img src="assets/img/icon/brand.png" alt="" />
@@ -546,7 +546,7 @@
           </div>
         </div>
       </div>
-      <div class="col col-lg-4 col-md-6   ">
+      <div class="col-12 col-lg-4 col-md-6   ">
         <div class="card g-none">
           <div class="card-bodys">
             <img src="assets/img/icon/comm.png" alt="" />
@@ -1428,7 +1428,7 @@
         In the vast and ever-evolving landscape of branding and marketing, standing out amidst the competition...
       </p>
 
-      <a href="From-Vision.php" class="ab-btn"><span class="mb-5">Read more</span></a>
+      <a href="from-vision.php" class="ab-btn"><span class="mb-5">Read more</span></a>
     </div>
     <div class="col-lg-4 blog-col2b g-0">
       <!-- <img src="assets/img/blogs/b002.jpg" alt=""> -->
@@ -1440,7 +1440,7 @@
         Welcome to Luminary Lines' blog, where we provide actionable insights to help you succeed ...
       </p>
 
-      <a href="Boost-Your-Website's.php" class="ab-btn "><span class="mb-5">Read more</span></a>
+      <a href="boost-your-website.php" class="ab-btn "><span class="mb-5">Read more</span></a>
     </div>
   </div>
 </div>
@@ -1448,11 +1448,11 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 blog-mbt">
-        <button class="mt-5 mb-5"><a href="blog.php">
-            <span>Read More</span>
-            <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-          </a>
-        </button>
+        <a href="blog.php">
+          <span>Read More</span>
+          <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+        </a>
+
       </div>
     </div>
   </div>

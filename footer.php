@@ -23,12 +23,12 @@
     <div class="row footer__lo_co">
       <div class="col-12">
         <div class="d-flex justify-content-center">
-          <a href="" class="d-flex align-items-center footer__logo">
+          <a href="index.php" class="d-flex align-items-center footer__logo">
             <!-- <img src="assets/img/logo_white.svg" alt="" />
               <h5>Digiv</h5> -->
           </a>
         </div>
-        <ul class="d-flex justify-content-center gap-3 footer__socal">
+        <ul class="d-flex justify-content-center gap-3 footer__socals">
           <li>
             <a href="https://www.facebook.com/theluminarylines">
               <i class="fa-brands fa-facebook-f"></i>
@@ -121,7 +121,7 @@
               <a href="faq.php">FAQ's</a>
             </li>
             <li>
-              <a href="blogs.php">Blog's</a>
+              <a href="blog.php">Blog's</a>
             </li>
           </ul>
         </div>
