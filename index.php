@@ -414,13 +414,11 @@
     </div>
   </div>
 </div>
-
-<!--  container3 -->
-<div class="container-fluid source" style="font-family: 'Livvic', sans-serif;">
+<div class="container-fluid g-0 mt-5">
   <div class="container source1">
-    <div class="row text-center text-drak mt-5">
-      <div class="col-12 mt-5 ser-title">
-        <h1>Our Services</h1>
+    <div class="row text-center text-drak ">
+      <div class="col-12  ser-title">
+        <h1>What We Do</h1>
         <!-- <p class="display-5 fw-bold">Our Service</p> -->
         <!-- <p class="lead text-center ">Custom Software
           Development concept to
@@ -429,149 +427,83 @@
       </div>
     </div>
   </div>
-  <div class="container ">
-    <div class="row  my-3 g-4 ">
-      <div class="col-12 col-lg-4 col-md-6  ">
-        <div class="card ">
-          <div class="card-bodys">
-            <img src="assets/img/icon/dm01.png" alt="" />
-            <h2>Digital-Marketing</h2>
-            <ul class="mb-5">
+  <div class="row g-0 mt-5 mx-0 g-none">
+    <div class="col-lg-4
+     g-0">
+      <div class="prot_thumb mx-0 g-none">
+        <div class="we-do-img">
+          <img src="assets/img/services/con.jpg" alt="" class="img-fluid ">
+          <div class="team-overlay">
+            <div class="text-center we-do-content">
+              <!-- <a class="btn btn-light btn-square mx-1" href="https://twitter.com/login"><i class="bi bi-twitter"></i></a>
+              <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
+              <a class="btn btn-light btn-square mx-1" href="https://www.linkedin.com/login"><i class="bi bi-linkedin"></i></a> -->
+              <h2>Services</h2>
+              <p>Enhance your brand with strategic brand management, captivating graphic designs, user-friendly web solutions, and immersive sound experiences.</p>
 
-              <li><span></span>Search Engine Optimization (SEO)</li>
-              <li><span></span>
-                Search Engine Marketing (SEM)
-              </li>
-              <li><span></span>
-                Social Media Marketing (SMM)
-              </li>
-              <li><span></span>Email Marketing</li>
-              <li> <span></span>Pay-Per-Click (PPC) Advertising</li>
-            </ul>
-            <a href="digital-marketing.php" class="mt-5"> Read More</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-12  col-lg-4 col-md-6   ">
-        <div class="card g-0">
-          <div class="card-bodys">
-            <img src="assets/img/icon/cc.png" alt="" />
-            <h2>Content Creation</h2>
-            <ul class="mb-5">
-              <li><span></span>Engaging Copywriting</li>
-              <li><span></span>
-                Compelling Video Production
-              </li>
-              <li><span></span>
-                Stunning Photography
-              </li>
-              <li><span></span>
-                Blog and Article Writing</li>
-              <li><span></span>Social Media Content Creation</li>
-
-            </ul>
-            <a href="content-creation.php" class=" mt-3
-              "> Read More</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-lg-4 col-md-6 ">
-        <div class=" card g-0">
-          <div class="col-12 card-bodys ">
-            <img src="assets/img/icon/gp.png" alt="" />
-            <h2>Graphic Designing
-            </h2>
-            <ul class="mb-5">
-              <li><span></span>Logo Design and Branding</li>
-              <li><span></span>
-                Brochure and Flyer Design
-              </li>
-              <li><span></span>
-                Poster and Banner Design
-              </li>
-              <li>
-                <span></span>Infographics
-              </li>
-              <li>
-                <span></span>Packaging Design
-              </li>
-            </ul>
-            <a href="graphic-design.php" class="mt-3 "> Read More</a>
+              <a href="services.php">Read more</a>
+            </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="row">
-      <div class="col-12 col-lg-4 col-md-6  ">
-        <div class="card g-0">
-          <div class="card-bodys">
-            <img src="assets/img/icon/web.png" alt="" />
-            <h2>Web Development</h2>
-            <ul class="mb-5">
-              <li><span></span>Custom Website Design and Development</li>
-              <li><span></span>
-                E-commerce Solutions
-              </li>
-              <li><span></span>
-                Mobile-Friendly Responsive Design
-              </li>
-              <li><span></span>Website Maintenance and Support</li>
-
-            </ul>
-            <a href="web-development.php" class=" mt-3"> Read More</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-lg-4 col-md-6   ">
-        <div class="card g-0">
-          <div class="card-bodys">
-            <img src="assets/img/icon/brand.png" alt="" />
-            <h2>Brand Identity</h2>
-            <ul class="mb-5">
-              <li>
-                <span></span>Brand Guidelines Development
-              </li>
-              <li>
-                <span></span>Brand Positioning and Messaging
-              </li>
-              <li><span></span>
-                Brand Identity Consultation
-              </li><span></span>
-              <li><span></span>Brand Collateral Design</li>
-              <li><span></span>Brand Recognition</li>
-
-            </ul>
-            <a href="brand-identity.php" class="mt-3
-              "> Read More</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-lg-4 col-md-6   ">
-        <div class="card g-none">
-          <div class="card-bodys">
-            <img src="assets/img/icon/comm.png" alt="" />
-            <h2>Consulting</h2>
-            <ul class="mb-5">
-              <li> <span></span>Strategic Planning</li>
-              <li>
-                <span></span> Market Analysis and Research
-              </li>
-              <li>
-                <span></span> Brand Strategy Development
-              </li>
-              <li><span></span>Digital Marketing Strategy</li>
-              <li><span></span>Campaign Optimization</li>
-            </ul>
-            <a href="consulting.php" class=" mt-3"> Read More</a>
+    <div class="col-lg-4 g-0">
+      <div class="prot_thumb">
+        <div class="we-do-img">
+          <img src="assets/img/services/consult.jpg" alt="" class="img-fluid ">
+          <div class="team-overlay">
+            <div class="text-center we-do-content">
+              <!-- <a class="btn btn-light btn-square mx-1" href="https://twitter.com/login"><i class="bi bi-twitter"></i></a>
+              <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
+              <a class="btn btn-light btn-square mx-1" href="https://www.linkedin.com/login"><i class="bi bi-linkedin"></i></a> -->
+              <h2>Consulting</h2>
+              <p> We provide comprehensive consulting services, including startup support, incubation setup, Centers of Excellence, and Research & Development, to foster innovation and growth.</p>
+              <a href="consult.php">Read more</a>
+            </div>
           </div>
         </div>
       </div>
     </div>
+    <div class="col-lg-4 g-0">
+      <div class="prot_thumb">
+        <div class="we-do-img">
+          <img src="assets/img/services/media.jpg" alt="" class="img-fluid ">
+          <div class="team-overlay">
+            <div class="text-center we-do-content">
+              <!-- <a class="btn btn-light btn-square mx-1" href="https://twitter.com/login"><i class="bi bi-twitter"></i></a>
+              <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
+              <a class="btn btn-light btn-square mx-1" href="https://www.linkedin.com/login"><i class="bi bi-linkedin"></i></a> -->
+              <h2 class="px-5">Media and Promotion</h2>
+              <p>Expert in brand building, consulting, promotion, digital marketing, activation, and events. Unlock your brand's potential!</p>
+              <a href="media&promotion.php">Read more</a>
+            </div>
 
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-
+  <!-- <div class="container mt-5 g-4">
+    <div class="row  text-center ">
+      <div class="col-lg-4 we-do-card">
+        <h3>
+          Consulting
+        </h3>
+      </div>
+      <div class="col-lg-4 we-do-card mx-2">
+        <h3>
+          Marketing
+        </h3>
+      </div>
+      <div class="col-lg-4 we-do-card">
+        <h3>
+          Performance
+        </h3>
+      </div>
+    </div>
+  </div> -->
 </div>
-<!--  container3 -->
+
 <!-- <div class="container">
   <div class="row">
     <ul class="partner4">
@@ -1449,7 +1381,7 @@
     <div class="row">
       <div class="col-lg-12 blog-mbt">
         <a href="blog.php">
-          <span>Read More</span>
+          <span>More Blogs</span>
           <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
         </a>
 

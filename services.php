@@ -30,12 +30,12 @@
   </section> -->
 <!-- --------------- End page header ----------- -->
 <div class="container-fluid header-to">
-  <img src="assets/img/banner/ser.jpg" alt="" class="c-img d-lg-block d-none">
+  <img src="assets/img/services/servies.jpg" alt="" class="c-img d-lg-block d-none">
   <div class="row">
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
 
       <div class="banner__content_title-s">
-        <h1 data-aos="fade-up text-dark mt-5 ms-5 mt-sm-5 ms-sm-2" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+        <h1 class="d-lg-none d-block" data-aos="fade-up text-dark mt-5 ms-5 mt-sm-5 ms-sm-2" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
           Services </h1>
         <!-- <div class="d-flex justify-content-center gap-2 banner__content_title-t ">
           <a href="index.php">Home</a>
@@ -54,14 +54,17 @@
     <div class="row">
       <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
         <div class="service__card">
-          <a href="digital-marketing.php" class="ilink">
-            <img src="assets/img/icon/dm01.png" alt="" /></a>
+          <a href="sound-design.php" class="ilink">
+            <!-- <img src="assets/img/icon/dm01.png" alt="" /> -->
+            <i class="fa-solid fa-file-audio"></i>
+          </a>
           <!-- <i class="fa-solid fa-chart-simple"></i> -->
-          <a href="digital-marketing.php">
-            <h3 class="t_28">Digital-Marketing
+          <a href="sound-design.php">
+            <h3 class="t_28">Sound Designing
             </h3>
           </a>
-          <ul class="mt-5 mb-5">
+
+          <!-- <ul class="mt-5 mb-5">
             <li>Search Engine Optimization (SEO)</li>
             <li>
               Search Engine Marketing (SEM)
@@ -71,8 +74,11 @@
             </li>
             <li>Email Marketing</li>
             <li>Pay-Per-Click (PPC) Advertising</li>
-          </ul>
-          <a href="digital-marketing.php">
+          </ul> -->
+          <p class="mt-2 mb-3">With our sound designing expertise, we help you create immersive auditory experiences that complement your brand's identity. Whether it's for multimedia presentations, podcasts, or commercials, we ensure that your brand's sound resonates with your audience on a deeper level.
+
+          </p>
+          <a href="sound-design.php">
             <span>View More Details</span>
             <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
           </a>
@@ -81,12 +87,15 @@
       <div href="content-creation.php" class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0" data-aos-duration="1000">
 
         <div class="service__card">
-          <a href="content-creation.php" class="ilink"><img src="assets/img/icon/cc.png" alt="" /></a>
+          <a href="mix-mastering.php" class="ilink">
 
-          <a href="content-creation.php">
-            <h3 class="t__28">Content Creation</h3>
+            <i class="fa-solid fa-sliders"></i>
           </a>
-          <ul class="mt-5 mb-5">
+
+          <a href="mix-mastering.php">
+            <h3 class="t__28">Mix and Mastering</h3>
+          </a>
+          <!-- <ul class="mt-5 mb-5">
             <li>Engaging Copywriting</li>
             <li>
               Compelling Video Production
@@ -96,8 +105,9 @@
             </li>
             <li>Blog and Article Writing</li>
             <li>Social Media Content Creation</li>
-          </ul>
-          <a href="content-creation.php">
+          </ul> -->
+          <p class="mt-2 mb-3">Our music production services cater to your brand's audio needs, whether you require original compositions, jingles, or soundtracks. We collaborate with talented composers and musicians to produce high-quality music that enhances your brand's storytelling and captivates your audience.</p>
+          <a href="mix-mastering.php">
             <span>View More Details</span>
             <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
           </a>
@@ -107,11 +117,17 @@
       <div class="col-xl-4 col-md-6 mb-5" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0" data-aos-duration="1000">
         <div class="service__card">
           <a href="graphic-design.php" class="ilink">
-            <img src="assets/img/icon/gp.png" alt="" /></a>
+            <!-- <img src="assets/img/icon/gp.png" alt="" /> -->
+            <i class="fa-solid fa-pen-fancy"></i>
+          </a>
           <a href="graphic-design.php">
             <h3 class="t__28">Graphic Designing</h3>
           </a>
-          <ul class="mt-5 mb-5">
+          <p class="mt-2 mb-3">
+            Our talented graphic designers bring your brand's visual identity to life with captivating designs that reflect your brand ethos. From logos and branding collateral to marketing materials and packaging, we create visually appealing assets that leave a lasting impression.
+
+          </p>
+          <!-- <ul class="mt-5 mb-5">
             <li>Logo Design and Branding</li>
             <li>
               Brochure and Flyer Design
@@ -121,7 +137,7 @@
             </li>
             <li>Infographics</li>
             <li>Packaging Design</li>
-          </ul>
+          </ul> -->
           <a href="graphic-design.php">
             <span>View More Details</span>
             <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
@@ -130,12 +146,18 @@
       </div>
       <div class="col-xl-4 col-md-6 mb-5 mb-md-0" data-aos="fade-up" data-aos-delay="400" data-aos-offset="0" data-aos-duration="1000">
         <div class="service__card">
-          <a href="web-development.php" class="ilink">
-            <img src="assets/img/icon/web.png" alt="" /></a>
-          <a href="web-development.php">
-            <h3 class="t__28">Web Development</h3>
+          <a href="web-design.php" class="ilink">
+            <!-- <img src="assets/img/icon/web.png" alt="" /> -->
+            <i class="fa-solid fa-computer"></i>
           </a>
-          <ul class="mt-5 mb-5">
+          <a href="web-design.php">
+            <h3 class="t__28">Web Designing</h3>
+          </a>
+          <p class="mt-2 mb-3">
+            We craft stunning and user-friendly websites that not only showcase your brand's offerings but also provide an exceptional online experience for your customers. Our web design services focus on aesthetics, functionality, and responsiveness to drive engagement and conversions.
+
+          </p>
+          <!-- <ul class="mt-5 mb-5">
             <li>Custom Website Design and Development</li>
             <li>
               E-commerce Solutions
@@ -145,8 +167,8 @@
             </li>
             <li>Website Maintenance and Support</li>
 
-          </ul>
-          <a href="web-development.php">
+          </ul> -->
+          <a href="web-design.php">
             <span>View More Details</span>
             <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
           </a>
@@ -154,12 +176,17 @@
       </div>
       <div class="col-xl-4 col-md-6 mb-5 mb-md-0" data-aos="fade-up" data-aos-delay="500" data-aos-offset="0" data-aos-duration="1000">
         <div class="service__card">
-          <a href="brand-identity.php" class="ilink">
-            <img src="assets/img/icon/brand.png" alt="" /></a>
-          <a href="brand-identity.php">
-            <h3 class="t__28">Brand Identity</h3>
+          <a href="brand-management.php" class="ilink">
+            <!-- <img src="assets/img/icon/brand.png" alt="" /> -->
+            <i class="fa-solid fa-handshake"></i>
           </a>
-          <ul class="mt-5 mb-5">
+          <a href="brand-management.php">
+            <h3 class="t__28">Brand Management</h3>
+          </a>
+          <p class="mt-2 mb-5">
+            Our expert team specializes in strategic brand management, ensuring your brand message resonates effectively with your target audience. From brand positioning to identity development, we provide tailored solutions to enhance brand recognition and loyalty.
+          </p>
+          <!-- <ul class="mt-5 mb-5">
             <li>Brand Guidelines Development</li>
             <li>
               Brand Positioning and Messaging
@@ -169,14 +196,14 @@
             </li>
             <li>Brand Collateral Design</li>
 
-          </ul>
-          <a href="brand-identity.php">
+          </ul> -->
+          <a href="brand-management.php">
             <span>View More Details</span>
             <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
           </a>
         </div>
       </div>
-      <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0" data-aos-duration="1000">
+      <!-- <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0" data-aos-duration="1000">
         <div class="service__card">
           <a href="consulting.php" class="ilink">
             <img src="assets/img/icon/comm.png" alt="" /></a>
@@ -199,7 +226,7 @@
             <img src="assets/img/services/Frame_17.svg" alt="" class="up__icon" />
           </a>
         </div>
-      </div>
+      </div> -->
     </div>
 
     <!-- <div class="custom__pagination" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
@@ -221,6 +248,10 @@
       </div> -->
   </div>
 </section>
+
+<!-- <div class="container-fluid" style="width: 100%; height:400px; object-fit:cover;">
+  <img src="assets/img/banner/bbg2.jpg" alt="">
+</div> -->
 
 <!-- --------------- start Footer ----------- -->
 <?php include('footer.php'); ?>

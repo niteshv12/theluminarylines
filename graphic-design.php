@@ -7,7 +7,7 @@
 <!-- <img src="assets/img/services/gd1.jpg" alt="" class="top-img"> -->
 
 <div class="container-fluid header-to">
-  <img src="assets/img/services/gd1.jpg" alt="" class="c-img  d-lg-block d-none">
+  <img src="assets/img/services/Graphic.jpg" alt="" class="c-img  d-lg-block d-none">
   <!-- <img src="assets/img/banner/hm.png " alt="" class="mb-show d-sm-block d-none" style="height: 400px;"> -->
   <div class="row">
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
@@ -301,47 +301,32 @@
     </div>
   </div> -->
 <!-- why Choose end -->
-<div class="conatiner-fluid mt-5">
+
+<!--  End service details -->
+<!-- <hr class="" style="color: #FA991C;"> -->
+<div class="container-fluid blog-more">
   <div class="container">
-    <div class="row text-center">
-      <h1 style="font-size: 56px;">A Look Inside Our Work Process
-      </h1>
-      <p class="text-dark mt-4 mb-4">
-        We believe in collaboration, creativity, and results. We start by understanding your brand's needs, then unleash our creativity to deliver tailored solutions. With open communication and continuous optimization, we ensure your success every step of the way.
-      </p>
-    </div>
-  </div>
-  <div class="container mt-5">
     <div class="row">
-      <div class="col-md-6 work">
-        <img src="assets/img/services/wework.jpg" alt="">
-      </div>
-      <div class="col-md-6">
-        <h5 class="mb-2 mt-4 fw-bold"> Outlining Success with Strategic Planning</h5>
-        <p class="text-dark">Our team conducts thorough research and analysis to develop a strategic plan customized to your brand's objectives. This plan serves as the roadmap for our collaboration.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Creative Brainstorms That Work</h5>
-        <p class="text-dark">We unleash our creativity to develop innovative ideas and concepts that resonate with your target audience. Our goal is to create compelling content and designs that capture attention and drive engagement.</p>
-        <h5 class="mb-2 mt-4 fw-bold">The Path to Endless Improvement
-        </h5>
-        <p class="text-dark">We continuously monitor and optimize our strategies and campaigns to maximize results. Whether it's adjusting advertising tactics or refining branding elements, we're committed to delivering ongoing success for your brand.</p>
-        <h5 class="mb-2 mt-4 fw-bold"> Clear and Honest Reporting</h5>
-        <p class="text-dark">We provide transparent and comprehensive reporting on the performance of our campaigns and initiatives. This allows you to track progress, measure success, and make informed decisions for your brand.</p>
+      <div class="col-lg-12 blog-mbt">
+        <!-- <a href="contact.php">
+          <span> Book a meeting</span>
+          <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+        </a> -->
+        <button class="btn common__btn_h" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Book a meeting</button>
       </div>
     </div>
   </div>
 </div>
-<!--  End service details -->
-<hr class="" style="color: #FA991C;">
 <!-- --------------- Start services ----------- -->
-<section class="testimonial py__60 " style="margin-bottom:200px; background-color:#FBF3F2;" id="">
+<!-- <section class="testimonial py__60 " style="margin-bottom:200px; background-color:#FBF3F2;" id="">
   <div class="container position-relative">
-    <!-- title Start -->
+    title Start
     <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
       <h1 class="title-testimonials text-center text-dark">
         More Services
       </h1>
     </div>
-    <!-- title End -->
+    title End
 
     <div class="services__wapper" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
       <div class="ser-row mt-5">
@@ -354,8 +339,7 @@
             </div>
             <div class="car-tag">
               <a href="digital-marketing.php">
-                <!-- <i class="fa-solid fa-chart-simple"></i> -->
-                <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
+
                 <h2>Digital Marketing</h2>
               </a>
             </div>
@@ -509,7 +493,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- --------------- End services ----------- -->
 <!-- --------------- start Footer ----------- -->
 <?php include('footer.php'); ?>

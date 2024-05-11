@@ -116,7 +116,7 @@
 <!-- vision and mission -->
 <div class="container-fluid vandm">
   <div class="row">
-    <div class="col-lg-6 vm bg-light">
+    <div class="col-lg-6  g-0 vm bg-light">
       <img src="assets/img/banner/mandv.gif" alt="">
     </div>
     <div class="col-lg-6 vm2">
@@ -393,10 +393,10 @@
 <div class="container-fluid blogsec">
   <div class="row">
     <div class="col-lg-6 blogsec1">
-      <h2> Why Choose Luminary Lines?</h2>
+      <h2> Why To Choose Luminary Lines?</h2>
       <p> At Luminary Lines, we will help provide marketing and branding services, design, continuously improve, and innovate solutions through proper research and analysis. We will also prove to be a trusted partner that will help your brand in the long run.</p>
     </div>
-    <div class="col-lg-6 blogsec2" style="">
+    <div class="col-lg-6 blogsec2 g-0" style="">
       <img src="assets/img/banner/blog2.jpg" alt="">
     </div>
   </div>
@@ -420,11 +420,11 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 blog-mbt">
-        <a href="contact.php">
+        <!-- <a href="contact.php">
           <span> Book a meeting</span>
           <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
-        </a>
-
+        </a> -->
+        <button class="btn common__btn_h" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Book a meeting</button>
       </div>
     </div>
   </div>

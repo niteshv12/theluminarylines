@@ -183,12 +183,12 @@
           </li>
           <li class="dropdown__container ms-4">
             <div class="d-flex justify-content-between align-items-center ga">
-              <a href="who-we-are.php">Who We Are? </a>
+              <a href="who-we-are.php">About Us </a>
             </div>
           </li>
 
 
-          <li class="dropdown ms-4 ga"><a href="services.php"><span>Services </span></a>
+          <li class="dropdown ms-4 ga"><a href="what-we-do.php"><span>What We Do </span></a>
             <!-- <ul>zzz z 
             <li><a href="digital-marketing.php">Digital Marketing</a></li>
             <li><a href="content-creation.php">Content Creation</a></li>
@@ -251,14 +251,14 @@
     <div class=" modal-dialog modal-dialog-centered modal-lg" style="border-radius:15px;   background-color:#fff">
       <div class="modal-content bookmeet ">
         <div class="modal-header text-center">
-          <h1 class="text-center" style="display: flex; justify-content:center; padding-left:250px;" id="exampleModalToggleLabel">Book A Meeting</h1>
+          <h1 class="text-center" style="" id="exampleModalToggleLabel">Book a Meeting</h1>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="row">
 
             <div class="col-lg-12 col-12">
-              <div class="contac-form ">
+              <div class="get-form ">
                 <form class="row g-3 needs-validation" novalidate>
                   <div class="col-md-6">
                     <label for="validationCustom01" class="form-label">Name</label>
@@ -336,8 +336,13 @@
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.linkedin.com/company/luminarylines/">
+                  <a href="https://www.linkedin.com/company/luminarylinesofficial/">
                     <i class="fa-brands fa-linkedin-in"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.youtube.com/channel/UC-_8AuvPX_DoYQ862TKyJ1Q">
+                    <i class="fa-brands fa-youtube"></i>
                   </a>
                 </li>
               </ul>

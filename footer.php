@@ -28,7 +28,7 @@
               <h5>Digiv</h5> -->
           </a>
         </div>
-        <ul class="d-flex justify-content-center gap-3 footer__socals">
+        <ul class="d-flex justify-content-center gap-3 footer__socal">
           <li>
             <a href="https://www.facebook.com/theluminarylines">
               <i class="fa-brands fa-facebook-f"></i>
@@ -46,8 +46,13 @@
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/company/luminarylines/">
+            <a href="https://www.linkedin.com/company/luminarylinesofficial/">
               <i class="fa-brands fa-linkedin-in"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/channel/UC-_8AuvPX_DoYQ862TKyJ1Q">
+              <i class="fa-brands fa-youtube"></i>
             </a>
           </li>
         </ul>
@@ -80,12 +85,12 @@
             <li>
               <img src="assets/icons/Frame (5).svg" alt="" />
               <p class="text-light" style="color: #fff;">
-                info@theluminarylines.com
+                luminary.mesc@gmail.com
               </p>
             </li>
             <li>
               <img src="assets/icons/Frame (6).svg" alt="" />
-              <p style="color: #fff;">+91 7428599745 | 011 49048335</p>
+              <p style="color: #fff;">+91 7428988585| 011 49048335</p>
             </li>
             <!-- <li>
                 <img src="assets/icons/Frame (7).svg" alt="" />
@@ -105,7 +110,7 @@
               <a href="services.php">Our All Services</a>
             </li>
             <li>
-              <a href="who-we-are.php">Who We Are</a>
+              <a href="who-we-are.php">About Us</a>
             </li>
           </ul>
         </div>

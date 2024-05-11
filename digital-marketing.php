@@ -8,18 +8,18 @@
 <!-- --------------- End Header ------------ -->
 <!-- <img src="assets/img/services/digital1.jpg" alt="" class="top-img"> -->
 <div class="container-fluid header-to">
-  <img src="assets/img/services/digital1.jpg" alt="" class="c-img  d-lg-block d-none">
+  <img src="assets/img/media/diogital-markting.jpg" alt="" class="c-img  d-lg-block d-none">
   <!-- <img src="assets/img/banner/hm.png " alt="" class="mb-show d-sm-block d-none" style="height: 400px;"> -->
   <div class="row">
     <div class="col-12 d-flex justify-content-xl-between justify-content-center align-items-center">
 
       <div class="banner__content_title-w d-sm-none d-block">
         <h1 data-aos="fade-up text-dark mt-5" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-          Digital-Marketing </h1>
-        <div class="d-flex justify-content-center gap-2">
+          Digital Marketing </h1>
+        <!-- <div class="d-flex justify-content-center gap-2">
           <a href="index.php">Home</a>
           <span class="text-light">/</span> <a href="services.php">Services</a><span class="text-light">/</span> <a href="digital-marketing.php">Digital-Marketing</a>
-        </div>
+        </div> -->
       </div>
 
     </div>
@@ -79,15 +79,14 @@
     <!-- <img src="assets/img/services/s1.jpg" alt="" class="w-100 thumb__img" /> -->
     <div class="first__para pt__60">
       <h2 class="t__54 text-dark" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        Reaching Customers Online
+        Examining the Digital Marketing Services at Our Company
 
       </h2>
       <p>
-        Digital Marketing Services involve leveraging various digital channels and tactics to effectively promote your
-        brand, products, or services to your target audience. This encompasses a range of strategies, including Search
-        Engine Optimization (SEO), Search Engine Marketing (SEM), Social Media Marketing (SMM), email marketing, and
-        Pay-Per-Click (PPC) advertising.
+
+        In today's digital age, businesses are constantly attempting to establish a strong online presence. Whether you're a startup looking to make your mark or an established enterprise seeking to expand your reach, digital marketing has become the foundation of success. At Luminary Lines, we understand the major role that effective digital marketing plays in driving business growth. That's why we're dedicated to providing a detailed list of digital marketing services that specifically created to meet the various needs of our clients
       </p>
+
       <!-- <h4 class="t__28 mt-5">
           Search Engine Optimization (SEO)
         </h4>
@@ -246,328 +245,108 @@
     </div>
   </div> -->
 <!-- why Choose end -->
-<div class="container-fluid seo mt-5" style="background-color:#FA991C;">
+<div class="container-fluid seo mt-5" style="background-color:#14B1BB;">
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <img src="assets/img/serbanner/seo.gif" alt="" class="w-100 " />
+        <img src="assets/img/gif/dm.webp" alt="" class="w-100" />
       </div>
       <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
 
-        <h4 class="t__28 mb-3 text-dark">
-          Simple Secrets of Search Engine Optimization (SEO)
 
-        </h4>
-        <p class="text-dark">
-          This involves optimizing your website to improve its visibility and ranking on search engine results pages
-          (SERPs). Through strategic techniques such as keyword research, on-page optimization, and link building,
-          SEO
-          aims to increase organic traffic to your website and enhance its authority in search engine algorithms.
+        <p class="text-light " style="font-size:20px; line-height:36px; font-weight:500;">
+
+          At Luminary Lines, we understand the unique challenges and opportunities that startups encounter. Our comprehensive consultation services are made to meet the various needs of startups at every stage of their growth. Let’s dive deep into how our consulting services help startups to navigate the complex world of business.
+
         </p>
       </div>
     </div>
   </div>
 </div>
-<div class="container-fluid sem" style="background-color:#D8D9D9;">
+<div class="continer-fluid">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+      <div class="col-12">
+        <ul class="ser-li">
+          <li><span class="">Strategic Planning and Consultation
+              -</span>
+            The journey to digital success begins with a solid strategy. Our team of seasoned digital marketers starts by understanding your business objectives, target audience, and market landscape. Through in-depth consultations and market research, at Luminary Lines, we create customized digital marketing strategies designed to increase your results and achieve long-term success.
 
-        <h4 class="t__28 mb-3 text-dark">
-          The Basics of Search Engine Marketing (SEM)
-        </h4>
-        <p class="text-dark">
-          SEM involves paid advertising on search engines like Google or Bing to increase your website's visibility
-          in
-          search engine results. With SEM, you can target specific keywords and demographics, allowing you to reach
-          potential customers actively searching for products or services similar to yours.
-        </p>
-      </div>
-      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <img src="assets/img/serbanner/what-is-sem.gif" alt="" class="w-100" />
+          </li>
+          <li><span>
+              Search Engine Optimization (SEO) - </span>
+          </li>
+          <li><span>Pay-Per-Click (PPC) Advertisings
+              -</span>
+            For instant visibility and targeted traffic, PPC advertising is unmatched. Our certified PPC specialists create and manage high-impact campaigns across various platforms, including Google Ads, Bing Ads, and social media channels. Through carefully selected keywords, compelling ad copy, and continuous optimization, at Luminary Lines, we ensure maximum click-through rates and conversions while minimizing your advertising costs.
+          </li>
+          <li><span>Social Media Marketing (SMM)
+              -</span>With billions of active users, social media platforms offer unparalleled opportunities for brand exposure and engagement. Our SMM experts develop data-driven strategies to enhance your brand presence across popular platforms such as Facebook, Instagram, Twitter, LinkedIn, and more. From content creation and community management to paid social advertising, at Luminary Lines, we help you connect with your target audience, build meaningful relationships, and drive measurable results.
+
+
+          </li>
+          <li><span>
+              Content Marketing
+              -</span>Compelling content lies at the heart of every successful digital marketing campaign. Our content creators specialize in crafting engaging, informative, and shareable content that resonates with your audience. Whether it's blog posts, articles, infographics, or videos, at Luminary Lines, we deliver content that not only educates and entertains but also drives traffic, leads, and conversions.
+
+          </li>
+          <li><span>
+              Email Marketing
+              -</span>
+
+            Utilizing the power of email marketing, Luminary Lines help you nurture leads, retain customers, and drive repeat business. Our email marketing specialists design eye-catching templates, seperate your audience, and create personalized email campaigns that deliver the right message to the right people at the right time. Through content comparison, performance tracking, and automation, at Luminary Lines, we continuously optimize your email marketing efforts for maximum effectiveness.
+
+          </li>
+          <li><span>
+              Analytics and Reporting
+              -</span>In the world of digital marketing, data is important. Our team utilizes advanced analytics tools to track and analyze important standards of performance across all marketing channels. From website traffic and conversion rates to profits and customer engagement, Luminary Lines provide detailed reports that offer valuable insights into your campaign's performance. By using data-driven insights, at Luminary Lines, we identify areas for improvement and refine your digital marketing strategies for better results.
+
+          </li>
+          <!-- <li><span>
+              Paid Advertising Campaigns
+              -</span>Supplementing organic efforts with targeted paid advertising campaigns can exponentially boost your brand’s visibility and conversion rates. Whether it’s through pay-per-click (PPC) advertising, display ads, or social media ads, our team develops campaigns that deliver maximum results. By carefully analyzing audience behavior and campaign performance, we optimize ad spending to ensure every dollar generates tangible results.
+          </li> -->
+          <!-- <li><span>
+
+              Brand Monitoring and Reputation Management
+              -</span>
+            Maintaining a positive brand image is essential in today’s era of instant communication and viral trends. Our brand monitoring and reputation management services consists of continuous monitoring of online conversations, social media mentions, and customer reviews. Through proactive engagement and strategic interventions, we make sure your brand’s reputation stays positive.
+
+          </li> -->
+        </ul>
       </div>
     </div>
   </div>
 </div>
-<div class="container-fluid smm" style="background-color:#14b1bb;">
+<div class="container-fluid seo mt-5" style="background-color:#14B1BB;">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <img src="assets/img/serbanner/smm.gif" alt="" class="w-100" />
-      </div>
-      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
 
-        <h4 class="t__28 mb-3 text-dark">
-          Social Media Marketing (SMM) for Success
-        </h4>
-        <p class="text-dark">
-          SMM involves promoting your brand and engaging with your audience on various social media platforms such
-          as
-          Facebook, Instagram, Twitter, LinkedIn, and others. Through strategic content creation, community
-          engagement, and targeted advertising, SMM helps build brand awareness, drive website traffic, and foster
-          customer loyalty.
+      <div class="col-md-12 col-lg-12 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
+
+
+        <p class="text-light" style="font-size:24px; line-height:36px; font-weight:500;">
+          In conclusion, digital marketing is not just about implementing tactics; it's about crafting a strategy that aligns with your business goals and speaks to your target audience. At Luminary Lines, we're committed to delivering results-driven digital marketing solutions that help push your business to new heights.
         </p>
       </div>
     </div>
   </div>
 </div>
-<div class="container-fluid email" style="background-color:#FA991C;">
+<div class="container-fluid blog-more" style="background-color: #032539;">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-
-        <h4 class="t__28 mb-3 text-dark">
-          Mastering Email Marketing
-        </h4>
-        <p class="text-dark">
-          Email marketing is a direct communication channel used to reach out to your target audience through
-          personalized email campaigns. By delivering valuable content, promotions, and updates directly to
-          subscribers' inboxes, email marketing helps nurture leads, retain customers, and drive conversions.
-        </p>
-      </div>
-      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <img src="assets/img/serbanner/email.gif" alt="" class="w-100" />
+      <div class="col-lg-12 blog-mbt">
+        <!-- <a href="contact.php">
+          <span> Book a meeting</span>
+          <img src="assets/icons/arrow-up-rignt-black.svg" alt="" />
+        </a> -->
+        <button class="btn common__btn_h" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Book a meeting</button>
       </div>
     </div>
   </div>
 </div>
-<div class="container-fluid pcc" style="background-color:#032539;">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 col-lg-6 dm-ser" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-        <img src="assets/img/serbanner/ppc.gif" alt="" class="w-100" />
-      </div>
-      <div class="col-md-6 col-lg-6 dm-title" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-
-        <h4 class="t__28 mb-3 text-light">
-          Pay Only for Results with Pay-Per-Click (PPC) Advertising
-        </h4>
-        <p class="text-light">
-          PPC advertising involves bidding on keywords and paying a fee each time your ad is clicked. This allows
-          you
-          to display your ads prominently on search engine results pages and other digital platforms, ensuring
-          targeted traffic to your website and maximizing your return on investment (ROI).
-        </p>
-        <p class="text-light">
-          In today's digital landscape, businesses can boost their online visibility, more effectively reach their
-          target audience, and ultimately drive growth and success by employing these digital marketing services.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="conatiner-fluid mb-5 mt-5">
-  <div class="container">
-    <div class="row text-center">
-      <h1 style="font-size: 56px;">A Look Inside Our Work Process
-      </h1>
-      <p class="text-dark mt-4 mb-4">
-        We believe in collaboration, creativity, and results. We start by understanding your brand's needs, then unleash our creativity to deliver tailored solutions. With open communication and continuous optimization, we ensure your success every step of the way.
-      </p>
-    </div>
-  </div>
-  <div class="container mt-5">
-    <div class="row">
-      <div class="col-md-6 work">
-        <img src="assets/img/services/wework.jpg" alt="">
-      </div>
-      <div class="col-md-6  ">
-        <h5 class="mb-2 mt-4 fw-bold"> Outlining Success with Strategic Planning
-        </h5>
-        <p class="text-dark">Our team conducts thorough research and analysis to develop a strategic plan customized to your brand's objectives. This plan serves as the roadmap for our collaboration.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Creative Brainstorms That Work
-        </h5>
-        <p class="text-dark">We unleash our creativity to develop innovative ideas and concepts that resonate with your target audience. Our goal is to create compelling content and designs that capture attention and drive engagement.</p>
-        <h5 class="mb-2 mt-4 fw-bold">The Path to Endless Improvement
-        </h5>
-        <p class="text-dark">We continuously monitor and optimize our strategies and campaigns to maximize results. Whether it's adjusting advertising tactics or refining branding elements, we're committed to delivering ongoing success for your brand.</p>
-        <h5 class="mb-2 mt-4 fw-bold">Clear and Honest Reporting</h5>
-        <p class="text-dark">We provide transparent and comprehensive reporting on the performance of our campaigns and initiatives. This allows you to track progress, measure success, and make informed decisions for your brand.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<hr class="" style="color: #FA991C;">
+<!-- <hr class="" style="color: #FA991C;"> -->
 <!-- --------------- Start services ----------- -->
-<section class="testimonial py__60 " style="margin-bottom:200px; background-color:#FBF3F2;" id="">
-  <div class="container position-relative">
-    <!-- title Start -->
-    <div class="testimonial__title" data-aos="fade-down" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-      <h1 class="title-testimonials text-center text-dark">
-        More Services
-      </h1>
-    </div>
-    <!-- title End -->
-
-    <div class="services__wapper" data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" data-aos-duration="1000">
-      <div class="ser-row mt-5">
-        <div>
-          <div class="slidess">
-            <div class="car-img">
-              <a href="digital-marketing.php">
-                <img src="assets/img/icon/dm01.png" alt="" />
-              </a>
-            </div>
-            <!-- <i class="fa-solid fa-chart-simple"></i> -->
-            <!-- <img src="assets/img/banner/web.png" alt="" width="26px"> -->
-            <div class="car-tag">
-              <a href="digital-marketing.php">
-                <h2>Digital Marketing</h2>
-              </a>
-            </div>
-            <ul class="mb-5">
-              <li>Search Engine Optimization (SEO)</li>
-              <li>
-                Search Engine Marketing (SEM)
-              </li>
-              <li>
-                Social Media Marketing (SMM)
-              </li>
-              <li>Email Marketing</li>
-              <li>Pay-Per-Click (PPC) Advertising</li>
-            </ul>
-            <a href="digital-marketing.php" class="mt-5"> Read More</a>
-          </div>
-        </div>
-        <div>
-          <div class="slidess">
-            <div class="car-img">
-              <a href="content-creation.php">
-                <img src="assets/img/icon/cc.png" alt="" />
-              </a>
-            </div>
-            <div class="car-tag">
-              <a href="content-creation.php">
-                <h2>Content Creation</h2>
-              </a>
-            </div>
-            <ul class="mb-5">
-              <li>Engaging Copywriting</li>
-              <li>
-                Compelling Video Production
-              </li>
-              <li>
-                Stunning Photography
-              </li>
-              <li>Blog and Article Writing</li>
-              <li>Social Media Content Creation</li>
-            </ul>
-            <a href="content-creation.php" class=" mt-3
-              "> Read More</a>
-          </div>
-        </div>
-        <div>
-          <div class="slidess">
-            <div class="car-img">
-              <a href="graphic-design.php">
-                <img src="assets/img/icon/gp.png" alt="" />
-              </a>
-            </div>
-            <div class="car-tag">
-              <a href="graphic-design.php">
-                <h2>Graphic Designing</h2>
-              </a>
-            </div>
-            <ul class="mb-5">
-              <li>Logo Design and Branding</li>
-              <li>
-                Brochure and Flyer Design
-              </li>
-              <li>
-                Poster and Banner Design
-              </li>
-              <li>Infographics</li>
-              <li>Packaging Design</li>
-            </ul>
-            <a href="graphic-design.php" class="mt-3 "> Read More</a>
-          </div>
-        </div>
-        <div>
-          <div class="slidess">
-            <div class="car-img">
-              <a href="web-development.php">
-                <img src="assets/img/icon/web.png" alt="" />
-              </a>
-            </div>
-            <div class="car-tag">
-              <a href="web-development.php">
-                <h2>Web Development</h2>
-              </a>
-            </div>
-            <ul class="mb-5">
-              <li>Custom Website Design and Development</li>
-              <li>
-                E-commerce Solutions
-              </li>
-              <li>
-                Mobile-Friendly Responsive Design
-              </li>
-              <li>Website Maintenance and Support</li>
-
-            </ul>
-            <a href="web-development.php" class=" mt-3"> Read More</a>
-          </div>
-        </div>
-        <div>
-          <div class="slidess">
-            <div class="car-img">
-              <a href="brand-identity.php">
-                <img src="assets/img/icon/brand.png" alt="" />
-              </a>
-            </div>
-            <div class="car-tag">
-              <a href="brand-identity.php">
-                <h2>Brand Identity</h2>
-              </a>
-            </div>
-            <ul class="mb-5">
-              <li>Brand Guidelines Development</li>
-              <li>
-                Brand Positioning and Messaging
-              </li>
-              <li>
-                Brand Identity Consultation
-              </li>
-              <li>Brand Collateral Design</li>
-              <li>Brand Recognition</li>
-
-            </ul>
-            <a href="brand-identity.php" class="mt-3
-              "> Read More</a>
-          </div>
-        </div>
-        <div>
-          <div class="slidess">
-            <div class="car-img">
-              <a href="consulting.php">
-                <img src="assets/img/icon/comm.png" alt="" />
-              </a>
-            </div>
-            <div class="car-tag">
-              <a href="consulting.php">
-                <h2>Consulting</h2>
-              </a>
-            </div>
-            <ul class="mb-5">
-              <li> <span></span>Strategic Planning</li>
-              <li>
-                Market Analysis and Research
-              </li>
-              <li>
-                Brand Strategy Development
-              </li>
-              <li>Digital Marketing Strategy</li>
-              <li>Campaign Optimization</li>
-            </ul>
-            <a href="consulting.php" class=" mt-3"> Read More</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 <!-- --------------- End services ----------- -->
 <!--  End service details -->
 

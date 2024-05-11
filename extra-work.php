@@ -580,6 +580,183 @@
   </div>
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- slide Services -->
+<!--  container3 -->
+<div class="container-fluid source" style="font-family: 'Livvic', sans-serif;">
+  <div class="container source1">
+    <div class="row text-center text-drak mt-5">
+      <div class="col-12 mt-5 ser-title">
+        <h1>Our Services</h1>
+        <!-- <p class="display-5 fw-bold">Our Service</p> -->
+        <!-- <p class="lead text-center ">Custom Software
+          Development concept to
+          execution, we build tailored software <br>solutions that perfectly match your business requirements.
+        </p> -->
+      </div>
+    </div>
+  </div>
+  <div class="container ">
+    <div class="row  my-3 g-4 ">
+      <div class="col-12 col-lg-4 col-md-6  ">
+        <div class="card ">
+          <div class="card-bodys">
+            <img src="assets/img/icon/dm01.png" alt="" />
+            <h2>Digital-Marketing</h2>
+            <ul class="mb-5">
+
+              <li><span></span>Search Engine Optimization (SEO)</li>
+              <li><span></span>
+                Search Engine Marketing (SEM)
+              </li>
+              <li><span></span>
+                Social Media Marketing (SMM)
+              </li>
+              <li><span></span>Email Marketing</li>
+              <li> <span></span>Pay-Per-Click (PPC) Advertising</li>
+            </ul>
+            <a href="digital-marketing.php" class="mt-5"> Read More</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-12  col-lg-4 col-md-6   ">
+        <div class="card g-0">
+          <div class="card-bodys">
+            <img src="assets/img/icon/cc.png" alt="" />
+            <h2>Content Creation</h2>
+            <ul class="mb-5">
+              <li><span></span>Engaging Copywriting</li>
+              <li><span></span>
+                Compelling Video Production
+              </li>
+              <li><span></span>
+                Stunning Photography
+              </li>
+              <li><span></span>
+                Blog and Article Writing</li>
+              <li><span></span>Social Media Content Creation</li>
+
+            </ul>
+            <a href="content-creation.php" class=" mt-3
+              "> Read More</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-4 col-md-6 ">
+        <div class=" card g-0">
+          <div class="col-12 card-bodys ">
+            <img src="assets/img/icon/gp.png" alt="" />
+            <h2>Graphic Designing
+            </h2>
+            <ul class="mb-5">
+              <li><span></span>Logo Design and Branding</li>
+              <li><span></span>
+                Brochure and Flyer Design
+              </li>
+              <li><span></span>
+                Poster and Banner Design
+              </li>
+              <li>
+                <span></span>Infographics
+              </li>
+              <li>
+                <span></span>Packaging Design
+              </li>
+            </ul>
+            <a href="graphic-design.php" class="mt-3 "> Read More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-lg-4 col-md-6  ">
+        <div class="card g-0">
+          <div class="card-bodys">
+            <img src="assets/img/icon/web.png" alt="" />
+            <h2>Web Development</h2>
+            <ul class="mb-5">
+              <li><span></span>Custom Website Design and Development</li>
+              <li><span></span>
+                E-commerce Solutions
+              </li>
+              <li><span></span>
+                Mobile-Friendly Responsive Design
+              </li>
+              <li><span></span>Website Maintenance and Support</li>
+
+            </ul>
+            <a href="web-development.php" class=" mt-3"> Read More</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-4 col-md-6   ">
+        <div class="card g-0">
+          <div class="card-bodys">
+            <img src="assets/img/icon/brand.png" alt="" />
+            <h2>Brand Identity</h2>
+            <ul class="mb-5">
+              <li>
+                <span></span>Brand Guidelines Development
+              </li>
+              <li>
+                <span></span>Brand Positioning and Messaging
+              </li>
+              <li><span></span>
+                Brand Identity Consultation
+              </li><span></span>
+              <li><span></span>Brand Collateral Design</li>
+              <li><span></span>Brand Recognition</li>
+
+            </ul>
+            <a href="brand-identity.php" class="mt-3
+              "> Read More</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-4 col-md-6   ">
+        <div class="card g-none">
+          <div class="card-bodys">
+            <img src="assets/img/icon/comm.png" alt="" />
+            <h2>Consulting</h2>
+            <ul class="mb-5">
+              <li> <span></span>Strategic Planning</li>
+              <li>
+                <span></span> Market Analysis and Research
+              </li>
+              <li>
+                <span></span> Brand Strategy Development
+              </li>
+              <li><span></span>Digital Marketing Strategy</li>
+              <li><span></span>Campaign Optimization</li>
+            </ul>
+            <a href="consulting.php" class=" mt-3"> Read More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+<!--  container3 -->
+
+
+
+
+
+
 <!-- --------------- start Footer ----------- -->
 <?php include('footer.php'); ?>
 </body>
