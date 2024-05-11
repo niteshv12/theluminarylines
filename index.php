@@ -1203,52 +1203,46 @@
     <!-- <div class="col-md-2 d-lg-block d-none" style="background-color: #333; width:30px;"></div> -->
     <div class="col-lg-8 col-12">
       <div class="contac-form ">
-        <form class="row g-3 needs-validation" novalidate>
+        <form class="row g-3 needs-validation" method="post" action="process_form.php" novalidate>
           <div class="col-md-6">
             <label for="validationCustom01" class="form-label">Name</label>
-            <input type="text" class="form-control" id="validationCustom01" value="" required>
-
+            <input type="text" class="form-control" id="first_name" name="first_name" value="" required>
           </div>
           <div class="col-md-6">
             <label for="validationCustomUsername" class="form-label">Email</label>
             <div class="input-group has-validation">
               <!-- <span class="input-group-text" id="inputGroupPrepend">@</span> -->
-              <input type="text" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" required>
+              <input type="text" class="form-control" id="email" name="email" aria-describedby="inputGroupPrepend" required>
 
             </div>
           </div>
 
           <div class="col-md-6">
             <label for="validationCustom03" class="form-label">Company Name </label>
-            <input type="text" class="form-control" id="validationCustom03" required>
+            <input type="text" class="form-control" id="company_name" name="company_name" required>
 
           </div>
           <div class="col-md-6">
             <label for="validationCustom04" class="form-label">Project Type</label>
-            <select class="form-select" id="validationCustom04" required>
+            <select class="form-select" id="project_type" name="project_type" required>
               <option selected disabled value="">Select The Option</option>
-              <option>Digital Marketing</option>
-              <option>Content-Creation</option>
-              <option>Website Development</option>
-              <option>Graphic Design</option>
-              <option>Brand-Identity</option>
-              <option>Consulting</option>
+              <option value="Digital Marketing">Digital Marketing</option>
+              <option value="Content-Creation">Content-Creation</option>
+              <option value="Website Development">Website Development</option>
+              <option value="Graphic Design">Graphic Design</option>
+              <option value="Brand-Identity">Brand-Identity</option>
+              <option value="Consulting">Consulting</option>
             </select>
 
           </div>
           <div class="col-md-12 height=200px">
             <label for="validationCustom03" class="form-label">Additional Comments</label>
-            <input type="text" class="form-control" id="validationCustom03" required>
+            <input type="text" class="form-control" id="comments" name="comments" required>
 
           </div>
-          <!-- <div class="col-md-3">
-            <label for="validationCustom05" class="form-label">Zip</label>
-            <input type="text" class="form-control" id="validationCustom05" required>
-
-          </div> -->
           <div class="col-12">
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
+              <input class="form-check-input" type="checkbox" value="1" name="value" id="value" required>
               <label class="form-check-label" for="invalidCheck">
                 Agree to terms and conditions
               </label>
